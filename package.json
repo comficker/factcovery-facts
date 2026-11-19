@@ -1,6 +1,6 @@
 {
   "name": "factcovery-facts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "500+ short, sourced fun facts (JSON/CSV) with a tiny JS API, CLI and MCP server. Random fact, fact of the day, facts by topic.",
   "mcpName": "io.github.comficker/factcovery-facts",
   "type": "module",
