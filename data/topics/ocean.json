@@ -1,0 +1,423 @@
+{
+ "topic": "ocean",
+ "name": "Ocean",
+ "count": 20,
+ "factcovery": "https://www.factcovery.com/topics/ocean",
+ "facts": [
+  {
+   "id": "bermuda-hosts-the-northernmost-coral-reef-system-in-the-atlantic-ocean",
+   "title": "Bermuda Has the Northernmost Coral Reef System in the Atlantic",
+   "summary": "Bermuda has the northernmost coral reef system in the Atlantic Ocean, at about 32.4°N, far north of where reef-building corals usually grow.",
+   "topics": [
+    "bermuda",
+    "nature",
+    "ocean",
+    "biology",
+    "coral-reefs",
+    "marine-life",
+    "atlantic-ocean",
+    "gulf-stream",
+    "ecosystem",
+    "oceanography"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Coral_reef",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bermuda-hosts-the-northernmost-coral-reef-system-in-the-atlantic-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bermuda-is-dubbed-the-shipwreck-capital-of-the-atlantic-with-over-300-wrecks",
+   "title": "Bermuda Is Called the Shipwreck Capital of the Atlantic, With Over 300 Wrecks",
+   "summary": "Bermuda is known as the shipwreck capital of the Atlantic: more than 300 sunken ships, dating from the 1600s to 1997, lie in the waters around the island.",
+   "topics": [
+    "bermuda",
+    "history",
+    "ocean",
+    "travel",
+    "shipwrecks",
+    "wreck-diving",
+    "maritime-history",
+    "coral-reefs",
+    "atlantic-ocean",
+    "archaeology"
+   ],
+   "source": "https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks",
+   "source_domain": "gotobermuda.com",
+   "factcovery": "https://www.factcovery.com/facts/bermuda-is-dubbed-the-shipwreck-capital-of-the-atlantic-with-over-300-wrecks",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bvis-reefs-are-home-to-over-300-fish-species",
+   "title": "The British Virgin Islands' Waters Hold Nearly 480 Recorded Marine Fish Species",
+   "summary": "FishBase, the global fish database, lists 477 marine fish species in 103 families for the British Virgin Islands, so the popular figure of \"over 300\" understates what has actually been recorded.",
+   "topics": [
+    "british-virgin-islands",
+    "ocean",
+    "biology",
+    "nature",
+    "coral-reefs",
+    "marine-life",
+    "fish-species",
+    "biodiversity",
+    "snorkeling",
+    "diving"
+   ],
+   "source": "https://www.fishbase.de/country/CountryInfo_Biodiversity.php?c_code=092",
+   "source_domain": "fishbase.de",
+   "factcovery": "https://www.factcovery.com/facts/bvis-reefs-are-home-to-over-300-fish-species",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "clownfish-can-change-their-sex-from-male-to-female",
+   "title": "Clownfish Can Change Their Sex From Male to Female",
+   "summary": "Clownfish are protandrous hermaphrodites: a breeding male can turn into a female, but a female never turns back into a male.",
+   "topics": [
+    "unusual",
+    "biology",
+    "animals",
+    "ocean",
+    "weird",
+    "clownfish",
+    "sex-change",
+    "marine-biology",
+    "protandrous-hermaphrodite",
+    "fish",
+    "marine-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clownfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/clownfish-can-change-their-sex-from-male-to-female",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "fiji-is-the-worlds-soft-coral-capital",
+   "title": "Fiji Is Known as the Soft Coral Capital of the World",
+   "summary": "Fiji is widely billed as the soft coral capital of the world, a title its reefs earn with walls and pinnacles draped in brightly coloured soft corals.",
+   "topics": [
+    "fiji",
+    "nature",
+    "ocean"
+   ],
+   "source": "https://www.divessi.com/en/blog/diving-fiji-5534.html",
+   "source_domain": "divessi.com",
+   "factcovery": "https://www.factcovery.com/facts/fiji-is-the-worlds-soft-coral-capital",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "grand-cayman-has-a-rare-bioluminescent-bay",
+   "title": "Grand Cayman Has a Rare Bioluminescent Bay Near Rum Point",
+   "summary": "A bay in Grand Cayman's North Side district, near Rum Point, glows at night because its water is packed with bioluminescent dinoflagellates.",
+   "topics": [
+    "cayman-islands",
+    "ocean",
+    "nature",
+    "biology",
+    "weird",
+    "bioluminescent-bay",
+    "dinoflagellates",
+    "grand-cayman",
+    "marine-phenomena",
+    "natural-wonder"
+   ],
+   "source": "https://archive.caymannewsservice.com/?p=13338",
+   "source_domain": "archive.caymannewsservice.com",
+   "factcovery": "https://www.factcovery.com/facts/grand-cayman-has-a-rare-bioluminescent-bay",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "greenland-sharks-can-live-for-over-500-years-making-them-the-longest-lived-vertebrates",
+   "title": "Greenland Sharks May Live for Centuries, Longer Than Any Other Known Vertebrate",
+   "summary": "The Greenland shark is the longest-lived vertebrate known, with a lifespan estimated at between 272 and about 510 years.",
+   "topics": [
+    "biology",
+    "animals",
+    "ocean",
+    "records",
+    "weird",
+    "greenland-shark",
+    "lifespan",
+    "vertebrates",
+    "marine-biology",
+    "arctic",
+    "longevity",
+    "marine-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Greenland_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/greenland-sharks-can-live-for-over-500-years-making-them-the-longest-lived-vertebrates",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "its-marine-environment-boasts-unexpectedly-high-biodiversity",
+   "title": "The Remote Cocos (Keeling) Islands Have Surprisingly Rich Marine Life",
+   "summary": "The reefs of the Cocos (Keeling) Islands in the Indian Ocean support a surprisingly rich mix of marine life for such a small, remote place.",
+   "topics": [
+    "cocos-islands",
+    "ocean",
+    "biology",
+    "nature",
+    "marine-life",
+    "coral-reefs",
+    "biodiversity-hotspot",
+    "sea-turtles",
+    "underwater-photography"
+   ],
+   "source": "https://pulukeelingnationalpark.gov.au/discover/nature/animals/marine-life/",
+   "source_domain": "pulukeelingnationalpark.gov.au",
+   "factcovery": "https://www.factcovery.com/facts/its-marine-environment-boasts-unexpectedly-high-biodiversity",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "oceans-produce-over-half-of-earths-oxygen",
+   "title": "The Ocean Produces About Half of Earth's Oxygen",
+   "summary": "Roughly half of the oxygen produced on Earth comes from the ocean, mostly from plankton: drifting plants, algae and some photosynthetic bacteria too small to see with the naked eye.",
+   "topics": [
+    "earth",
+    "biology",
+    "ocean",
+    "ecology",
+    "oxygen",
+    "phytoplankton",
+    "photosynthesis",
+    "marine-life",
+    "atmosphere"
+   ],
+   "source": "https://oceanservice.noaa.gov/facts/ocean-oxygen.html",
+   "source_domain": "oceanservice.noaa.gov",
+   "factcovery": "https://www.factcovery.com/facts/oceans-produce-over-half-of-earths-oxygen",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "one-of-the-worlds-most-plastic-polluted-beaches-is-found-on-cocos",
+   "title": "The Remote Cocos (Keeling) Islands Hold an Estimated 414 Million Pieces of Plastic",
+   "summary": "The beaches of the remote Cocos (Keeling) Islands in the Indian Ocean are littered with an estimated 414 million pieces of plastic weighing about 238 tonnes.",
+   "topics": [
+    "cocos-islands",
+    "environment",
+    "ocean",
+    "weird",
+    "plastic-pollution",
+    "marine-debris",
+    "environmental-impact",
+    "beach-cleanup",
+    "ocean-conservation"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2019/05/190516090838.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/one-of-the-worlds-most-plastic-polluted-beaches-is-found-on-cocos",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "over-99-of-earths-habitable-space-resides-in-the-ocean",
+   "title": "The Ocean Makes Up About 99% of the Living Space on Earth",
+   "summary": "Measured by volume, the ocean makes up about 99% of the living space on Earth, according to the United Nations.",
+   "topics": [
+    "earth",
+    "ocean",
+    "biology",
+    "ecology",
+    "habitat",
+    "biodiversity",
+    "marine-life",
+    "deep-sea",
+    "ecosystems",
+    "ecosystem"
+   ],
+   "source": "https://sdgs.un.org/sites/default/files/2025-04/Facts%26Figures_UN%20Ocean%20Conference%202025_EN.pdf",
+   "source_domain": "sdgs.un.org",
+   "factcovery": "https://www.factcovery.com/facts/over-99-of-earths-habitable-space-resides-in-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "stingray-city-allows-visitors-to-swim-with-wild-southern-stingrays",
+   "title": "Stingray City Lets Visitors Stand Among Wild Southern Stingrays",
+   "summary": "Stingray City is a series of shallow sandbars in Grand Cayman's North Sound where visitors can stand in about 3 feet (1 metre) of water surrounded by wild southern stingrays.",
+   "topics": [
+    "cayman-islands",
+    "ocean",
+    "animals",
+    "tourism",
+    "fun",
+    "stingray-city",
+    "southern-stingray",
+    "marine-life",
+    "snorkeling",
+    "grand-cayman"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Stingray_City",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/stingray-city-allows-visitors-to-swim-with-wild-southern-stingrays",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-bahamas-is-home-to-the-worlds-deepest-blue-hole",
+   "title": "Dean's Blue Hole in the Bahamas Plunges 202 Meters Deep",
+   "summary": "Dean's Blue Hole, in a bay west of Clarence Town on Long Island in the Bahamas, drops to a depth of 202 meters (663 feet).",
+   "topics": [
+    "the-bahamas",
+    "geography",
+    "ocean",
+    "nature",
+    "weird",
+    "blue-hole",
+    "deans-blue-hole",
+    "long-island",
+    "freediving",
+    "underwater-cave",
+    "geology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Dean%27s_Blue_Hole",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-bahamas-is-home-to-the-worlds-deepest-blue-hole",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-cayman-islands-are-actively-battling-a-lionfish-invasion",
+   "title": "The Cayman Islands Have Been Fighting a Lionfish Invasion Since 2008",
+   "summary": "The Cayman Islands have been fighting an invasion of lionfish, a venomous predator from the Indo-Pacific, since the first one turned up in local waters in 2008.",
+   "topics": [
+    "cayman-islands",
+    "ocean",
+    "conservation",
+    "biology",
+    "weird",
+    "lionfish",
+    "invasive-species",
+    "marine-conservation",
+    "ecosystem",
+    "scuba-diving"
+   ],
+   "source": "https://icriforum.org/wp-content/uploads/2019/12/Cayman.pdf",
+   "source_domain": "icriforum.org",
+   "factcovery": "https://www.factcovery.com/facts/the-cayman-islands-are-actively-battling-a-lionfish-invasion",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-cayman-islands-are-home-to-over-365-documented-shipwrecks",
+   "title": "The Cayman Islands Have About 140 Recorded Shipwreck and Maritime Sites",
+   "summary": "The Cayman Islands National Museum has recorded 140 maritime sites, shipwrecks among them, across Grand Cayman, Cayman Brac and Little Cayman.",
+   "topics": [
+    "cayman-islands",
+    "history",
+    "ocean",
+    "tourism",
+    "weird",
+    "shipwrecks",
+    "wreck-diving",
+    "marine-archaeology",
+    "artificial-reef",
+    "scuba-diving"
+   ],
+   "source": "https://parliament.ky/wp-content/uploads/2023/12/Cayman-Islands-National-Museum-2022-Annual-Report.pdf",
+   "source_domain": "parliament.ky",
+   "factcovery": "https://www.factcovery.com/facts/the-cayman-islands-are-home-to-over-365-documented-shipwrecks",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-deepest-ocean-trenches-are-near-freezing-temperatures",
+   "title": "The Bottom of the Mariana Trench Is Just Above Freezing",
+   "summary": "At the bottom of the Mariana Trench, nearly 11 kilometers down, the water stays at about 1 to 4 °C (34 to 39 °F), just a few degrees above the freezing point of fresh water.",
+   "topics": [
+    "cool",
+    "ocean",
+    "geography",
+    "biology",
+    "deep-sea",
+    "ocean-trench",
+    "mariana-trench",
+    "cold-water",
+    "marine-life",
+    "oceanography"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mariana_Trench",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-deepest-ocean-trenches-are-near-freezing-temperatures",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-deepest-point-on-earth-is-deeper-than-mount-everest-is-tall",
+   "title": "The Deepest Point in the Ocean Is Deeper Than Mount Everest Is Tall",
+   "summary": "The Challenger Deep, at the southern end of the Mariana Trench in the western Pacific, is about 10,935 meters (35,876 feet) deep, the deepest known point in the ocean.",
+   "topics": [
+    "earth",
+    "ocean",
+    "geography",
+    "extreme-environments",
+    "mariana-trench",
+    "challenger-deep",
+    "ocean-depth",
+    "mount-everest",
+    "deep-sea",
+    "marine-geology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mariana_Trench",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-deepest-point-on-earth-is-deeper-than-mount-everest-is-tall",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-islands-are-formed-entirely-from-coral-not-volcanic-rock",
+   "title": "The Cocos (Keeling) Islands Are Built From Coral, Not Volcanic Rock",
+   "summary": "The low islands of the Cocos (Keeling) Islands are made of coral material rather than volcanic rock: sandy reef islands sitting on a platform of cemented coral boulders and other skeletal debris.",
+   "topics": [
+    "cocos-islands",
+    "geology",
+    "ocean",
+    "nature",
+    "coral-atoll",
+    "geological-formation",
+    "coral-reef",
+    "oceanography",
+    "island-geography",
+    "coral-reefs"
+   ],
+   "source": "https://serc.carleton.edu/36191",
+   "source_domain": "serc.carleton.edu",
+   "factcovery": "https://www.factcovery.com/facts/the-islands-are-formed-entirely-from-coral-not-volcanic-rock",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-rms-rhone-is-a-world-famous-dive-site-in-the-bvi",
+   "title": "The RMS Rhone Is a Famous Wreck Dive in the British Virgin Islands",
+   "summary": "The RMS Rhone, a Royal Mail steamship wrecked off Salt Island in the British Virgin Islands on 29 October 1867, is one of the territory's best-known dive sites.",
+   "topics": [
+    "british-virgin-islands",
+    "history",
+    "ocean",
+    "tourism",
+    "rms-rhone",
+    "shipwreck",
+    "diving",
+    "marine-park",
+    "salt-island",
+    "underwater-archaeology",
+    "shipwrecks"
+   ],
+   "source": "https://en.wikipedia.org/wiki/RMS_Rhone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-rms-rhone-is-a-world-famous-dive-site-in-the-bvi",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-tallest-waterfall-on-earth-is-actually-underwater",
+   "title": "The Tallest Waterfall on Earth Is Hidden Beneath the Ocean",
+   "summary": "The world's largest known waterfall is underwater, beneath the Denmark Strait between Greenland and Iceland.",
+   "topics": [
+    "earth",
+    "ocean",
+    "geography",
+    "weird",
+    "underwater-waterfall",
+    "denmark-strait",
+    "ocean-currents",
+    "greenland",
+    "iceland",
+    "marine-geology"
+   ],
+   "source": "https://oceanservice.noaa.gov/facts/largest-waterfall.html",
+   "source_domain": "oceanservice.noaa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-tallest-waterfall-on-earth-is-actually-underwater",
+   "updated": "2026-11-17"
+  }
+ ]
+}

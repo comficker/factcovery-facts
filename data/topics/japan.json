@@ -1,0 +1,322 @@
+{
+ "topic": "japan",
+ "name": "Japan",
+ "count": 16,
+ "factcovery": "https://www.factcovery.com/topics/japan",
+ "facts": [
+  {
+   "id": "bowing-is-a-complex-and-essential-part-of-japanese-etiquette",
+   "title": "Bowing Is a Complex and Essential Part of Japanese Etiquette",
+   "summary": "Bowing, or ojigi, is a central part of Japanese etiquette, and how deeply and how long a person bows signals how much respect they are showing.",
+   "topics": [
+    "japanese",
+    "culture",
+    "etiquette",
+    "society",
+    "bowing",
+    "japanese-culture",
+    "social-norms",
+    "respect",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bowing_in_Japan",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bowing-is-a-complex-and-essential-part-of-japanese-etiquette",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cherry-blossoms-symbolize-the-fleeting-nature-of-life-in-japan",
+   "title": "Cherry Blossoms Symbolize the Fleeting Nature of Life in Japan",
+   "summary": "In Japan, cherry blossoms are a symbol of life's brevity: the flowers burst open, then fall within days.",
+   "topics": [
+    "japanese",
+    "nature",
+    "culture",
+    "symbolism",
+    "cherry-blossoms",
+    "sakura",
+    "hanami",
+    "japanese-culture",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cherry_blossom",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cherry-blossoms-symbolize-the-fleeting-nature-of-life-in-japan",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "godzilla-was-created-as-a-metaphor-for-nuclear-weapons",
+   "title": "Godzilla Was Created as a Metaphor for Nuclear Weapons",
+   "summary": "Godzilla, who first appeared in Toho's 1954 film Godzilla, was conceived as a metaphor for nuclear weapons.",
+   "topics": [
+    "japanese",
+    "film",
+    "history",
+    "culture",
+    "godzilla",
+    "monster",
+    "nuclear-weapons",
+    "japanese-cinema",
+    "pop-culture",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Godzilla",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/godzilla-was-created-as-a-metaphor-for-nuclear-weapons",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "japan-boasts-over-27000-natural-hot-springs",
+   "title": "Japan Has About 25,000 Natural Hot Spring Sources",
+   "summary": "Japan has approximately 25,000 hot spring sources, and about 3,000 onsen establishments use naturally hot spring water.",
+   "topics": [
+    "japanese",
+    "nature",
+    "culture",
+    "travel",
+    "onsen",
+    "hot-springs",
+    "geothermal",
+    "relaxation",
+    "japanese-culture",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Onsen",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/japan-boasts-over-27000-natural-hot-springs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "japan-experiences-about-1500-earthquakes-every-year",
+   "title": "Japan Feels More Than 2,000 Earthquakes a Year",
+   "summary": "People in Japan feel more than 2,000 earthquakes in a typical year, and instruments detect far more.",
+   "topics": [
+    "japan",
+    "natural-disasters",
+    "geology"
+   ],
+   "source": "https://www.data.jma.go.jp/eqev/data/bulletin/catalog/table1/2023_e.html",
+   "source_domain": "data.jma.go.jp",
+   "factcovery": "https://www.factcovery.com/facts/japan-experiences-about-1500-earthquakes-every-year",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "japan-is-an-archipelago-of-6852-islands",
+   "title": "Japan Has 14,125 Islands, More Than Double the Count Long Cited",
+   "summary": "Japan is made up of 14,125 islands, according to a recount published by the Geospatial Information Authority of Japan in 2023.",
+   "topics": [
+    "japan",
+    "geography"
+   ],
+   "source": "https://www.nippon.com/en/japan-data/h01615",
+   "source_domain": "nippon.com",
+   "factcovery": "https://www.factcovery.com/facts/japan-is-an-archipelago-of-6852-islands",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "japan-offers-over-300-unique-kit-kat-flavors",
+   "title": "Japan Has Seen Over 300 Unique Kit Kat Flavors",
+   "summary": "Nestlé has released more than 300 limited-edition Kit Kat flavors in Japan since the early 2000s, many of them seasonal or sold only in particular regions.",
+   "topics": [
+    "japanese",
+    "food",
+    "culture",
+    "fun",
+    "kit-kat",
+    "chocolate",
+    "snacks",
+    "japanese-food",
+    "flavors",
+    "pop-culture",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Kit_Kats_in_Japan",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/japan-offers-over-300-unique-kit-kat-flavors",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "japanese-convenience-stores-offer-gourmet-meals-and-services",
+   "title": "Japanese Convenience Stores Offer Fresh Meals and Everyday Services",
+   "summary": "Japan's convenience stores, known as konbini, sell fresh food but also work as small service centres for everyday errands.",
+   "topics": [
+    "japanese",
+    "culture",
+    "society",
+    "food",
+    "convenience-store",
+    "konbini",
+    "daily-life",
+    "japanese-culture",
+    "services",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Convenience_store",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/japanese-convenience-stores-offer-gourmet-meals-and-services",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "karaoke-was-invented-in-japan-in-the-early-1970s",
+   "title": "Karaoke Was Invented in Japan Around 1970",
+   "summary": "Karaoke was born in Japan around the turn of the 1970s, and its name combines kara, meaning 'empty', with a shortened form of ōkesutora, 'orchestra'.",
+   "topics": [
+    "japanese",
+    "culture",
+    "entertainment",
+    "fun",
+    "karaoke",
+    "music",
+    "japanese-invention",
+    "pop-culture",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Karaoke",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/karaoke-was-invented-in-japan-in-the-early-1970s",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "kendo-is-a-modern-japanese-martial-art-based-on-samurai-swordsmanship",
+   "title": "Kendo Is a Modern Japanese Martial Art Based on Samurai Swordsmanship",
+   "summary": "Kendo, meaning 'the way of the sword', is a modern Japanese martial art descended from kenjutsu, the swordsmanship of the samurai.",
+   "topics": [
+    "japanese",
+    "martial-arts",
+    "culture",
+    "history",
+    "kendo",
+    "samurai",
+    "swordsmanship",
+    "japanese-culture",
+    "sport",
+    "sports",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Kendo",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/kendo-is-a-modern-japanese-martial-art-based-on-samurai-swordsmanship",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "mount-fuji-is-privately-owned",
+   "title": "The Summit of Mount Fuji Belongs to a Shinto Shrine",
+   "summary": "The top of Mount Fuji, Japan's highest peak, is the property of a Shinto shrine.",
+   "topics": [
+    "japan",
+    "geography",
+    "culture"
+   ],
+   "source": "https://www.nippon.com/en/guide-to-japan/gu009003/",
+   "source_domain": "nippon.com",
+   "factcovery": "https://www.factcovery.com/facts/mount-fuji-is-privately-owned",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-waving-lucky-cat-figurine-is-japanese",
+   "title": "The 'Lucky Cat' Figurine Is Japanese, and It Is Beckoning, Not Waving",
+   "summary": "The popular lucky cat figurine is the Japanese maneki-neko, whose name means 'beckoning cat', and its raised paw is beckoning rather than waving.",
+   "topics": [
+    "japanese",
+    "culture",
+    "folklore",
+    "fun",
+    "maneki-neko",
+    "lucky-cat",
+    "superstition",
+    "japanese-culture",
+    "symbolism",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Maneki-neko",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-waving-lucky-cat-figurine-is-japanese",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tipping-is-considered-rude-or-confusing-in-japan",
+   "title": "Tipping Is Not Customary in Japan and Can Come Across as Rude",
+   "summary": "Tipping is not customary in Japan, and in many situations offering extra money can be considered rude or even insulting.",
+   "topics": [
+    "japanese",
+    "culture",
+    "etiquette",
+    "weird",
+    "tipping",
+    "japanese-culture",
+    "social-norms",
+    "hospitality",
+    "japan"
+   ],
+   "source": "https://www.insidejapantours.com/blog/2013/09/22/do-you-tip-in-japan-japanese-tipping-etiquette/",
+   "source_domain": "insidejapantours.com",
+   "factcovery": "https://www.factcovery.com/facts/tipping-is-considered-rude-or-confusing-in-japan",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tokyo-hosts-unique-robot-themed-entertainment-restaurants",
+   "title": "Tokyo's Robot Restaurant Turned Dinner Into a Neon Robot Show",
+   "summary": "Tokyo's Robot Restaurant, in the Kabukichō nightlife district of Shinjuku, served dinner alongside a loud, neon-lit stage show starring robots and dancers.",
+   "topics": [
+    "japanese",
+    "technology",
+    "entertainment",
+    "fun",
+    "robot-restaurant",
+    "tokyo",
+    "robotics",
+    "japanese-culture",
+    "tourism",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robot_Restaurant",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/tokyo-hosts-unique-robot-themed-entertainment-restaurants",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tokyo-once-hosted-the-worlds-largest-fish-market",
+   "title": "Tokyo Once Hosted the World's Largest Fish Market",
+   "summary": "Until 2018, Tokyo's Tsukiji market was the largest wholesale fish and seafood market in the world.",
+   "topics": [
+    "japanese",
+    "food",
+    "economy",
+    "history",
+    "tsukiji-market",
+    "fish-market",
+    "seafood",
+    "tokyo",
+    "food-culture",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Tsukiji_fish_market",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/tokyo-once-hosted-the-worlds-largest-fish-market",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "yakuza-members-often-have-elaborate-full-body-tattoos",
+   "title": "Many Yakuza Members Have Elaborate Full-Body Tattoos",
+   "summary": "Many yakuza members wear elaborate full-body tattoos in the traditional Japanese style known as irezumi.",
+   "topics": [
+    "japanese",
+    "culture",
+    "society",
+    "crime",
+    "weird",
+    "yakuza",
+    "irezumi",
+    "tattoos",
+    "japanese-culture",
+    "organized-crime",
+    "symbolism",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Irezumi",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/yakuza-members-often-have-elaborate-full-body-tattoos",
+   "updated": "2026-11-17"
+  }
+ ]
+}

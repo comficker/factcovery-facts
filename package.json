@@ -1,0 +1,68 @@
+{
+  "name": "factcovery-facts",
+  "version": "0.1.0",
+  "description": "500+ short, sourced fun facts (JSON/CSV) with a tiny JS API, CLI and MCP server. Random fact, fact of the day, facts by topic.",
+  "mcpName": "io.github.comficker/factcovery-facts",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./data/facts.json": "./data/facts.json",
+    "./data/index.json": "./data/index.json",
+    "./data/*": "./data/*"
+  },
+  "bin": {
+    "factcovery-facts": "src/cli.js",
+    "factcovery-facts-mcp": "src/mcp.js"
+  },
+  "files": [
+    "src",
+    "data",
+    "README.md",
+    "SOURCES.md",
+    "LICENSE",
+    "LICENSE-DATA",
+    "i18n"
+  ],
+  "scripts": {
+    "build:data": "python3 scripts/build.py",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "facts",
+    "fun-facts",
+    "random-facts",
+    "interesting-facts",
+    "trivia",
+    "fact-of-the-day",
+    "did-you-know",
+    "dataset",
+    "json",
+    "csv",
+    "mcp",
+    "mcp-server",
+    "education",
+    "quiz"
+  ],
+  "homepage": "https://www.factcovery.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comficker/factcovery-facts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/comficker/factcovery-facts/issues"
+  },
+  "author": "Factcovery (https://www.factcovery.com)",
+  "license": "MIT AND CC-BY-4.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.24.0"
+  }
+}

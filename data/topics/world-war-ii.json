@@ -1,0 +1,120 @@
+{
+ "topic": "world-war-ii",
+ "name": "World War Ii",
+ "count": 8,
+ "factcovery": "https://www.factcovery.com/topics/world-war-ii",
+ "facts": [
+  {
+   "id": "british-food-rationing-began-in-1940-and-did-not-fully-end-until-1954",
+   "title": "British Food Rationing Began in 1940 and Did Not Fully End Until 1954",
+   "summary": "Food rationing in Britain started on 8 January 1940 and outlasted the war by nine years.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://blog.sciencemuseum.org.uk/an-unwelcome-post-christmas-diet/",
+   "source_domain": "blog.sciencemuseum.org.uk",
+   "factcovery": "https://www.factcovery.com/facts/british-food-rationing-began-in-1940-and-did-not-fully-end-until-1954",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "leningrads-bread-ration-fell-to-125-grams-a-day-during-the-siege",
+   "title": "Leningrad's Bread Ration Fell to 125 Grams a Day During the Siege",
+   "summary": "During the siege of Leningrad, the bread ration for children, the elderly and the unemployed fell to 125 grams a day by November 1941.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://www.history.com/articles/the-siege-of-leningrad",
+   "source_domain": "history.com",
+   "factcovery": "https://www.factcovery.com/facts/leningrads-bread-ration-fell-to-125-grams-a-day-during-the-siege",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "navajo-code-talkers-sent-more-than-800-error-free-messages-at-iwo-jima",
+   "title": "Navajo Code Talkers Sent More Than 800 Error-Free Messages at Iwo Jima",
+   "summary": "During World War II, about 400 Navajo men served in the US Marine Corps as Code Talkers, passing battlefield messages in a code built on their own language.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://www.cia.gov/stories/story/navajo-code-talkers-and-the-unbreakable-code/",
+   "source_domain": "cia.gov",
+   "factcovery": "https://www.factcovery.com/facts/navajo-code-talkers-sent-more-than-800-error-free-messages-at-iwo-jima",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-attack-on-pearl-harbor-killed-2403-americans-on-december-7-1941",
+   "title": "The Attack on Pearl Harbor Killed 2,403 Americans on December 7, 1941",
+   "summary": "Just before 8 a.m.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://www.archives.gov/publications/prologue/2016/winter/pearl-harbor",
+   "source_domain": "archives.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-attack-on-pearl-harbor-killed-2403-americans-on-december-7-1941",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-dunkirk-evacuation-rescued-338226-troops-when-planners-hoped-for-45000",
+   "title": "The Dunkirk Evacuation Rescued 338,226 Troops When Planners Hoped for 45,000",
+   "summary": "Between 27 May and 4 June 1940, Operation Dynamo evacuated 338,226 Allied soldiers from Dunkirk in northern France as German forces closed in.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://www.historyofwar.org/articles/operation_dynamo.html",
+   "source_domain": "historyofwar.org",
+   "factcovery": "https://www.factcovery.com/facts/the-dunkirk-evacuation-rescued-338226-troops-when-planners-hoped-for-45000",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-kindertransport-carried-about-10000-children-to-safety-without-their-parents",
+   "title": "The Kindertransport Carried About 10,000 Children to Safety Without Their Parents",
+   "summary": "In the months before World War II, about 10,000 children, most of them Jewish, were brought to safety in Britain from Germany, Austria, Czechoslovakia and Poland through the rescue effort known as the Kindertransport.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://kindertransport.org/history/",
+   "source_domain": "kindertransport.org",
+   "factcovery": "https://www.factcovery.com/facts/the-kindertransport-carried-about-10000-children-to-safety-without-their-parents",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-name-united-nations-first-appeared-in-a-wartime-declaration-in-1942",
+   "title": "The Name United Nations First Appeared in a Wartime Declaration in 1942",
+   "summary": "The name \"United Nations\" was born during World War II, before the organization itself existed.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://legal.un.org/avl/ha/cun/cun.html",
+   "source_domain": "legal.un.org",
+   "factcovery": "https://www.factcovery.com/facts/the-name-united-nations-first-appeared-in-a-wartime-declaration-in-1942",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-us-ghost-army-fooled-german-forces-with-inflatable-tanks-and-fake-radio-traffic",
+   "title": "The US Ghost Army Fooled German Forces With Inflatable Tanks and Fake Radio Traffic",
+   "summary": "One American unit in World War II fought with deception instead of firepower.",
+   "topics": [
+    "world-war-ii",
+    "history",
+    "weird"
+   ],
+   "source": "https://www.militarytimes.com/news/your-army/2024/03/21/ghost-army-masters-of-wwii-deception-awarded-congressional-gold-medal/",
+   "source_domain": "militarytimes.com",
+   "factcovery": "https://www.factcovery.com/facts/the-us-ghost-army-fooled-german-forces-with-inflatable-tanks-and-fake-radio-traffic",
+   "updated": "2026-11-17"
+  }
+ ]
+}

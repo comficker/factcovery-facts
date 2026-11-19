@@ -1,0 +1,258 @@
+{
+ "topic": "festivals",
+ "name": "Festivals",
+ "count": 12,
+ "factcovery": "https://www.factcovery.com/topics/festivals",
+ "facts": [
+  {
+   "id": "africas-largest-film-festival-calls-ouagadougou-home",
+   "title": "Africa's Largest Film Festival Calls Ouagadougou Home",
+   "summary": "The Panafrican Film and Television Festival of Ouagadougou, known as FESPACO, is widely described as Africa's largest film festival, and it is held in the capital of Burkina Faso.",
+   "topics": [
+    "burkina-faso",
+    "culture",
+    "arts",
+    "festivals",
+    "fespaco",
+    "ouagadougou",
+    "african-cinema",
+    "film-festival",
+    "art"
+   ],
+   "source": "https://en.wikipedia.org/wiki/FESPACO",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/africas-largest-film-festival-calls-ouagadougou-home",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bangladesh-celebrates-pahela-baishakh-the-bengali-new-year-with-immense-joy",
+   "title": "Bangladesh Celebrates Pahela Baishakh, the Bengali New Year, Every 14 April",
+   "summary": "Pahela Baishakh, the first day of the Bengali calendar, is celebrated in Bangladesh every year on 14 April.",
+   "topics": [
+    "bangladesh",
+    "culture",
+    "festivals",
+    "traditions",
+    "fun",
+    "pahela-baishakh",
+    "bengali-new-year",
+    "festival",
+    "tradition",
+    "celebration"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Pahela_Baishakh",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bangladesh-celebrates-pahela-baishakh-the-bengali-new-year-with-immense-joy",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bermuda-is-home-to-the-vibrantly-costumed-gombey-dancers-a-unique-cultural-tradition",
+   "title": "Bermuda Is Home to the Gombey Dancers, a Unique Masquerade Tradition",
+   "summary": "Bermuda's Gombey dancers keep alive a masquerade tradition of dance and drumming that is regarded as an icon of the island.",
+   "topics": [
+    "bermuda",
+    "culture",
+    "arts",
+    "history",
+    "fun",
+    "gombey",
+    "bermuda-culture",
+    "traditional-dance",
+    "african-heritage",
+    "festivals",
+    "costumes",
+    "art"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gombey",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bermuda-is-home-to-the-vibrantly-costumed-gombey-dancers-a-unique-cultural-tradition",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cabo-verde-hosts-vibrant-carnival-celebrations-rivaling-brazils-famous-festivities",
+   "title": "Mindelo's Carnival Gives Cabo Verde a Festival With Strong Brazilian Echoes",
+   "summary": "Cabo Verde's best-known carnival takes place in Mindelo, on São Vicente island, and it carries a strong Brazilian influence.",
+   "topics": [
+    "cabo-verde",
+    "culture",
+    "festivals",
+    "fun",
+    "carnival",
+    "mindelo",
+    "sao-vicente",
+    "brazilian-influence",
+    "cultural-celebration",
+    "parades"
+   ],
+   "source": "https://inforpress.cv/en/article-9080",
+   "source_domain": "inforpress.cv",
+   "factcovery": "https://www.factcovery.com/facts/cabo-verde-hosts-vibrant-carnival-celebrations-rivaling-brazils-famous-festivities",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cambodia-celebrates-a-massive-water-festival-annually",
+   "title": "Cambodia Celebrates a Massive Water Festival Every Year",
+   "summary": "Bon Om Touk, Cambodia's Water Festival, is a three-day celebration held in late October or early November that draws several million people each year.",
+   "topics": [
+    "cambodia",
+    "culture",
+    "festivals",
+    "traditions",
+    "bon-om-touk",
+    "water-festival",
+    "cambodian-culture",
+    "phnom-penh",
+    "boat-race",
+    "celebration"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bon_Om_Touk",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cambodia-celebrates-a-massive-water-festival-annually",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cambodian-new-year-is-celebrated-in-april",
+   "title": "Cambodian New Year Is Celebrated in April",
+   "summary": "Cambodian New Year, known in Khmer as Choul Chnam Thmey, is a three-day public holiday that usually begins on 13 or 14 April.",
+   "topics": [
+    "cambodia",
+    "culture",
+    "festivals",
+    "traditions",
+    "cambodian-new-year",
+    "choul-chnam-thmey",
+    "khmer-culture",
+    "april-festival",
+    "holiday"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cambodian_New_Year",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cambodian-new-year-is-celebrated-in-april",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "fireworks-were-invented-in-china-in-the-7th-century",
+   "title": "Fireworks Were Invented in China, With the Earliest Dating to the Song Dynasty",
+   "summary": "Fireworks were invented in China, and the earliest known ones date from the Song dynasty, which ruled from 960 to 1279.",
+   "topics": [
+    "china",
+    "history",
+    "culture",
+    "inventions",
+    "fun",
+    "fireworks",
+    "chinese-culture",
+    "celebrations",
+    "ancient-china",
+    "festivals",
+    "celebration"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Fireworks",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/fireworks-were-invented-in-china-in-the-7th-century",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "rio-de-janeiro-hosts-the-worlds-largest-carnival-celebration",
+   "title": "Rio de Janeiro's Carnival Holds the Record for the World's Largest Carnival Parade",
+   "summary": "Rio de Janeiro's carnival is recognized by Guinness World Records as the largest single carnival parade in the world.",
+   "topics": [
+    "brazil",
+    "culture",
+    "festivals",
+    "fun",
+    "rio-carnival",
+    "samba",
+    "celebration",
+    "brazilian-culture",
+    "rio-de-janeiro"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carnival_in_Brazil",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/rio-de-janeiro-hosts-the-worlds-largest-carnival-celebration",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sao-vicente-island-is-considered-cabo-verdes-cultural-and-music-festival-capital",
+   "title": "Mindelo on São Vicente Is Cabo Verde's Cultural and Music Festival Capital",
+   "summary": "Mindelo, the main city of São Vicente island, is considered Cabo Verde's cultural capital, and the island's biggest music event is the Baía das Gatas Festival.",
+   "topics": [
+    "cabo-verde",
+    "music",
+    "culture",
+    "festivals",
+    "sao-vicente",
+    "mindelo",
+    "music-festivals",
+    "baia-das-gatas",
+    "cultural-capital",
+    "cabo-verdean-music"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Baía_das_Gatas_Festival",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sao-vicente-island-is-considered-cabo-verdes-cultural-and-music-festival-capital",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-carnival-of-oruro-is-a-unesco-masterpiece-of-the-oral-and-intangible-heritage-of-humanity",
+   "title": "The Carnival of Oruro Is a UNESCO Masterpiece of Intangible Heritage",
+   "summary": "Bolivia's Carnival of Oruro was proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO on 18 May 2001.",
+   "topics": [
+    "bolivia",
+    "culture",
+    "festivals",
+    "art",
+    "fun",
+    "carnival-of-oruro",
+    "unesco",
+    "diablada",
+    "traditional-dance",
+    "festival",
+    "heritage"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carnival_of_Oruro",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-carnival-of-oruro-is-a-unesco-masterpiece-of-the-oral-and-intangible-heritage-of-humanity",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-crop-over-festival-is-barbadoss-largest-and-most-vibrant-cultural-celebration",
+   "title": "Barbados's Crop Over Festival Grew Out of the Sugar Cane Harvest",
+   "summary": "Crop Over, Barbados's best-known festival, is a summer celebration that grew out of festivities marking the end of the sugar cane harvest.",
+   "topics": [
+    "barbados",
+    "culture",
+    "festivals",
+    "fun",
+    "crop-over",
+    "festival",
+    "carnival",
+    "music",
+    "kadooment"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Crop_Over",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-crop-over-festival-is-barbadoss-largest-and-most-vibrant-cultural-celebration",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-nguon-festival-is-a-major-traditional-celebration",
+   "title": "In Cameroon's Nguon Rituals, the Bamoun People Put Their King on Trial",
+   "summary": "Nguon is a series of rituals in which the Bamoun people of Cameroon's West Region publicly review how their monarch, the Mfon, has governed them.",
+   "topics": [
+    "cameroon",
+    "culture",
+    "festivals",
+    "indigenous-peoples",
+    "nguon-festival",
+    "bamoun",
+    "foumban",
+    "traditional-festival"
+   ],
+   "source": "https://ich.unesco.org/en/RL/nguon-rituals-of-governance-and-associated-expressions-in-the-bamoun-community-01955",
+   "source_domain": "ich.unesco.org",
+   "factcovery": "https://www.factcovery.com/facts/the-nguon-festival-is-a-major-traditional-celebration",
+   "updated": "2026-11-17"
+  }
+ ]
+}

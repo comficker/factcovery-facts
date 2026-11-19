@@ -1,0 +1,247 @@
+{
+ "topic": "platypus",
+ "name": "Platypus",
+ "count": 18,
+ "factcovery": "https://www.factcovery.com/topics/platypus",
+ "facts": [
+  {
+   "id": "adult-platypuses-have-no-teeth",
+   "title": "Adult Platypuses Have No Teeth",
+   "summary": "Adult platypuses have no teeth.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/adult-platypuses-have-no-teeth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "egg-laying-platypuses-werent-confirmed-until-1884",
+   "title": "Egg-Laying Platypuses Weren't Confirmed Until 1884",
+   "summary": "Early European naturalists did not believe that female platypuses lay eggs.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/egg-laying-platypuses-werent-confirmed-until-1884",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "male-platypuses-are-venomous",
+   "title": "Male Platypuses Are Venomous",
+   "summary": "Male platypuses are venomous: a spur on the ankle of each hind leg can inject venom strong enough to cause severe pain in humans, making the platypus one of the few venomous mammals.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/male-platypuses-are-venomous",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "platypus-dives-last-about-half-a-minute",
+   "title": "Platypus Dives Last About Half a Minute",
+   "summary": "Platypus dives are short: in one study they lasted 35 seconds on average, with about 13 seconds spent at the surface between dives.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/platypus-dives-last-about-half-a-minute",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "platypus-fur-is-denser-than-almost-any-other-mammals",
+   "title": "Platypus Fur Is Denser Than Almost Any Other Mammal's",
+   "summary": "The platypus has one of the densest coats of fur of any mammal, second only to otters.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/platypus-fur-is-denser-than-almost-any-other-mammals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "platypus-mothers-plug-their-burrows-with-soil-that-wrings-out-their-fur",
+   "title": "Platypus Mothers Plug Their Burrows With Soil That Wrings Out Their Fur",
+   "summary": "A female platypus lays her eggs at the end of a nesting burrow that can be 30 metres long, and she leaves a series of thin soil plugs along the way.",
+   "topics": [
+    "platypus",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/platypus-mothers-plug-their-burrows-with-soil-that-wrings-out-their-fur",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "platypuses-glow-under-ultraviolet-light",
+   "title": "Platypuses Glow Under Ultraviolet Light",
+   "summary": "Platypus fur is biofluorescent: under ultraviolet light, the animal's ordinary brown coat glows cyan and green.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/platypuses-glow-under-ultraviolet-light",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "platypuses-returned-to-sydneys-royal-national-park-after-50-years",
+   "title": "Platypuses Returned to Sydney's Royal National Park After 50 Years",
+   "summary": "In May 2023, platypuses were released into Royal National Park, south of Sydney, ending an absence of more than 50 years since any confirmed sighting there.",
+   "topics": [
+    "platypus",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://www.unsw.edu.au/newsroom/news/2023/05/long-journey-home--the-return-of-the-platypus-to-the-royal-natio",
+   "source_domain": "unsw.edu.au",
+   "factcovery": "https://www.factcovery.com/facts/platypuses-returned-to-sydneys-royal-national-park-after-50-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "platypuses-swim-with-their-front-feet-and-walk-on-their-knuckles",
+   "title": "Platypuses Swim With Their Front Feet and Walk on Their Knuckles",
+   "summary": "A platypus swims using its front feet for power, and on land it folds those feet up and walks on its knuckles to protect the webbing.",
+   "topics": [
+    "platypus",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/platypuses-swim-with-their-front-feet-and-walk-on-their-knuckles",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "scientists-first-thought-the-platypus-was-a-fake",
+   "title": "Scientists First Thought the Platypus Was a Fake",
+   "summary": "When British scientists examined the first platypus specimen in 1799, they suspected a hoax made from several animals sewn together.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/scientists-first-thought-the-platypus-was-a-fake",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-has-no-functional-stomach",
+   "title": "The Platypus Has No Functional Stomach",
+   "summary": "The platypus has no functional stomach, because it lacks the genes needed to make and secrete pepsins, the protein-digesting enzymes produced in the stomach of other mammals.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-has-no-functional-stomach",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-has-ten-sex-chromosomes",
+   "title": "The Platypus Has Ten Sex Chromosomes",
+   "summary": "The platypus has ten sex chromosomes, compared with two in most mammals, a discovery made by researchers at the Australian National University in 2004.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-has-ten-sex-chromosomes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-hunts-with-its-eyes-closed",
+   "title": "The Platypus Hunts With Its Eyes Closed",
+   "summary": "When a platypus dives, it closes its eyes, ears and nostrils and finds prey by electrolocation instead.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-hunts-with-its-eyes-closed",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-is-mostly-nocturnal",
+   "title": "The Platypus Is Mostly Nocturnal",
+   "summary": "The platypus is mainly nocturnal, but its timetable shifts with the seasons: it is also active at dusk in summer and during the day in winter.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-is-mostly-nocturnal",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-is-near-threatened",
+   "title": "The Platypus Is Near Threatened",
+   "summary": "The International Union for Conservation of Nature (IUCN) classified the platypus as Near Threatened in 2016, based on estimates that its numbers had fallen by about 30 percent on average since European settlement.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-is-near-threatened",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-is-one-of-only-five-egg-laying-mammals",
+   "title": "The Platypus Is One of Only Five Egg-Laying Mammals",
+   "summary": "The platypus is one of only five living monotremes, mammals that lay eggs instead of giving birth to live young; the other four are species of echidna.",
+   "topics": [
+    "platypus",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-is-one-of-only-five-egg-laying-mammals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypus-runs-about-5-c-cooler-than-most-mammals",
+   "title": "The Platypus Runs About 5 °C Cooler Than Most Mammals",
+   "summary": "The platypus has an average body temperature of about 32 °C, roughly five degrees cooler than the 37 °C typical of placental mammals such as humans.",
+   "topics": [
+    "platypus",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypus-runs-about-5-c-cooler-than-most-mammals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-platypuss-first-scientific-name-was-already-taken-by-a-beetle",
+   "title": "The Platypus's First Scientific Name Was Already Taken by a Beetle",
+   "summary": "When English zoologist George Shaw first described the platypus in 1799, in the Naturalist's Miscellany, he gave it the scientific name Platypus anatinus.",
+   "topics": [
+    "platypus",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Platypus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-platypuss-first-scientific-name-was-already-taken-by-a-beetle",
+   "updated": "2026-11-17"
+  }
+ ]
+}

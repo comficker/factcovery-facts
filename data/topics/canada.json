@@ -1,0 +1,292 @@
+{
+ "topic": "canada",
+ "name": "Canada",
+ "count": 15,
+ "factcovery": "https://www.factcovery.com/topics/canada",
+ "facts": [
+  {
+   "id": "basketball-was-invented-by-a-canadian",
+   "title": "Basketball Was Invented by a Canadian",
+   "summary": "Basketball was invented in December 1891 by James Naismith, a Canadian born on November 6, 1861, in Almonte, in what is now Ontario.",
+   "topics": [
+    "canada",
+    "sports",
+    "history",
+    "fun",
+    "basketball",
+    "invention",
+    "james-naismith",
+    "sport-history",
+    "canadian",
+    "inventions"
+   ],
+   "source": "https://en.wikipedia.org/wiki/James_Naismith",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/basketball-was-invented-by-a-canadian",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canada-contains-the-worlds-largest-freshwater-island",
+   "title": "Canada Contains the World's Largest Freshwater Island",
+   "summary": "Manitoulin Island in Lake Huron, Ontario, is the largest freshwater island in the world, covering 2,766 km² (1,068 sq mi).",
+   "topics": [
+    "canada",
+    "geography",
+    "nature",
+    "weird",
+    "manitoulin-island",
+    "lake-huron",
+    "freshwater-island",
+    "ontario",
+    "unique-landscape"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Manitoulin_Island",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/canada-contains-the-worlds-largest-freshwater-island",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canada-has-more-doughnut-shops-per-capita-than-any-other-country",
+   "title": "Canada Has More Doughnut Shops Per Capita Than Any Other Country",
+   "summary": "Canada is widely reported to have more doughnut shops per person than any other country.",
+   "topics": [
+    "coffee",
+    "fast-food",
+    "canada",
+    "food",
+    "culture",
+    "fun",
+    "economy",
+    "doughnuts",
+    "tim-hortons",
+    "canadian-food"
+   ],
+   "source": "https://en.wikipedia.org/wiki/List_of_doughnut_shops",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/canada-has-more-doughnut-shops-per-capita-than-any-other-country",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canada-has-the-worlds-first-official-ufo-landing-pad",
+   "title": "Canada Built the World's First Official UFO Landing Pad",
+   "summary": "The world's first official UFO landing pad, according to Guinness World Records, was built in 1967 in St.",
+   "topics": [
+    "canada",
+    "weird",
+    "history",
+    "architecture",
+    "fun",
+    "ufo",
+    "landing-pad",
+    "st-paul-alberta",
+    "alien",
+    "quirky",
+    "landmark"
+   ],
+   "source": "https://www.guinnessworldrecords.com/news/2025/6/please-come-in-peace-canada-prepared-for-alien-visits-with-worlds-first-ufo-landing-pad",
+   "source_domain": "guinnessworldrecords.com",
+   "factcovery": "https://www.factcovery.com/facts/canada-has-the-worlds-first-official-ufo-landing-pad",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canada-is-home-to-north-americas-deepest-lake",
+   "title": "Canada Is Home to North America's Deepest Lake",
+   "summary": "Great Slave Lake in Canada's Northwest Territories is the deepest lake in North America, reaching 614 metres (2,014 ft).",
+   "topics": [
+    "canada",
+    "geography",
+    "nature",
+    "water",
+    "great-slave-lake",
+    "deepest-lake",
+    "northwest-territories",
+    "freshwater"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Great_Slave_Lake",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/canada-is-home-to-north-americas-deepest-lake",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canada-is-home-to-the-worlds-historically-longest-street",
+   "title": "Yonge Street Was Once Listed as the World's Longest Street",
+   "summary": "Guinness World Records once listed Toronto's Yonge Street as the longest street in the world, at 1,896 km, but the street itself is only about 86 km long.",
+   "topics": [
+    "canada",
+    "geography",
+    "history",
+    "urban-planning",
+    "yonge-street",
+    "toronto",
+    "longest-street",
+    "ontario",
+    "urban-history",
+    "guinness"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Yonge_Street",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/canada-is-home-to-the-worlds-historically-longest-street",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canada-produces-over-80-of-the-worlds-maple-syrup",
+   "title": "Canada Produces More Than 75% of the World's Maple Syrup",
+   "summary": "Canada produces more than three-quarters of the world's maple syrup, according to Agriculture and Agri-Food Canada.",
+   "topics": [
+    "canada",
+    "food",
+    "economy",
+    "culture",
+    "maple-syrup",
+    "quebec",
+    "agriculture",
+    "food-production"
+   ],
+   "source": "https://agriculture.canada.ca/en/sector/horticulture/reports/statistical-overview-canadian-maple-industry-2025",
+   "source_domain": "agriculture.canada.ca",
+   "factcovery": "https://www.factcovery.com/facts/canada-produces-over-80-of-the-worlds-maple-syrup",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canadas-arctic-hosts-the-magnetic-north-pole",
+   "title": "The North Magnetic Pole Sat in Canada's Arctic for Centuries, Then Left",
+   "summary": "The north magnetic pole, the point where Earth's magnetic field points straight down, lay within the Canadian Arctic for as long as it has been measured, but it has since drifted out toward Siberia.",
+   "topics": [
+    "canada",
+    "science",
+    "geography",
+    "nature",
+    "magnetic-north-pole",
+    "arctic",
+    "geology",
+    "earth-science",
+    "navigation"
+   ],
+   "source": "https://en.wikipedia.org/wiki/North_magnetic_pole",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/canadas-arctic-hosts-the-magnetic-north-pole",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "dawson-city-grew-to-40000-people-briefly-the-largest-canadian-city-west-of-winnipeg",
+   "title": "Dawson City Briefly Became the Largest Community West of Winnipeg",
+   "summary": "During the Klondike Gold Rush, Dawson City briefly became the largest community in Canada west of Winnipeg and north of Seattle.",
+   "topics": [
+    "klondike",
+    "history",
+    "gold-rush",
+    "canada"
+   ],
+   "source": "https://www.parks.canada.ca/lhn-nhs/yt/klondike/culture/lhn-nhs-dawson",
+   "source_domain": "parks.canada.ca",
+   "factcovery": "https://www.factcovery.com/facts/dawson-city-grew-to-40000-people-briefly-the-largest-canadian-city-west-of-winnipeg",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "gold-was-discovered-on-august-16-1896-at-rabbit-creek",
+   "title": "Gold Found at Rabbit Creek on August 16, 1896 Sparked the Klondike Gold Rush",
+   "summary": "On 16 August 1896, gold was found on Rabbit Creek, soon renamed Bonanza Creek, in Canada's Yukon, setting off the Klondike Gold Rush.",
+   "topics": [
+    "klondike",
+    "history",
+    "gold-rush",
+    "canada"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Klondike_Gold_Rush",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/gold-was-discovered-on-august-16-1896-at-rabbit-creek",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "quebec-city-is-north-americas-only-walled-city-north-of-mexico",
+   "title": "Quebec City Is North America's Only Walled City North of Mexico",
+   "summary": "Quebec City's old town is still enclosed by its colonial ramparts, making it the only intact fortified colonial settlement in North America north of Mexico.",
+   "topics": [
+    "canada",
+    "history",
+    "architecture",
+    "culture",
+    "tourism",
+    "quebec-city",
+    "walled-city",
+    "old-quebec",
+    "unesco",
+    "fortress",
+    "colonial"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ramparts_of_Quebec_City",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/quebec-city-is-north-americas-only-walled-city-north-of-mexico",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-beaver-is-canadas-national-animal",
+   "title": "The Beaver Became an Official Symbol of Canada in 1975",
+   "summary": "The beaver became an official symbol of Canada on March 24, 1975, when the National Symbol of Canada Act received royal assent.",
+   "topics": [
+    "canada",
+    "animals",
+    "culture",
+    "history",
+    "beaver",
+    "national-animal",
+    "symbol",
+    "canadian-culture",
+    "wildlife"
+   ],
+   "source": "https://www.canada.ca/en/canadian-heritage/services/official-symbols-canada.html",
+   "source_domain": "canada.ca",
+   "factcovery": "https://www.factcovery.com/facts/the-beaver-is-canadas-national-animal",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-name-canada-originated-from-an-indigenous-word",
+   "title": "The Name Canada Comes From an Iroquoian Word for Village",
+   "summary": "The name Canada most likely comes from kanata, a St.",
+   "topics": [
+    "canada",
+    "history",
+    "language",
+    "culture",
+    "canada-name",
+    "indigenous-language",
+    "jacques-cartier",
+    "etymology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Name_of_Canada",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-name-canada-originated-from-an-indigenous-word",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-north-west-mounted-police-maintained-remarkable-order-in-the-rush",
+   "title": "The North-West Mounted Police Kept the Klondike Gold Rush Remarkably Orderly",
+   "summary": "The Klondike Gold Rush stayed unusually law-abiding, largely because of Canada's North-West Mounted Police (NWMP), forerunner of today's RCMP.",
+   "topics": [
+    "klondike",
+    "history",
+    "gold-rush",
+    "canada"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Klondike_Gold_Rush",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-north-west-mounted-police-maintained-remarkable-order-in-the-rush",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-white-pass-trail-was-so-deadly-it-was-called-dead-horse-trail",
+   "title": "The White Pass Trail Was So Deadly It Was Called the 'Dead Horse Trail'",
+   "summary": "During the Klondike Gold Rush, so many pack animals died on the White Pass Trail that it became known as the Dead Horse Trail.",
+   "topics": [
+    "klondike",
+    "history",
+    "gold-rush",
+    "canada"
+   ],
+   "source": "https://www.nps.gov/klgo/learn/historyculture/white-pass-history.htm",
+   "source_domain": "nps.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-white-pass-trail-was-so-deadly-it-was-called-dead-horse-trail",
+   "updated": "2026-11-17"
+  }
+ ]
+}

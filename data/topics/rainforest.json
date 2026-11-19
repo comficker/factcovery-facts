@@ -1,0 +1,50 @@
+{
+ "topic": "rainforest",
+ "name": "Rainforest",
+ "count": 3,
+ "factcovery": "https://www.factcovery.com/topics/rainforest",
+ "facts": [
+  {
+   "id": "just-227-tree-species-make-up-half-of-the-amazons-390-billion-trees",
+   "title": "Just 227 Tree Species Make Up Half of the Amazon's 390 Billion Trees",
+   "summary": "The Amazon holds around 390 billion trees belonging to roughly 16,000 species, yet just 227 of those species, about 1.4 percent, account for half of all the trees.",
+   "topics": [
+    "rainforest",
+    "nature",
+    "weird"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2013/10/131017144538.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/just-227-tree-species-make-up-half-of-the-amazons-390-billion-trees",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "saharan-dust-fertilizes-the-amazon-rainforest-every-year",
+   "title": "Saharan Dust Fertilizes the Amazon Rainforest Every Year",
+   "summary": "The Amazon rainforest is fed by a desert.",
+   "topics": [
+    "rainforest",
+    "nature",
+    "weird"
+   ],
+   "source": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-satellite-reveals-how-much-saharan-dust-feeds-amazons-plants/",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/saharan-dust-fertilizes-the-amazon-rainforest-every-year",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-amazon-rainforest-starts-its-own-rainy-season",
+   "title": "The Amazon Rainforest Starts Its Own Rainy Season",
+   "summary": "In the southern Amazon, the trees start the rainy season themselves.",
+   "topics": [
+    "rainforest",
+    "nature",
+    "weird"
+   ],
+   "source": "https://www.jpl.nasa.gov/news/new-study-shows-the-amazon-makes-its-own-rainy-season",
+   "source_domain": "jpl.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-amazon-rainforest-starts-its-own-rainy-season",
+   "updated": "2026-11-17"
+  }
+ ]
+}

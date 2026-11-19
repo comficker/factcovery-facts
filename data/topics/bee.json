@@ -1,0 +1,246 @@
+{
+ "topic": "bee",
+ "name": "Bee",
+ "count": 17,
+ "factcovery": "https://www.factcovery.com/topics/bee",
+ "facts": [
+  {
+   "id": "alpine-bumblebees-can-fly-in-air-as-thin-as-above-mount-everest",
+   "title": "Alpine Bumblebees Can Fly in Air as Thin as Above Mount Everest",
+   "summary": "Some bumblebees can keep flying in air thinner than at the top of Mount Everest.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "http://news.mongabay.com/2014/02/alpine-bumblebees-capable-of-flying-over-mt-everest/",
+   "source_domain": "news.mongabay.com",
+   "factcovery": "https://www.factcovery.com/facts/alpine-bumblebees-can-fly-in-air-as-thin-as-above-mount-everest",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bees-can-see-ultraviolet-light-but-cannot-see-the-color-red",
+   "title": "Bees Can See Ultraviolet Light but Cannot See the Color Red",
+   "summary": "Bees see a world of colors that people cannot, yet they miss one we take for granted.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://extension.psu.edu/choosing-colors-in-the-garden-to-attract-pollinators",
+   "source_domain": "extension.psu.edu",
+   "factcovery": "https://www.factcovery.com/facts/bees-can-see-ultraviolet-light-but-cannot-see-the-color-red",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bumblebees-roll-tiny-balls-just-for-fun-with-no-reward",
+   "title": "Bumblebees Roll Tiny Balls Just for Fun, With No Reward",
+   "summary": "Bumblebees appear to play.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.qmul.ac.uk/news/latest-news/2022/se/first-ever-study-shows-bumble-bees-play.html",
+   "source_domain": "qmul.ac.uk",
+   "factcovery": "https://www.factcovery.com/facts/bumblebees-roll-tiny-balls-just-for-fun-with-no-reward",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bumblebees-shake-pollen-loose-with-a-buzz-that-honeybees-cannot-make",
+   "title": "Bumblebees Shake Pollen Loose With a Buzz That Honeybees Cannot Make",
+   "summary": "Some flowers lock their pollen away until the right bee shakes it out.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://baynature.org/article/buzz-pollination/",
+   "source_domain": "baynature.org",
+   "factcovery": "https://www.factcovery.com/facts/bumblebees-shake-pollen-loose-with-a-buzz-that-honeybees-cannot-make",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "honeybee-swarms-vote-on-a-new-home-using-dances-and-a-quorum",
+   "title": "Honeybee Swarms Vote on a New Home Using Dances and a Quorum",
+   "summary": "When a honeybee colony splits and a swarm leaves to find a new home, it does not follow a leader.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.news.cornell.edu/stories/2006/04/honeybee-decision-making-ability-rivals-any-department-committee",
+   "source_domain": "news.cornell.edu",
+   "factcovery": "https://www.factcovery.com/facts/honeybee-swarms-vote-on-a-new-home-using-dances-and-a-quorum",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "honeybees-are-not-native-to-america-and-arrived-by-ship-in-1622",
+   "title": "Honeybees Are Not Native to America and Arrived by Ship in 1622",
+   "summary": "The honeybee buzzing around American gardens is an immigrant.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://americanbeejournal.com/?p=4767",
+   "source_domain": "americanbeejournal.com",
+   "factcovery": "https://www.factcovery.com/facts/honeybees-are-not-native-to-america-and-arrived-by-ship-in-1622",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "honeybees-became-the-first-insects-shown-to-understand-zero",
+   "title": "Honeybees Became the First Insects Shown to Understand Zero",
+   "summary": "Honeybees can grasp that nothing is a number.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.rmit.edu.au/news/all-news/2018/jun/honeybees-zero-in-on-nothing",
+   "source_domain": "rmit.edu.au",
+   "factcovery": "https://www.factcovery.com/facts/honeybees-became-the-first-insects-shown-to-understand-zero",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "how-much-a-honeybee-larva-eats-may-decide-whether-it-becomes-a-queen",
+   "title": "How Much a Honeybee Larva Eats May Decide Whether It Becomes a Queen",
+   "summary": "Every honeybee queen starts life as an ordinary female larva.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7287363/",
+   "source_domain": "pmc.ncbi.nlm.nih.gov",
+   "factcovery": "https://www.factcovery.com/facts/how-much-a-honeybee-larva-eats-may-decide-whether-it-becomes-a-queen",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hungry-bumblebees-bite-plant-leaves-to-make-them-bloom-weeks-earlier",
+   "title": "Hungry Bumblebees Bite Plant Leaves to Make Them Bloom Weeks Earlier",
+   "summary": "When pollen runs short, bumblebees can hurry plants into flowering.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2020/05/200526134651.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/hungry-bumblebees-bite-plant-leaves-to-make-them-bloom-weeks-earlier",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "japanese-honeybees-cook-giant-hornets-alive-inside-a-ball-of-bees",
+   "title": "Japanese Honeybees Cook Giant Hornets Alive Inside a Ball of Bees",
+   "summary": "When a giant hornet invades their nest, Japanese honeybees fight back with heat.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032902",
+   "source_domain": "journals.plos.org",
+   "factcovery": "https://www.factcovery.com/facts/japanese-honeybees-cook-giant-hornets-alive-inside-a-ball-of-bees",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "male-honeybees-have-no-father-and-die-right-after-mating",
+   "title": "Male Honeybees Have No Father and Die Right After Mating",
+   "summary": "Male honeybees, called drones, hatch from eggs that were never fertilized.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://projects.sare.org/wp-content/uploads/BeeBiology.pdf",
+   "source_domain": "projects.sare.org",
+   "factcovery": "https://www.factcovery.com/facts/male-honeybees-have-no-father-and-die-right-after-mating",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "nine-in-ten-bee-species-live-alone-instead-of-in-hives",
+   "title": "Nine in Ten Bee Species Live Alone Instead of in Hives",
+   "summary": "Most bees do not live in hives.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.ndsu.edu/agriculture/extension/extension-topics/gardening-and-horticulture/pollination/solitary-bees",
+   "source_domain": "ndsu.edu",
+   "factcovery": "https://www.factcovery.com/facts/nine-in-ten-bee-species-live-alone-instead-of-in-hives",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sleep-deprived-honeybees-give-sloppier-directions-in-their-dances",
+   "title": "Sleep-Deprived Honeybees Give Sloppier Directions in Their Dances",
+   "summary": "Honeybees need their sleep to communicate well.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://sciencedaily.com/releases/2010/12/101213151359.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/sleep-deprived-honeybees-give-sloppier-directions-in-their-dances",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-oldest-known-bee-was-trapped-in-amber-100-million-years-ago",
+   "title": "The Oldest Known Bee Was Trapped in Amber 100 Million Years Ago",
+   "summary": "The oldest bee fossil known when it was described is a tiny insect preserved in amber about 100 million years ago.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2006/10/061025184944.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/the-oldest-known-bee-was-trapped-in-amber-100-million-years-ago",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-rusty-patched-bumblebee-became-the-first-bumblebee-listed-as-endangered-in-the-us",
+   "title": "The Rusty Patched Bumblebee Became the First Bumblebee Listed as Endangered in the US",
+   "summary": "In January 2017 the US Fish and Wildlife Service declared the rusty patched bumblebee, Bombus affinis, an endangered species.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://news.mongabay.com/2017/01/rusty-patched-bumblebee-now-first-bee-to-be-listed-as-endangered-in-continental-u-s/",
+   "source_domain": "news.mongabay.com",
+   "factcovery": "https://www.factcovery.com/facts/the-rusty-patched-bumblebee-became-the-first-bumblebee-listed-as-endangered-in-the-us",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-worlds-largest-bee-was-lost-for-38-years-before-turning-up-in-2019",
+   "title": "The World's Largest Bee Was Lost for 38 Years Before Turning Up in 2019",
+   "summary": "Wallace's giant bee, Megachile pluto, is the largest bee known on Earth, with a wingspan of more than 6 centimeters.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.sydney.edu.au/news-opinion/news/2019/02/22/world-s-biggest-bee-found.html",
+   "source_domain": "sydney.edu.au",
+   "factcovery": "https://www.factcovery.com/facts/the-worlds-largest-bee-was-lost-for-38-years-before-turning-up-in-2019",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-worlds-smallest-bee-is-just-under-2-millimeters-long",
+   "title": "The World's Smallest Bee Is Just Under 2 Millimeters Long",
+   "summary": "The smallest bee species known is Perdita minima, a solitary bee that measures just under 2 millimeters long.",
+   "topics": [
+    "bee",
+    "insects",
+    "weird"
+   ],
+   "source": "https://www.guinnessworldrecords.com/world-records/90329-smallest-bee",
+   "source_domain": "guinnessworldrecords.com",
+   "factcovery": "https://www.factcovery.com/facts/the-worlds-smallest-bee-is-just-under-2-millimeters-long",
+   "updated": "2026-11-17"
+  }
+ ]
+}

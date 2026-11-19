@@ -1,0 +1,332 @@
+{
+ "topic": "earth",
+ "name": "Earth",
+ "count": 16,
+ "factcovery": "https://www.factcovery.com/topics/earth",
+ "facts": [
+  {
+   "id": "antarctica-is-technically-the-worlds-largest-desert",
+   "title": "Antarctica Is the World's Largest Desert",
+   "summary": "Antarctica is the largest desert on Earth.",
+   "topics": [
+    "earth",
+    "geography",
+    "climate",
+    "extreme-environments",
+    "weird",
+    "antarctica",
+    "desert",
+    "cold-desert",
+    "precipitation"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Antarctica",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/antarctica-is-technically-the-worlds-largest-desert",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earth-has-experienced-five-major-mass-extinction-events",
+   "title": "Earth Has Gone Through Five Major Mass Extinctions",
+   "summary": "Scientists recognize five major mass extinctions in Earth's history, known as the Big Five: short spans when species died out far faster than new ones appeared.",
+   "topics": [
+    "earth",
+    "biology",
+    "history",
+    "geology",
+    "mass-extinction",
+    "biodiversity",
+    "earth-history",
+    "paleontology",
+    "climate-change",
+    "asteroid-impact"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Extinction_event",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/earth-has-experienced-five-major-mass-extinction-events",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-atmosphere-intercepts-over-100-tons-of-space-dust-daily",
+   "title": "About 25 Tons of Space Dust Hit Earth's Atmosphere Every Day",
+   "summary": "Earth's atmosphere collects roughly 25 tons of cosmic dust every day, according to NASA.",
+   "topics": [
+    "earth",
+    "astronomy",
+    "atmosphere",
+    "space",
+    "space-dust",
+    "meteors",
+    "cosmic-particles",
+    "extraterrestrial",
+    "earth-protection"
+   ],
+   "source": "https://www.nasa.gov/feature/goddard/2021/tiny-meteors-leave-smoke-in-atmosphere-nasa-studying-it",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/earths-atmosphere-intercepts-over-100-tons-of-space-dust-daily",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-gravity-varies-across-its-surface-creating-gravity-anomalies",
+   "title": "Earth's Gravity Is Slightly Stronger in Some Places Than Others",
+   "summary": "Gravity is not exactly the same everywhere on Earth.",
+   "topics": [
+    "earth",
+    "earth-science",
+    "physics",
+    "geology",
+    "gravity",
+    "gravity-anomalies",
+    "geodesy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gravity_anomaly",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/earths-gravity-varies-across-its-surface-creating-gravity-anomalies",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-inner-core-is-as-hot-as-the-surface-of-the-sun",
+   "title": "Earth's Inner Core Is About as Hot as the Surface of the Sun",
+   "summary": "The surface of Earth's solid inner core is estimated at about 5,700 K, or roughly 5,400 °C (9,800 °F), close to the temperature of the visible surface of the Sun.",
+   "topics": [
+    "scientific",
+    "earth-science",
+    "physics",
+    "earth",
+    "inner-core",
+    "geology",
+    "temperature",
+    "sun",
+    "planet"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Earth%27s_inner_core",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/earths-inner-core-is-as-hot-as-the-surface-of-the-sun",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-inner-core-rotates-faster-than-its-surface",
+   "title": "Earth's Inner Core May Have Paused Its Extra Spin Around 2009",
+   "summary": "Earth's solid inner core may turn at a slightly different rate from the rest of the planet, and a 2023 study suggests that this extra spin paused around 2009 and may now be reversing relative to the surface.",
+   "topics": [
+    "earth",
+    "geology",
+    "earth-science",
+    "physics",
+    "earth-core",
+    "inner-core",
+    "rotation",
+    "magnetic-field",
+    "geophysics"
+   ],
+   "source": "https://www.sciencenews.org/article/earth-inner-core-reverse-rotation",
+   "source_domain": "sciencenews.org",
+   "factcovery": "https://www.factcovery.com/facts/earths-inner-core-rotates-faster-than-its-surface",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-largest-living-organism-is-a-fungus-spanning-miles",
+   "title": "A Fungus in Oregon May Be the Largest Living Organism on Earth",
+   "summary": "A single honey fungus, Armillaria ostoyae, growing in Oregon's Malheur National Forest, is considered one of the largest living organisms on Earth, if not the largest.",
+   "topics": [
+    "earth",
+    "biology",
+    "fungi",
+    "weird",
+    "armillaria-ostoyae",
+    "fungus",
+    "largest-organism",
+    "forest",
+    "oregon"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Armillaria_ostoyae",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/earths-largest-living-organism-is-a-fungus-spanning-miles",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-oldest-living-organism-is-a-clonal-colony-of-aspen-trees",
+   "title": "Pando, a Single Aspen Clone in Utah, Is Thought to Be 9,000 to 16,000 Years Old",
+   "summary": "Pando, a single quaking aspen clone in Utah's Fishlake National Forest, is conservatively estimated to be 9,000 to 16,000 years old.",
+   "topics": [
+    "earth",
+    "biology",
+    "botany",
+    "weird",
+    "pando",
+    "aspen",
+    "clonal-colony",
+    "oldest-organism",
+    "forest",
+    "utah"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Pando_(tree)",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/earths-oldest-living-organism-is-a-clonal-colony-of-aspen-trees",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-strongest-recorded-earthquake-lasted-up-to-10-minutes",
+   "title": "Chile's 1960 Earthquake, the Strongest Ever Recorded, Shook for About 10 Minutes",
+   "summary": "The 1960 Valdivia earthquake in southern Chile, the most powerful ever recorded, shook the ground for about 10 minutes.",
+   "topics": [
+    "earth",
+    "geology",
+    "natural-disasters",
+    "history",
+    "earthquake",
+    "chile",
+    "natural-disaster",
+    "tsunami",
+    "seismology",
+    "valdivia"
+   ],
+   "source": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/earths-strongest-recorded-earthquake-lasted-up-to-10-minutes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "oceans-produce-over-half-of-earths-oxygen",
+   "title": "The Ocean Produces About Half of Earth's Oxygen",
+   "summary": "Roughly half of the oxygen produced on Earth comes from the ocean, mostly from plankton: drifting plants, algae and some photosynthetic bacteria too small to see with the naked eye.",
+   "topics": [
+    "earth",
+    "biology",
+    "ocean",
+    "ecology",
+    "oxygen",
+    "phytoplankton",
+    "photosynthesis",
+    "marine-life",
+    "atmosphere"
+   ],
+   "source": "https://oceanservice.noaa.gov/facts/ocean-oxygen.html",
+   "source_domain": "oceanservice.noaa.gov",
+   "factcovery": "https://www.factcovery.com/facts/oceans-produce-over-half-of-earths-oxygen",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "over-99-of-earths-habitable-space-resides-in-the-ocean",
+   "title": "The Ocean Makes Up About 99% of the Living Space on Earth",
+   "summary": "Measured by volume, the ocean makes up about 99% of the living space on Earth, according to the United Nations.",
+   "topics": [
+    "earth",
+    "ocean",
+    "biology",
+    "ecology",
+    "habitat",
+    "biodiversity",
+    "marine-life",
+    "deep-sea",
+    "ecosystems",
+    "ecosystem"
+   ],
+   "source": "https://sdgs.un.org/sites/default/files/2025-04/Facts%26Figures_UN%20Ocean%20Conference%202025_EN.pdf",
+   "source_domain": "sdgs.un.org",
+   "factcovery": "https://www.factcovery.com/facts/over-99-of-earths-habitable-space-resides-in-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sunlight-takes-approximately-eight-minutes-and-twenty-seconds-to-reach-earth",
+   "title": "Sunlight Takes About 8 Minutes and 19 Seconds to Reach Earth",
+   "summary": "Light leaving the Sun takes about 499 seconds, slightly more than 8 minutes and 19 seconds, to cross the average distance to Earth.",
+   "topics": [
+    "fascinating",
+    "space",
+    "physics",
+    "astronomy",
+    "sun",
+    "light",
+    "earth",
+    "speed-of-light",
+    "solar-system"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Astronomical_unit",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sunlight-takes-approximately-eight-minutes-and-twenty-seconds-to-reach-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-deepest-point-on-earth-is-deeper-than-mount-everest-is-tall",
+   "title": "The Deepest Point in the Ocean Is Deeper Than Mount Everest Is Tall",
+   "summary": "The Challenger Deep, at the southern end of the Mariana Trench in the western Pacific, is about 10,935 meters (35,876 feet) deep, the deepest known point in the ocean.",
+   "topics": [
+    "earth",
+    "ocean",
+    "geography",
+    "extreme-environments",
+    "mariana-trench",
+    "challenger-deep",
+    "ocean-depth",
+    "mount-everest",
+    "deep-sea",
+    "marine-geology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mariana_Trench",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-deepest-point-on-earth-is-deeper-than-mount-everest-is-tall",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-fastest-wind-speed-ever-recorded-on-earth-reached-318-miles-per-hour",
+   "title": "The Fastest Wind Gust Ever Measured Outside a Tornado Hit 253 MPH",
+   "summary": "The fastest wind gust ever recorded outside a tornado reached 408 km/h (253 mph) on Barrow Island, off the coast of Western Australia, on 10 April 1996, during Tropical Cyclone Olivia.",
+   "topics": [
+    "earth",
+    "climate",
+    "natural-disasters",
+    "extreme-weather",
+    "wind-speed",
+    "tropical-cyclone",
+    "cyclone-olivia",
+    "barrow-island",
+    "meteorology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Wind_speed",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-fastest-wind-speed-ever-recorded-on-earth-reached-318-miles-per-hour",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-pacific-ring-of-fire-contains-75-of-earths-volcanoes",
+   "title": "The Pacific Ring of Fire Holds About 75% of Earth's Volcanoes",
+   "summary": "About 75% of Earth's volcanoes, more than 450 of them, lie along the Ring of Fire, a horseshoe-shaped belt around the edges of the Pacific Ocean.",
+   "topics": [
+    "earth",
+    "geology",
+    "natural-disasters",
+    "earth-science",
+    "ring-of-fire",
+    "volcanoes",
+    "pacific-ocean",
+    "tectonic-plates",
+    "earthquakes"
+   ],
+   "source": "https://education.nationalgeographic.org/resource/ring-fire/",
+   "source_domain": "education.nationalgeographic.org",
+   "factcovery": "https://www.factcovery.com/facts/the-pacific-ring-of-fire-contains-75-of-earths-volcanoes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-tallest-waterfall-on-earth-is-actually-underwater",
+   "title": "The Tallest Waterfall on Earth Is Hidden Beneath the Ocean",
+   "summary": "The world's largest known waterfall is underwater, beneath the Denmark Strait between Greenland and Iceland.",
+   "topics": [
+    "earth",
+    "ocean",
+    "geography",
+    "weird",
+    "underwater-waterfall",
+    "denmark-strait",
+    "ocean-currents",
+    "greenland",
+    "iceland",
+    "marine-geology"
+   ],
+   "source": "https://oceanservice.noaa.gov/facts/largest-waterfall.html",
+   "source_domain": "oceanservice.noaa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-tallest-waterfall-on-earth-is-actually-underwater",
+   "updated": "2026-11-17"
+  }
+ ]
+}

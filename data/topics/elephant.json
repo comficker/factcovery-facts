@@ -1,0 +1,23 @@
+{
+ "topic": "elephant",
+ "name": "Elephant",
+ "count": 1,
+ "factcovery": "https://www.factcovery.com/topics/elephant",
+ "facts": [
+  {
+   "id": "elephants-have-the-longest-pregnancy-of-any-land-mammal",
+   "title": "Elephants Have the Longest Pregnancy of Any Mammal Studied",
+   "summary": "Elephant pregnancies last up to 680 days, about 22 months, which is longer than in any other mammal studied so far.",
+   "topics": [
+    "elephant",
+    "animals",
+    "biology",
+    "science"
+   ],
+   "source": "https://www.fv-berlin.de/en/info-for/the-media-and-public/news/luteal-development-and-pregnancy-in-elephants",
+   "source_domain": "fv-berlin.de",
+   "factcovery": "https://www.factcovery.com/facts/elephants-have-the-longest-pregnancy-of-any-land-mammal",
+   "updated": "2026-11-17"
+  }
+ ]
+}

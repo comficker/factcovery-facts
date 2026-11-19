@@ -1,0 +1,280 @@
+{
+ "topic": "dinosaurs",
+ "name": "Dinosaurs",
+ "count": 17,
+ "factcovery": "https://www.factcovery.com/topics/dinosaurs",
+ "facts": [
+  {
+   "id": "ankylosaurs-had-tail-clubs-that-could-shatter-bone",
+   "title": "Ankylosaurs Had Tail Clubs Strong Enough to Break Bone",
+   "summary": "Ankylosaurus and its relatives, the ankylosaurids, carried a bony club at the end of the tail, and a 2009 study found that adult clubs were capable of breaking bone.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "ankylosaurs",
+    "defense",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ankylosaurus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/ankylosaurs-had-tail-clubs-that-could-shatter-bone",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "argentinosaurus-may-have-been-the-heaviest-animal-ever-to-walk-the-earth",
+   "title": "Argentinosaurus Was One of the Heaviest Animals Ever to Walk the Earth",
+   "summary": "Argentinosaurus, a giant titanosaur from Argentina, is among the largest land animals known, with published weight estimates ranging from about 60 to 96 tonnes.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "sauropods",
+    "largest-animals",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Argentinosaurus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/argentinosaurus-may-have-been-the-heaviest-animal-ever-to-walk-the-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "birds-are-living-dinosaurs-descendants-of-theropods",
+   "title": "Birds Are Living Dinosaurs Descended From Theropods",
+   "summary": "Birds are not just related to dinosaurs; they are dinosaurs, the only lineage that survived.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "birds",
+    "evolution",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Origin_of_birds",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/birds-are-living-dinosaurs-descendants-of-theropods",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "dinosaurs-lived-on-every-continent-including-antarctica",
+   "title": "Dinosaurs Lived on Every Continent, Including Antarctica",
+   "summary": "Dinosaur fossils have been found on all seven continents, including Antarctica.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "paleontology",
+    "earth-history",
+    "antarctica"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cryolophosaurus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/dinosaurs-lived-on-every-continent-including-antarctica",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "maiasaura-was-a-devoted-parent-that-raised-its-young-in-nesting-colonies",
+   "title": "Maiasaura Was a Caring Parent That Raised Its Young in Nesting Colonies",
+   "summary": "Maiasaura, a duck-billed dinosaur from Montana, gave scientists some of the first strong evidence that dinosaurs cared for their young.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "parental-behavior",
+    "hadrosaurs",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Maiasaura",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/maiasaura-was-a-devoted-parent-that-raised-its-young-in-nesting-colonies",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "microraptor-had-four-wings-and-was-one-of-the-first-gliding-animals",
+   "title": "Microraptor Was a Four-Winged Dinosaur That Could Glide",
+   "summary": "Microraptor, a small dromaeosaurid dinosaur from China, had long flight feathers on its arms, legs and tail, giving it four wings.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "raptors",
+    "flight-evolution",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Microraptor",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/microraptor-had-four-wings-and-was-one-of-the-first-gliding-animals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "pachycephalosaurus-had-a-25-cm-dome-skull-that-may-have-been-used-for-head-butting",
+   "title": "Pachycephalosaurus Had a 25 cm Thick Skull Dome That May Have Been Used in Fights",
+   "summary": "Pachycephalosaurus had a solid bony dome on its skull up to about 25 cm (10 in) thick, and injuries on fossil domes suggest it may have used it in fights.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "pachycephalosaurus",
+    "herbivores",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Pachycephalosaurus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/pachycephalosaurus-had-a-25-cm-dome-skull-that-may-have-been-used-for-head-butting",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "pterosaurs-were-not-dinosaurs-they-were-flying-reptile-cousins",
+   "title": "Pterosaurs Were Not Dinosaurs, but Their Flying Reptile Cousins",
+   "summary": "Pterosaurs, the winged reptiles that often appear beside dinosaurs in films and books, were not dinosaurs.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "pterosaurs",
+    "prehistoric-life",
+    "common-misconceptions"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Pterosaur",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/pterosaurs-were-not-dinosaurs-they-were-flying-reptile-cousins",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "some-dinosaurs-were-warm-blooded-like-modern-birds-and-mammals",
+   "title": "Dinosaurs Were Neither Fully Warm-Blooded Nor Cold-Blooded",
+   "summary": "A 2014 study in Science concluded that dinosaurs were neither cold-blooded like modern reptiles nor fully warm-blooded like mammals, but somewhere in between.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "biology",
+    "evolution",
+    "paleontology"
+   ],
+   "source": "https://www.scientificamerican.com/article/dinosaurs-were-neither-warm-blooded-nor-cold-blooded/",
+   "source_domain": "scientificamerican.com",
+   "factcovery": "https://www.factcovery.com/facts/some-dinosaurs-were-warm-blooded-like-modern-birds-and-mammals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "some-sauropod-dinosaurs-laid-eggs-smaller-than-a-football-despite-weighing-70-tonnes",
+   "title": "Titanosaurs Nearly 45 Feet Long Hatched as Babies of Just 15 Inches",
+   "summary": "At Auca Mahuevo in Patagonia, Argentina, titanosaur sauropods that grew to nearly 45 feet (about 14 m) long laid eggs whose embryos would have hatched at a mere 15 inches (about 38 cm).",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "sauropods",
+    "reproduction",
+    "paleontology"
+   ],
+   "source": "https://www.sciencedaily.com/releases/1998/11/981118081844.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/some-sauropod-dinosaurs-laid-eggs-smaller-than-a-football-despite-weighing-70-tonnes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "spinosaurus-was-longer-than-t-rex-and-likely-hunted-fish",
+   "title": "Spinosaurus Was Longer Than T. rex and Built for Hunting in Water",
+   "summary": "Spinosaurus, a predatory dinosaur that lived in North Africa 95 to 100 million years ago, was probably longer than Tyrannosaurus rex.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "spinosaurus",
+    "predators",
+    "paleontology"
+   ],
+   "source": "https://www.nationalgeographic.com/science/article/first-spinosaurus-tail-found-confirms-dinosaur-was-swimming",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/spinosaurus-was-longer-than-t-rex-and-likely-hunted-fish",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-asteroid-that-killed-dinosaurs-was-10-km-wide-and-hit-at-72000-kmh",
+   "title": "The Asteroid That Killed the Dinosaurs Was 10 km Wide and Hit at 72,000 km/h",
+   "summary": "About 66 million years ago, an asteroid roughly 10 kilometres wide slammed into what is now the Yucatán Peninsula in Mexico.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "mass-extinction",
+    "asteroids",
+    "earth-history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chicxulub_impactor",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-asteroid-that-killed-dinosaurs-was-10-km-wide-and-hit-at-72000-kmh",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-k-pg-mass-extinction-wiped-out-75-of-all-species-not-just-dinosaurs",
+   "title": "The K-Pg Mass Extinction Wiped Out About 75% of Species, Not Just Dinosaurs",
+   "summary": "The mass extinction that ended the age of dinosaurs about 66 million years ago killed roughly three-quarters of all plant and animal species on Earth.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "mass-extinction",
+    "earth-history",
+    "evolution"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-k-pg-mass-extinction-wiped-out-75-of-all-species-not-just-dinosaurs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-longest-dinosaur-name-has-23-letters-micropachycephalosaurus",
+   "title": "The Longest Dinosaur Name Has 23 Letters: Micropachycephalosaurus",
+   "summary": "Micropachycephalosaurus, a small plant-eater from Late Cretaceous China, has the longest name of any dinosaur: 23 letters.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "records",
+    "paleontology",
+    "pachycephalosaurs"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Micropachycephalosaurus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-longest-dinosaur-name-has-23-letters-micropachycephalosaurus",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-word-dinosaur-was-coined-in-1842-and-means-terrible-lizard",
+   "title": "The Word 'Dinosaur' Was Coined in 1842 and Means 'Terrible Lizard'",
+   "summary": "The word 'dinosaur' was coined by the British anatomist and palaeontologist Richard Owen and first appeared in print in April 1842.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "history-of-science",
+    "paleontology",
+    "etymology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Dinosaur",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-word-dinosaur-was-coined-in-1842-and-means-terrible-lizard",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "triceratops-had-up-to-800-teeth-and-replaced-them-throughout-its-life",
+   "title": "Triceratops Had Up to 800 Teeth and Replaced Them Throughout Its Life",
+   "summary": "Triceratops had between 432 and 800 teeth, packed into stacked batteries and replaced continuously throughout its life.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "triceratops",
+    "herbivores",
+    "ceratopsians"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Triceratops",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/triceratops-had-up-to-800-teeth-and-replaced-them-throughout-its-life",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "velociraptor-was-actually-turkey-sized-and-covered-in-feathers",
+   "title": "Velociraptor Was Actually Turkey-Sized and Covered in Feathers",
+   "summary": "The real Velociraptor was about the size of a turkey.",
+   "topics": [
+    "dinosaur",
+    "dinosaurs",
+    "velociraptor",
+    "raptors",
+    "paleontology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Velociraptor",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/velociraptor-was-actually-turkey-sized-and-covered-in-feathers",
+   "updated": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "topic": "moon",
+ "name": "Moon",
+ "count": 17,
+ "factcovery": "https://www.factcovery.com/topics/moon",
+ "facts": [
+  {
+   "id": "a-supermoon-can-look-14-bigger-and-30-brighter-than-the-faintest-full-moon",
+   "title": "A Supermoon Can Look 14% Bigger and 30% Brighter Than the Faintest Full Moon",
+   "summary": "The Moon's orbit is not a perfect circle, so its distance from Earth keeps changing.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://science.nasa.gov/moon/supermoons/",
+   "source_domain": "science.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/a-supermoon-can-look-14-bigger-and-30-brighter-than-the-faintest-full-moon",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "alan-shepard-smuggled-a-golf-club-to-the-moon-and-hit-two-balls",
+   "title": "Alan Shepard Smuggled a Golf Club to the Moon and Hit Two Balls",
+   "summary": "On February 6, 1971, during the Apollo 14 mission, astronaut Alan Shepard became the first person to play golf on another world.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.foxnews.com/science/golf-on-the-moon-how-alan-shepard-tricked-nasa-and-hit-the-most-famous-shot-in-history",
+   "source_domain": "foxnews.com",
+   "factcovery": "https://www.factcovery.com/facts/alan-shepard-smuggled-a-golf-club-to-the-moon-and-hit-two-balls",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "apollo-astronauts-brought-382-kilograms-of-the-moon-back-to-earth",
+   "title": "Apollo Astronauts Brought 382 Kilograms of the Moon Back to Earth",
+   "summary": "Apollo astronauts collected 382 kilograms of lunar rock and soil from six places on the Moon's surface.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://eos.org/features/apollos-legacy-50-years-of-lunar-geology",
+   "source_domain": "eos.org",
+   "factcovery": "https://www.factcovery.com/facts/apollo-astronauts-brought-382-kilograms-of-the-moon-back-to-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "apollo-astronauts-said-moon-dust-smelled-like-spent-gunpowder",
+   "title": "Apollo Astronauts Said Moon Dust Smelled Like Spent Gunpowder",
+   "summary": "The Moon has a smell, but only astronauts have ever caught it.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.universetoday.com/11314/the-smell-of-moondust",
+   "source_domain": "universetoday.com",
+   "factcovery": "https://www.factcovery.com/facts/apollo-astronauts-said-moon-dust-smelled-like-spent-gunpowder",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "chinas-change-4-made-the-first-ever-landing-on-the-moons-far-side",
+   "title": "China's Chang'e-4 Made the First Ever Landing on the Moon's Far Side",
+   "summary": "No spacecraft had ever landed on the far side of the Moon until January 3, 2019.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.planetary.org/articles/change4-success",
+   "source_domain": "planetary.org",
+   "factcovery": "https://www.factcovery.com/facts/chinas-change-4-made-the-first-ever-landing-on-the-moons-far-side",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "during-a-total-lunar-eclipse-the-moon-glows-with-earths-sunsets",
+   "title": "During a Total Lunar Eclipse, the Moon Glows With Earth's Sunsets",
+   "summary": "In a total lunar eclipse the Moon slips completely into Earth's darkest shadow, yet it does not disappear.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/why-moon-turns-red-total-lunar-eclipse",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/during-a-total-lunar-eclipse-the-moon-glows-with-earths-sunsets",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "india-became-the-first-country-to-land-near-the-moons-south-pole",
+   "title": "India Became the First Country to Land Near the Moon's South Pole",
+   "summary": "On August 23, 2023, India's Chandrayaan-3 mission set its Vikram lander down near the Moon's south pole, at roughly 70 degrees south latitude.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/india-chandrayaan-3-moon-landing-success",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/india-became-the-first-country-to-land-near-the-moons-south-pole",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lumpy-lunar-gravity-brought-down-an-apollo-16-satellite-in-just-35-days",
+   "title": "Lumpy Lunar Gravity Brought Down an Apollo 16 Satellite in Just 35 Days",
+   "summary": "The Moon's gravity is not smooth.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://moondaily.com/bizarre-lunar-orbits-999/",
+   "source_domain": "moondaily.com",
+   "factcovery": "https://www.factcovery.com/facts/lumpy-lunar-gravity-brought-down-an-apollo-16-satellite-in-just-35-days",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "nasa-crashed-a-rocket-into-the-moon-in-2009-to-hunt-for-water",
+   "title": "NASA Crashed a Rocket Into the Moon in 2009 to Hunt for Water",
+   "summary": "In the early morning of October 9, 2009, NASA deliberately smashed a spent Centaur rocket stage into Cabeus crater near the Moon's south pole.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/lcross-moon-water-10-year-anniversary.html",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/nasa-crashed-a-rocket-into-the-moon-in-2009-to-hunt-for-water",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "nobody-saw-the-moons-far-side-until-a-soviet-probe-photographed-it-in-1959",
+   "title": "Nobody Saw the Moon's Far Side Until a Soviet Probe Photographed It in 1959",
+   "summary": "For all of human history, the far side of the Moon was hidden from view.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.lindahall.org/luna-3/",
+   "source_domain": "lindahall.org",
+   "factcovery": "https://www.factcovery.com/facts/nobody-saw-the-moons-far-side-until-a-soviet-probe-photographed-it-in-1959",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "shadowed-craters-at-the-moons-south-pole-are-colder-than-pluto",
+   "title": "Shadowed Craters at the Moon's South Pole Are Colder Than Pluto",
+   "summary": "Some of the coldest temperatures ever measured in the solar system were found on the Moon.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.nbcnews.com/id/wbna32902658",
+   "source_domain": "nbcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/shadowed-craters-at-the-moons-south-pole-are-colder-than-pluto",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "thanks-to-a-gentle-wobble-we-can-see-about-59-of-the-moon-from-earth",
+   "title": "Thanks to a Gentle Wobble, We Can See About 59% of the Moon From Earth",
+   "summary": "The Moon always keeps the same face toward Earth because it rotates exactly once for every orbit; in a sense, its day and its year are the same length.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://science.gsfc.nasa.gov/attic/eclipse2017.gsfc.nasa.gov/what's-lunar-libration.html",
+   "source_domain": "science.gsfc.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/thanks-to-a-gentle-wobble-we-can-see-about-59-of-the-moon-from-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moon-drifts-about-38-centimeters-farther-from-earth-every-year",
+   "title": "The Moon Drifts About 3.8 Centimeters Farther From Earth Every Year",
+   "summary": "The Moon is slowly moving away from Earth.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html",
+   "source_domain": "eclipse.gsfc.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-moon-drifts-about-38-centimeters-farther-from-earth-every-year",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moon-is-shrinking-and-apollo-seismometers-caught-it-quaking",
+   "title": "The Moon Is Shrinking, and Apollo Seismometers Caught It Quaking",
+   "summary": "The Moon is still geologically restless.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.nasa.gov/press-release/goddard/2019/moonquakes",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-moon-is-shrinking-and-apollo-seismometers-caught-it-quaking",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moon-was-probably-born-when-a-mars-sized-world-hit-the-young-earth",
+   "title": "The Moon Was Probably Born When a Mars-Sized World Hit the Young Earth",
+   "summary": "Most scientists think the Moon formed from wreckage.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/the-moon-was-probably-born-when-a-mars-sized-world-hit-the-young-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moons-largest-crater-is-about-2500-kilometers-wide",
+   "title": "The Moon's Largest Crater Is About 2,500 Kilometers Wide",
+   "summary": "The biggest scar on the Moon is the South Pole-Aitken basin, a giant impact crater roughly 2,500 kilometers (1,550 miles) across.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://lroc.im-ldi.com/images/219",
+   "source_domain": "lroc.im-ldi.com",
+   "factcovery": "https://www.factcovery.com/facts/the-moons-largest-crater-is-about-2500-kilometers-wide",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tree-seeds-orbited-the-moon-on-apollo-14-and-grew-into-moon-trees",
+   "title": "Tree Seeds Orbited the Moon on Apollo 14 and Grew Into Moon Trees",
+   "summary": "Some trees growing in the United States have been to the Moon.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_trees/roosa_moon_tree_seeds.html",
+   "source_domain": "nssdc.gsfc.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/tree-seeds-orbited-the-moon-on-apollo-14-and-grew-into-moon-trees",
+   "updated": "2026-11-17"
+  }
+ ]
+}

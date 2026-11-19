@@ -1,0 +1,262 @@
+{
+ "name": "factcovery-facts",
+ "description": "Short, sourced interesting facts from Factcovery",
+ "license": "CC-BY-4.0",
+ "credit": "Facts by Factcovery (https://www.factcovery.com)",
+ "factcovery": "https://www.factcovery.com",
+ "total": 505,
+ "topics": [
+  {
+   "topic": "history",
+   "name": "History",
+   "count": 61,
+   "file": "data/topics/history.json",
+   "factcovery": "https://www.factcovery.com/topics/history"
+  },
+  {
+   "topic": "marine-life",
+   "name": "Marine Life",
+   "count": 40,
+   "file": "data/topics/marine-life.json",
+   "factcovery": "https://www.factcovery.com/topics/marine-life"
+  },
+  {
+   "topic": "science",
+   "name": "Science",
+   "count": 40,
+   "file": "data/topics/science.json",
+   "factcovery": "https://www.factcovery.com/topics/science"
+  },
+  {
+   "topic": "animals",
+   "name": "Animals",
+   "count": 38,
+   "file": "data/topics/animals.json",
+   "factcovery": "https://www.factcovery.com/topics/animals"
+  },
+  {
+   "topic": "space",
+   "name": "Space",
+   "count": 35,
+   "file": "data/topics/space.json",
+   "factcovery": "https://www.factcovery.com/topics/space"
+  },
+  {
+   "topic": "ocean",
+   "name": "Ocean",
+   "count": 20,
+   "file": "data/topics/ocean.json",
+   "factcovery": "https://www.factcovery.com/topics/ocean"
+  },
+  {
+   "topic": "hedgehogs",
+   "name": "Hedgehogs",
+   "count": 18,
+   "file": "data/topics/hedgehogs.json",
+   "factcovery": "https://www.factcovery.com/topics/hedgehogs"
+  },
+  {
+   "topic": "lion",
+   "name": "Lion",
+   "count": 18,
+   "file": "data/topics/lion.json",
+   "factcovery": "https://www.factcovery.com/topics/lion"
+  },
+  {
+   "topic": "owls",
+   "name": "Owls",
+   "count": 18,
+   "file": "data/topics/owls.json",
+   "factcovery": "https://www.factcovery.com/topics/owls"
+  },
+  {
+   "topic": "platypus",
+   "name": "Platypus",
+   "count": 18,
+   "file": "data/topics/platypus.json",
+   "factcovery": "https://www.factcovery.com/topics/platypus"
+  },
+  {
+   "topic": "sharks",
+   "name": "Sharks",
+   "count": 18,
+   "file": "data/topics/sharks.json",
+   "factcovery": "https://www.factcovery.com/topics/sharks"
+  },
+  {
+   "topic": "tiger",
+   "name": "Tiger",
+   "count": 18,
+   "file": "data/topics/tiger.json",
+   "factcovery": "https://www.factcovery.com/topics/tiger"
+  },
+  {
+   "topic": "bee",
+   "name": "Bee",
+   "count": 17,
+   "file": "data/topics/bee.json",
+   "factcovery": "https://www.factcovery.com/topics/bee"
+  },
+  {
+   "topic": "cat",
+   "name": "Cat",
+   "count": 17,
+   "file": "data/topics/cat.json",
+   "factcovery": "https://www.factcovery.com/topics/cat"
+  },
+  {
+   "topic": "dinosaurs",
+   "name": "Dinosaurs",
+   "count": 17,
+   "file": "data/topics/dinosaurs.json",
+   "factcovery": "https://www.factcovery.com/topics/dinosaurs"
+  },
+  {
+   "topic": "mars",
+   "name": "Mars",
+   "count": 17,
+   "file": "data/topics/mars.json",
+   "factcovery": "https://www.factcovery.com/topics/mars"
+  },
+  {
+   "topic": "moon",
+   "name": "Moon",
+   "count": 17,
+   "file": "data/topics/moon.json",
+   "factcovery": "https://www.factcovery.com/topics/moon"
+  },
+  {
+   "topic": "butterfly",
+   "name": "Butterfly",
+   "count": 16,
+   "file": "data/topics/butterfly.json",
+   "factcovery": "https://www.factcovery.com/topics/butterfly"
+  },
+  {
+   "topic": "christmas",
+   "name": "Christmas",
+   "count": 16,
+   "file": "data/topics/christmas.json",
+   "factcovery": "https://www.factcovery.com/topics/christmas"
+  },
+  {
+   "topic": "earth",
+   "name": "Earth",
+   "count": 16,
+   "file": "data/topics/earth.json",
+   "factcovery": "https://www.factcovery.com/topics/earth"
+  },
+  {
+   "topic": "japan",
+   "name": "Japan",
+   "count": 16,
+   "file": "data/topics/japan.json",
+   "factcovery": "https://www.factcovery.com/topics/japan"
+  },
+  {
+   "topic": "canada",
+   "name": "Canada",
+   "count": 15,
+   "file": "data/topics/canada.json",
+   "factcovery": "https://www.factcovery.com/topics/canada"
+  },
+  {
+   "topic": "engineering",
+   "name": "Engineering",
+   "count": 15,
+   "file": "data/topics/engineering.json",
+   "factcovery": "https://www.factcovery.com/topics/engineering"
+  },
+  {
+   "topic": "giraffe",
+   "name": "Giraffe",
+   "count": 15,
+   "file": "data/topics/giraffe.json",
+   "factcovery": "https://www.factcovery.com/topics/giraffe"
+  },
+  {
+   "topic": "penguins",
+   "name": "Penguins",
+   "count": 15,
+   "file": "data/topics/penguins.json",
+   "factcovery": "https://www.factcovery.com/topics/penguins"
+  },
+  {
+   "topic": "sports",
+   "name": "Sports",
+   "count": 15,
+   "file": "data/topics/sports.json",
+   "factcovery": "https://www.factcovery.com/topics/sports"
+  },
+  {
+   "topic": "human-body",
+   "name": "Human Body",
+   "count": 14,
+   "file": "data/topics/human-body.json",
+   "factcovery": "https://www.factcovery.com/topics/human-body"
+  },
+  {
+   "topic": "mexico",
+   "name": "Mexico",
+   "count": 14,
+   "file": "data/topics/mexico.json",
+   "factcovery": "https://www.factcovery.com/topics/mexico"
+  },
+  {
+   "topic": "volcano",
+   "name": "Volcano",
+   "count": 14,
+   "file": "data/topics/volcano.json",
+   "factcovery": "https://www.factcovery.com/topics/volcano"
+  },
+  {
+   "topic": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "count": 13,
+   "file": "data/topics/ancient-egypt.json",
+   "factcovery": "https://www.factcovery.com/topics/ancient-egypt"
+  },
+  {
+   "topic": "festivals",
+   "name": "Festivals",
+   "count": 12,
+   "file": "data/topics/festivals.json",
+   "factcovery": "https://www.factcovery.com/topics/festivals"
+  },
+  {
+   "topic": "octopus",
+   "name": "Octopus",
+   "count": 11,
+   "file": "data/topics/octopus.json",
+   "factcovery": "https://www.factcovery.com/topics/octopus"
+  },
+  {
+   "topic": "world-war-ii",
+   "name": "World War Ii",
+   "count": 8,
+   "file": "data/topics/world-war-ii.json",
+   "factcovery": "https://www.factcovery.com/topics/world-war-ii"
+  },
+  {
+   "topic": "rainforest",
+   "name": "Rainforest",
+   "count": 3,
+   "file": "data/topics/rainforest.json",
+   "factcovery": "https://www.factcovery.com/topics/rainforest"
+  },
+  {
+   "topic": "elephant",
+   "name": "Elephant",
+   "count": 1,
+   "file": "data/topics/elephant.json",
+   "factcovery": "https://www.factcovery.com/topics/elephant"
+  },
+  {
+   "topic": "snake",
+   "name": "Snake",
+   "count": 1,
+   "file": "data/topics/snake.json",
+   "factcovery": "https://www.factcovery.com/topics/snake"
+  }
+ ]
+}

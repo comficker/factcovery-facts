@@ -1,0 +1,293 @@
+{
+ "topic": "sports",
+ "name": "Sports",
+ "count": 15,
+ "factcovery": "https://www.factcovery.com/topics/sports",
+ "facts": [
+  {
+   "id": "a-global-baseball-powerhouse",
+   "title": "The Dominican Republic Sends More Players to MLB Than Any Country but the US",
+   "summary": "The Dominican Republic supplies more Major League Baseball players than any country except the United States.",
+   "topics": [
+    "dominican-republic",
+    "sports",
+    "culture"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Baseball_in_the_Dominican_Republic",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/a-global-baseball-powerhouse",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "ancient-olympic-athletes-competed-entirely-naked",
+   "title": "Ancient Olympic Athletes Competed Naked",
+   "summary": "For most of the history of the ancient Olympic Games, athletes competed in the nude.",
+   "topics": [
+    "history",
+    "ancient-history",
+    "sports",
+    "culture",
+    "weird",
+    "ancient-greece",
+    "olympic-games",
+    "sports-history",
+    "naked-athletes",
+    "greek-culture",
+    "gymnos"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/ancient-olympic-athletes-competed-entirely-naked",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "basketball-was-invented-by-a-canadian",
+   "title": "Basketball Was Invented by a Canadian",
+   "summary": "Basketball was invented in December 1891 by James Naismith, a Canadian born on November 6, 1861, in Almonte, in what is now Ontario.",
+   "topics": [
+    "canada",
+    "sports",
+    "history",
+    "fun",
+    "basketball",
+    "invention",
+    "james-naismith",
+    "sport-history",
+    "canadian",
+    "inventions"
+   ],
+   "source": "https://en.wikipedia.org/wiki/James_Naismith",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/basketball-was-invented-by-a-canadian",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bjelasnica-mountain-hosted-key-events-of-the-1984-winter-olympics",
+   "title": "Bjelašnica Mountain Hosted the Men's Alpine Skiing at the 1984 Winter Olympics",
+   "summary": "Bjelašnica, a 2,067-metre mountain in the Dinaric Alps, hosted the men's alpine skiing events of the 1984 Sarajevo Winter Olympics.",
+   "topics": [
+    "bosnia-and-herzegovina",
+    "geography",
+    "sports",
+    "history",
+    "bjelasnica",
+    "olympic-mountain",
+    "sarajevo-olympics",
+    "skiing",
+    "hiking",
+    "dinaric-alps"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bjela%C5%A1nica",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bjelasnica-mountain-hosted-key-events-of-the-1984-winter-olympics",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "brazil-holds-the-record-for-most-fifa-world-cup-wins",
+   "title": "Brazil Holds the Record for Most FIFA World Cup Wins",
+   "summary": "Brazil has won the FIFA World Cup five times, in 1958, 1962, 1970, 1994 and 2002, more than any other nation.",
+   "topics": [
+    "brazil",
+    "sports",
+    "history",
+    "fun",
+    "football",
+    "soccer",
+    "world-cup",
+    "brazilian-football",
+    "selecao",
+    "sports-history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/brazil-holds-the-record-for-most-fifa-world-cup-wins",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "british-virgin-islands-is-the-worlds-sailing-capital",
+   "title": "The British Virgin Islands Are One of the World's Top Sailing Charter Destinations",
+   "summary": "The British Virgin Islands are often described as the most popular yacht charter destination in the world, although titles such as \"sailing capital\" come from the travel trade rather than any official ranking.",
+   "topics": [
+    "british-virgin-islands",
+    "tourism",
+    "sports",
+    "geography",
+    "sailing",
+    "yachting",
+    "marine-tourism",
+    "caribbean",
+    "water-sports"
+   ],
+   "source": "https://www.northropandjohnson.com/navigator-news/travel/most-popular-charter-destination-in-the-world-the-british-virgin-islands",
+   "source_domain": "northropandjohnson.com",
+   "factcovery": "https://www.factcovery.com/facts/british-virgin-islands-is-the-worlds-sailing-capital",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cameroons-indomitable-lions-are-africas-most-successful-world-cup-team",
+   "title": "Cameroon Has Played at More World Cups Than Any Other African Nation",
+   "summary": "Cameroon's national team, the Indomitable Lions, has qualified for the FIFA World Cup eight times, more than any other African side.",
+   "topics": [
+    "cameroon",
+    "sports",
+    "culture",
+    "fun",
+    "football",
+    "world-cup",
+    "indomitable-lions",
+    "sports-history",
+    "africa"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cameroon_national_football_team",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cameroons-indomitable-lions-are-africas-most-successful-world-cup-team",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "constant-trade-winds-make-cabo-verde-a-top-destination-for-wind-and-kite-surfing",
+   "title": "Steady Trade Winds Make Cabo Verde's Sal Island a Kitesurfing Hotspot",
+   "summary": "Reliable trade winds have made the island of Sal, in Cabo Verde, a favourite destination for kitesurfers and windsurfers.",
+   "topics": [
+    "cabo-verde",
+    "sports",
+    "tourism",
+    "geography",
+    "fun",
+    "windsurfing",
+    "kitesurfing",
+    "trade-winds",
+    "watersports",
+    "sal-island",
+    "boa-vista"
+   ],
+   "source": "https://www.kiteworldwide.com/en/kiteholidays/cape-verde-sal/",
+   "source_domain": "kiteworldwide.com",
+   "factcovery": "https://www.factcovery.com/facts/constant-trade-winds-make-cabo-verde-a-top-destination-for-wind-and-kite-surfing",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "diego-maradonas-hand-of-god-goal-remains-infamous-in-football-history",
+   "title": "Diego Maradona's \"Hand of God\" Goal Remains Infamous in Football History",
+   "summary": "On 22 June 1986, Diego Maradona put the ball into England's net with his hand in a World Cup quarter-final, and the referee allowed the goal.",
+   "topics": [
+    "argentina",
+    "sport",
+    "history",
+    "fun",
+    "maradona",
+    "football",
+    "world-cup",
+    "hand-of-god",
+    "sporting-moments",
+    "sports"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hand_of_God_goal",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/diego-maradonas-hand-of-god-goal-remains-infamous-in-football-history",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "kendo-is-a-modern-japanese-martial-art-based-on-samurai-swordsmanship",
+   "title": "Kendo Is a Modern Japanese Martial Art Based on Samurai Swordsmanship",
+   "summary": "Kendo, meaning 'the way of the sword', is a modern Japanese martial art descended from kenjutsu, the swordsmanship of the samurai.",
+   "topics": [
+    "japanese",
+    "martial-arts",
+    "culture",
+    "history",
+    "kendo",
+    "samurai",
+    "swordsmanship",
+    "japanese-culture",
+    "sport",
+    "sports",
+    "japan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Kendo",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/kendo-is-a-modern-japanese-martial-art-based-on-samurai-swordsmanship",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "monaco-has-never-sent-a-summer-olympics-team-that-didnt-win-a-medal-because-it-rarely-sends-one",
+   "title": "Monaco Has Competed at More Olympics Than Any Nation Without a Medal",
+   "summary": "Monaco has taken part in more Olympic Games than any other nation without ever winning a medal in an Olympic sport.",
+   "topics": [
+    "monaco",
+    "sports",
+    "history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Monaco_at_the_Olympics",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/monaco-has-never-sent-a-summer-olympics-team-that-didnt-win-a-medal-because-it-rarely-sends-one",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-first-modern-olympic-games-were-held-in-athens-in-1896",
+   "title": "The First Modern Olympic Games Were Held in Athens in 1896",
+   "summary": "The first modern Olympic Games were held in Athens, Greece, from 6 to 15 April 1896.",
+   "topics": [
+    "1896",
+    "sports",
+    "history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-first-modern-olympic-games-were-held-in-athens-in-1896",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-monaco-grand-prix-runs-through-a-living-city-on-public-roads",
+   "title": "The Monaco Grand Prix Runs Through a Living City on Public Roads",
+   "summary": "The Monaco Grand Prix is raced on the Circuit de Monaco, a temporary track laid out on the everyday streets of Monte Carlo and La Condamine.",
+   "topics": [
+    "monaco",
+    "sports",
+    "geography-places"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Monaco_Grand_Prix",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-monaco-grand-prix-runs-through-a-living-city-on-public-roads",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-una-river-is-a-top-destination-for-thrilling-white-water-rafting",
+   "title": "The Una River Is a Top Destination for White-Water Rafting",
+   "summary": "The Una, a river in northwest Bosnia and Herzegovina known for its emerald-green water, is one of the region's best-known white-water rafting rivers.",
+   "topics": [
+    "bosnia-and-herzegovina",
+    "nature",
+    "sports",
+    "tourism",
+    "una-river",
+    "una-national-park",
+    "white-water-rafting",
+    "adventure-tourism",
+    "water-sports"
+   ],
+   "source": "https://www.inlandia.com/special-offers/top-five-country-recommendations/bosnia-and-herzegovina/rafting-una-river-national-park.html",
+   "source_domain": "inlandia.com",
+   "factcovery": "https://www.factcovery.com/facts/the-una-river-is-a-top-destination-for-thrilling-white-water-rafting",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "traditional-camel-racing-is-a-popular-sport-in-chad",
+   "title": "Camel Races Headline Chad's Festival of Saharan Cultures",
+   "summary": "Camel racing is one of the headline events of Chad's festival of Saharan cultures, which in early 2026 brought together more than 400 dromedaries.",
+   "topics": [
+    "chad",
+    "culture",
+    "sports",
+    "fun",
+    "camel-racing",
+    "traditions",
+    "desert-life",
+    "chad-events"
+   ],
+   "source": "https://www.africanews.com/2026/02/09/chads-saharan-cultures-festival-brings-together-desert-nations/",
+   "source_domain": "africanews.com",
+   "factcovery": "https://www.factcovery.com/facts/traditional-camel-racing-is-a-popular-sport-in-chad",
+   "updated": "2026-11-17"
+  }
+ ]
+}

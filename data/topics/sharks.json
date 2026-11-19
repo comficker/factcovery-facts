@@ -1,0 +1,249 @@
+{
+ "topic": "sharks",
+ "name": "Sharks",
+ "count": 18,
+ "factcovery": "https://www.factcovery.com/topics/sharks",
+ "facts": [
+  {
+   "id": "a-bonnethead-shark-gave-birth-without-a-male-in-a-nebraska-zoo",
+   "title": "A Bonnethead Shark Gave Birth Without a Male in a Nebraska Zoo",
+   "summary": "In 2001, a bonnethead shark at the Henry Doorly Zoo in Omaha, Nebraska, gave birth even though no male of her species was present.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.sciencenews.org/article/virgin-birth-shark-has-daughter-without-dad",
+   "source_domain": "sciencenews.org",
+   "factcovery": "https://www.factcovery.com/facts/a-bonnethead-shark-gave-birth-without-a-male-in-a-nebraska-zoo",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bull-sharks-have-swum-4000-kilometres-up-the-amazon-river",
+   "title": "Bull Sharks Have Swum 4,000 Kilometres Up the Amazon River",
+   "summary": "Bull sharks can live in fresh water.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bull_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bull-sharks-have-swum-4000-kilometres-up-the-amazon-river",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "greenland-sharks-can-live-for-centuries",
+   "title": "Greenland Sharks Can Live for Centuries",
+   "summary": "A Greenland shark measuring 5.02 metres was estimated to be 392 years old, give or take 120 years, so it was at least 272.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Greenland_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/greenland-sharks-can-live-for-centuries",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "many-sharks-are-apex-predators",
+   "title": "Many Sharks Are Apex Predators",
+   "summary": "Several shark species are apex predators, sitting at the top of their food chains.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/many-sharks-are-apex-predators",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sand-tiger-shark-embryos-eat-their-siblings-before-birth",
+   "title": "Sand Tiger Shark Embryos Eat Their Siblings Before Birth",
+   "summary": "Sand tiger sharks start eating each other before they are born.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sand_tiger_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sand-tiger-shark-embryos-eat-their-siblings-before-birth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "shark-skin-is-covered-in-tiny-teeth-like-scales",
+   "title": "Shark Skin Is Covered in Tiny Tooth-Like Scales",
+   "summary": "Shark skin is covered in dermal denticles, tiny scales built like teeth.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Fish_scale",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/shark-skin-is-covered-in-tiny-teeth-like-scales",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sharks-can-sense-the-electricity-of-living-things",
+   "title": "Sharks Can Sense the Electricity of Living Things",
+   "summary": "Sharks can detect the faint electric fields that living animals give off, using hundreds to thousands of sense organs called ampullae of Lorenzini.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ampullae_of_Lorenzini",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sharks-can-sense-the-electricity-of-living-things",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sharks-cant-swim-backwards",
+   "title": "Sharks Can't Swim Backwards",
+   "summary": "Sharks cannot swim backwards.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sharks-cant-swim-backwards",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sharks-dont-have-swim-bladders",
+   "title": "Sharks Don't Have Swim Bladders",
+   "summary": "Sharks have no gas-filled swim bladder, the organ most bony fish use to stay afloat.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sharks-dont-have-swim-bladders",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sharks-have-five-to-seven-gill-slits",
+   "title": "Sharks Have Five to Seven Gill Slits",
+   "summary": "Sharks breathe through a row of five to seven gill slits on each side of the head, while bony fish keep their gills under a single bony flap called the operculum.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sharks-have-five-to-seven-gill-slits",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sharks-keep-replacing-their-teeth",
+   "title": "Sharks Keep Replacing Their Teeth All Their Lives",
+   "summary": "Sharks replace their teeth throughout their lives, and some lose 30,000 or more over a lifetime.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sharks-keep-replacing-their-teeth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sharks-range-from-pocket-sized-to-bus-sized",
+   "title": "Sharks Range From Hand-Sized to Bus-Sized",
+   "summary": "Sharks span an enormous range of sizes, from the dwarf lanternshark, small enough to hold in one hand, to the whale shark, the largest fish in the world.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sharks-range-from-pocket-sized-to-bus-sized",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "some-sharks-live-over-100-years",
+   "title": "Some Sharks Live More Than 100 Years",
+   "summary": "Most sharks live 20 to 30 years, but a few species are thought to pass the century mark.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/some-sharks-live-over-100-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-bonnethead-was-the-first-shark-found-to-be-omnivorous",
+   "title": "The Bonnethead Was the First Shark Found to Be Omnivorous",
+   "summary": "The bonnethead, a small shark in the hammerhead family, eats large amounts of seagrass.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bonnethead",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-bonnethead-was-the-first-shark-found-to-be-omnivorous",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-cookiecutter-shark-bites-round-plugs-out-of-whales-and-submarines",
+   "title": "The Cookiecutter Shark Bites Round Plugs Out of Whales and Submarines",
+   "summary": "The cookiecutter shark grows to a maximum recorded length of only 42 centimetres for males and 56 centimetres for females, yet it feeds on animals far larger than itself by gouging round plugs of flesh out of them, as if with a cookie…",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cookiecutter_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-cookiecutter-shark-bites-round-plugs-out-of-whales-and-submarines",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-epaulette-shark-walks-on-its-fins-and-survives-two-hours-without-oxygen",
+   "title": "The Epaulette Shark Walks on Its Fins and Survives Two Hours Without Oxygen",
+   "summary": "The epaulette shark can walk.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.eurekalert.org/news-releases/962176",
+   "source_domain": "eurekalert.org",
+   "factcovery": "https://www.factcovery.com/facts/the-epaulette-shark-walks-on-its-fins-and-survives-two-hours-without-oxygen",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-shortfin-mako-is-the-fastest-shark-in-the-ocean",
+   "title": "The Shortfin Mako Is the Fastest Shark in the Ocean",
+   "summary": "The shortfin mako is the fastest known shark and one of the fastest fish.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-shortfin-mako-is-the-fastest-shark-in-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-whale-shark-is-the-largest-fish-in-the-world",
+   "title": "The Whale Shark Is the Largest Fish in the World",
+   "summary": "The whale shark is the largest living fish, and the biggest reliably recorded individual measured 18.8 metres.",
+   "topics": [
+    "sharks",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Whale_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-whale-shark-is-the-largest-fish-in-the-world",
+   "updated": "2026-11-17"
+  }
+ ]
+}

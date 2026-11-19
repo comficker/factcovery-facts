@@ -1,0 +1,23 @@
+{
+ "topic": "snake",
+ "name": "Snake",
+ "count": 1,
+ "factcovery": "https://www.factcovery.com/topics/snake",
+ "facts": [
+  {
+   "id": "the-smallest-snake-in-the-world-is-shorter-than-a-pencil",
+   "title": "One of the World's Smallest Snakes Is Shorter Than a Pencil",
+   "summary": "The Barbados threadsnake (Tetracheilostoma carlae) is thought to be one of the smallest snakes in the world: adults average about 10 cm long, and the largest specimen measured 10.4 cm.",
+   "topics": [
+    "snake",
+    "animals",
+    "biology",
+    "fun"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Tetracheilostoma_carlae",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-smallest-snake-in-the-world-is-shorter-than-a-pencil",
+   "updated": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,607 @@
+{
+ "topic": "science",
+ "name": "Science",
+ "count": 40,
+ "factcovery": "https://www.factcovery.com/topics/science",
+ "facts": [
+  {
+   "id": "a-teaspoon-of-neutron-star-material-would-weigh-10-million-tonnes",
+   "title": "A Teaspoon of Neutron Star Material Would Weigh Billions of Tonnes",
+   "summary": "A single teaspoon (4.9 millilitres) of neutron star material would have a mass of more than 5.5 × 10^12 kg, about 5.5 billion tonnes, or roughly 900 times the mass of the Great Pyramid of Giza.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Neutron_star",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/a-teaspoon-of-neutron-star-material-would-weigh-10-million-tonnes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "all-clownfish-are-born-male",
+   "title": "All Clownfish Start Life as Males",
+   "summary": "Clownfish are protandrous hermaphrodites: every fish matures as a male first, and only the most dominant member of a group ever becomes female.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clownfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/all-clownfish-are-born-male",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "astronauts-cannot-cry-in-space-2197",
+   "title": "Astronauts Can Cry in Space, but Their Tears Don't Fall",
+   "summary": "Astronauts can cry in space, but their tears do not run down their cheeks.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://www.nbcnews.com/science/cosmic-log/why-you-better-not-cry-space-flna1c9304803",
+   "source_domain": "nbcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/astronauts-cannot-cry-in-space-2197",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bulgaria-sent-the-first-cosmonaut-from-the-balkans-into-space",
+   "title": "Georgi Ivanov Became Bulgaria's First Cosmonaut in 1979",
+   "summary": "On 10 April 1979, Georgi Ivanov became the first Bulgarian in space, launching from Baikonur aboard Soyuz 33 with Soviet cosmonaut Nikolai Rukavishnikov as part of the Intercosmos programme.",
+   "topics": [
+    "bulgaria",
+    "space",
+    "history",
+    "science",
+    "georgi-ivanov",
+    "cosmonaut",
+    "space-travel",
+    "bulgarian-history",
+    "balkans"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Georgi_Ivanov_(cosmonaut)",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bulgaria-sent-the-first-cosmonaut-from-the-balkans-into-space",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "canadas-arctic-hosts-the-magnetic-north-pole",
+   "title": "The North Magnetic Pole Sat in Canada's Arctic for Centuries, Then Left",
+   "summary": "The north magnetic pole, the point where Earth's magnetic field points straight down, lay within the Canadian Arctic for as long as it has been measured, but it has since drifted out toward Siberia.",
+   "topics": [
+    "canada",
+    "science",
+    "geography",
+    "nature",
+    "magnetic-north-pole",
+    "arctic",
+    "geology",
+    "earth-science",
+    "navigation"
+   ],
+   "source": "https://en.wikipedia.org/wiki/North_magnetic_pole",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/canadas-arctic-hosts-the-magnetic-north-pole",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cats-have-a-hidden-third-eyelid",
+   "title": "Cats Have a Hidden Third Eyelid",
+   "summary": "Cats have a third eyelid, the nictitating membrane, a translucent fold that sweeps sideways across the eye from its inner corner.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Nictitating_membrane",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cats-have-a-hidden-third-eyelid",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "chameleons-change-color-to-communicate-not-to-camouflage",
+   "title": "Chameleons Change Color Mainly to Communicate and Control Heat, Not to Hide",
+   "summary": "Chameleons change color mostly to signal to other chameleons and to manage their body temperature, rather than primarily for camouflage.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chameleon",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/chameleons-change-color-to-communicate-not-to-camouflage",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cleopatra-lived-closer-to-the-moon-landing-than-to-the-pyramids",
+   "title": "Cleopatra Lived Closer to the Moon Landing Than to the Pyramids",
+   "summary": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid of Giza.",
+   "topics": [
+    "weird",
+    "history",
+    "science",
+    "time",
+    "cleopatra",
+    "pyramids",
+    "timeline",
+    "iphone",
+    "ancient-egypt"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cleopatra",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cleopatra-lived-closer-to-the-moon-landing-than-to-the-pyramids",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "crocodiles-cannot-stick-out-their-tongues",
+   "title": "Crocodiles Cannot Stick Out Their Tongues",
+   "summary": "A crocodile cannot stick out its tongue, because the tongue is fixed in place.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://www.futurity.org/dinosaur-tongues-alligators-fossils-1793562/",
+   "source_domain": "futurity.org",
+   "factcovery": "https://www.factcovery.com/facts/crocodiles-cannot-stick-out-their-tongues",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "crows-can-recognize-and-remember-human-faces",
+   "title": "Crows Can Recognize and Remember Human Faces",
+   "summary": "Wild crows can recognise an individual human face and remember someone who threatened them for years.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://www.hcn.org/blogs/goat/the-crow-knows-your-nose/",
+   "source_domain": "hcn.org",
+   "factcovery": "https://www.factcovery.com/facts/crows-can-recognize-and-remember-human-faces",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "crows-hold-funerals-and-remember-dangerous-locations",
+   "title": "Crows Gather Around Their Dead to Learn Where Danger Lurks",
+   "summary": "When wild American crows find a dead crow, they gather, call loudly and mob nearby threats, and they appear to use the event to learn about danger.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://carlzimmer.com/crows-may-learn-lessons-from-death-88/",
+   "source_domain": "carlzimmer.com",
+   "factcovery": "https://www.factcovery.com/facts/crows-hold-funerals-and-remember-dangerous-locations",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "elephants-have-the-longest-pregnancy-of-any-land-mammal",
+   "title": "Elephants Have the Longest Pregnancy of Any Mammal Studied",
+   "summary": "Elephant pregnancies last up to 680 days, about 22 months, which is longer than in any other mammal studied so far.",
+   "topics": [
+    "elephant",
+    "animals",
+    "biology",
+    "science"
+   ],
+   "source": "https://www.fv-berlin.de/en/info-for/the-media-and-public/news/luteal-development-and-pregnancy-in-elephants",
+   "source_domain": "fv-berlin.de",
+   "factcovery": "https://www.factcovery.com/facts/elephants-have-the-longest-pregnancy-of-any-land-mammal",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "figs-contain-the-remains-of-wasps",
+   "title": "Fig Wasps Die Inside Figs, and the Fruit Digests Them",
+   "summary": "Many figs are pollinated by a female wasp that crawls inside the young fruit, lays her eggs there and dies inside it.",
+   "topics": [
+    "weird",
+    "science",
+    "animals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Fig_wasp",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/figs-contain-the-remains-of-wasps",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "katherine-johnsons-calculations-were-essential-to-nasas-moon-landing",
+   "title": "Katherine Johnson's Calculations Helped Send Americans Into Orbit and to the Moon",
+   "summary": "Katherine Johnson, an African American mathematician at NASA's Langley center, calculated trajectories for America's first human spaceflights and for the Apollo Moon missions.",
+   "topics": [
+    "woman",
+    "women",
+    "science",
+    "space"
+   ],
+   "source": "https://www.nasa.gov/content/katherine-johnson-biography",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/katherine-johnsons-calculations-were-essential-to-nasas-moon-landing",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lightning-strikes-earth-about-100-times-per-second",
+   "title": "Lightning Flashes About 44 Times Every Second Around the World",
+   "summary": "Lightning flashes about 44 times per second on average across the planet, give or take five, adding up to nearly 1.4 billion flashes a year.",
+   "topics": [
+    "weird",
+    "science",
+    "nature"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lightning",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/lightning-strikes-earth-about-100-times-per-second",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "marie-curie-is-the-only-person-to-win-nobel-prizes-in-two-different-sciences",
+   "title": "Marie Curie Is the Only Person to Win Nobel Prizes in Two Different Sciences",
+   "summary": "Marie Curie is the only person to have won Nobel Prizes in two different sciences.",
+   "topics": [
+    "woman",
+    "women",
+    "science",
+    "history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marie_Curie",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/marie-curie-is-the-only-person-to-win-nobel-prizes-in-two-different-sciences",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "pando-is-the-oldest-and-heaviest-living-organism-on-earth",
+   "title": "Pando, a Single Aspen Clone, Is the World's Heaviest Tree at About 6,000 Tonnes",
+   "summary": "Pando, a quaking aspen clone in Utah, is considered the heaviest known tree, with an estimated mass of about 6,000 metric tons.",
+   "topics": [
+    "weird",
+    "science",
+    "nature"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Pando_(tree)",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/pando-is-the-oldest-and-heaviest-living-organism-on-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "parrotfish-eat-coral-and-poop-out-white-sand-beaches",
+   "title": "Parrotfish Grind Up Reef Rock and Excrete It as Sand",
+   "summary": "Parrotfish turn reef rock into sand.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird",
+    "fun"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Parrotfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/parrotfish-eat-coral-and-poop-out-white-sand-beaches",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "peanuts-almonds-and-cashews-are-not-true-nuts",
+   "title": "Peanuts, Almonds and Cashews Are Not True Nuts",
+   "summary": "Peanuts, almonds and cashews are sold as nuts, but botanically none of them is a true nut.",
+   "topics": [
+    "weird",
+    "food",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Nut_(fruit)",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/peanuts-almonds-and-cashews-are-not-true-nuts",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "puffer-fish-are-the-second-most-poisonous-vertebrate-on-earth",
+   "title": "One Pufferfish Carries Enough Toxin to Kill 30 Adults",
+   "summary": "Almost all pufferfish contain tetrodotoxin, and a single fish carries enough of it to kill 30 adult humans.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/fish/facts/pufferfish",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/puffer-fish-are-the-second-most-poisonous-vertebrate-on-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "rubber-bands-last-longer-when-stored-in-the-refrigerator",
+   "title": "Rubber Bands Last Longer When Kept Cool, Dark and Relaxed",
+   "summary": "Rubber bands age more slowly in cool storage, which is why a refrigerator is a reasonable place to keep them.",
+   "topics": [
+    "weird",
+    "science",
+    "fun"
+   ],
+   "source": "https://www.martins-rubber.co.uk/storage-guidelines/",
+   "source_domain": "martins-rubber.co.uk",
+   "factcovery": "https://www.factcovery.com/facts/rubber-bands-last-longer-when-stored-in-the-refrigerator",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "salmon-return-to-exactly-the-same-river-where-they-were-born",
+   "title": "Salmon Find Their Home River Using Earth's Magnetic Field",
+   "summary": "Pacific salmon return from the open ocean to spawn in the river where they were born, and evidence suggests Earth's magnetic field guides them there.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "biology"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2013/02/130207131713.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/salmon-return-to-exactly-the-same-river-where-they-were-born",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sloths-can-hold-their-breath-longer-than-dolphins",
+   "title": "Sloths Can Hold Their Breath Longer Than Dolphins",
+   "summary": "A sloth can hold its breath underwater for up to 40 minutes, about twice as long as a bottlenose dolphin's maximum of roughly 20 minutes.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sloth",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sloths-can-hold-their-breath-longer-than-dolphins",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sound-travels-4-times-faster-in-water-than-in-air",
+   "title": "Sound Travels More Than 4 Times Faster in Water Than in Air",
+   "summary": "Sound moves more than four times faster through water than through air.",
+   "topics": [
+    "weird",
+    "science",
+    "physics"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Speed_of_sound",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sound-travels-4-times-faster-in-water-than-in-air",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "spider-silk-is-stronger-than-steel-by-weight",
+   "title": "Spider Silk Is Stronger Than Steel by Weight",
+   "summary": "Weight for weight, spider dragline silk is about five times as strong as steel.",
+   "topics": [
+    "weird",
+    "science",
+    "animals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Spider_silk",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/spider-silk-is-stronger-than-steel-by-weight",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "starfish-have-no-brain-and-no-blood-they-use-seawater",
+   "title": "Starfish Have No Brain and Move by Pumping Seawater",
+   "summary": "Starfish have no centralized brain.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Starfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/starfish-have-no-brain-and-no-blood-they-use-seawater",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-average-color-of-the-universe-is-a-pale-beige",
+   "title": "The Average Color of the Universe Is a Pale Beige Called Cosmic Latte",
+   "summary": "If all the light in the universe were averaged together, it would look a pale, creamy beige, a shade astronomers named 'Cosmic Latte' (hex #FFF8E7).",
+   "topics": [
+    "weird",
+    "science",
+    "space",
+    "astronomy",
+    "cosmic-latte",
+    "universe",
+    "color",
+    "light",
+    "colors",
+    "fun"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cosmic_latte",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-average-color-of-the-universe-is-a-pale-beige",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-deep-sea-dragonfish-has-transparent-teeth",
+   "title": "The Deep-Sea Dragonfish Has Transparent Teeth",
+   "summary": "The deep-sea dragonfish Aristostomias scintillans has teeth that are nearly invisible because they are transparent.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird",
+    "biology"
+   ],
+   "source": "https://scripps.ucsd.edu/news/researchers-discover-what-makes-deep-sea-dragonfish-teeth-transparent",
+   "source_domain": "scripps.ucsd.edu",
+   "factcovery": "https://www.factcovery.com/facts/the-deep-sea-dragonfish-has-transparent-teeth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-immortal-jellyfish-resets-its-own-biological-clock",
+   "title": "The 'Immortal Jellyfish' Can Turn Back Into a Juvenile Polyp",
+   "summary": "Turritopsis dohrnii, a jellyfish with a bell only about 4.5 millimetres across, can reverse its life cycle, changing from an adult medusa back into a polyp, the early stage of a jellyfish's life.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Turritopsis_dohrnii",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-immortal-jellyfish-resets-its-own-biological-clock",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-mantis-shrimp-punches-with-the-force-of-a-bullet",
+   "title": "The Mantis Shrimp's Punch Accelerates at More Than 10,000 g",
+   "summary": "The peacock mantis shrimp (Odontodactylus scyllarus) strikes with a club-like appendage that accelerates at about 10,400 g and reaches 23 m/s (83 km/h) from a standing start.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-mantis-shrimp-punches-with-the-force-of-a-bullet",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-mimic-octopus-can-imitate-over-15-different-species",
+   "title": "The Mimic Octopus Impersonates Lionfish, Sea Snakes and Flatfish",
+   "summary": "The mimic octopus, Thaumoctopus mimicus, disguises itself as other sea animals, changing its colour, shape and behaviour to switch between as many as 18 different models.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mimic_octopus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-mimic-octopus-can-imitate-over-15-different-species",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-smell-of-rain-has-an-official-scientific-name-petrichor",
+   "title": "The Smell of Rain Has a Scientific Name: Petrichor",
+   "summary": "The earthy smell that comes with rain after a dry spell has a scientific name: petrichor.",
+   "topics": [
+    "weird",
+    "science",
+    "nature"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Petrichor",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-smell-of-rain-has-an-official-scientific-name-petrichor",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-sun-contains-9986-of-the-solar-systems-total-mass",
+   "title": "The Sun Contains 99.86% of the Solar System's Mass",
+   "summary": "The Sun holds about 99.86% of all the mass in the Solar System, leaving just 0.14% for every planet, moon, asteroid and comet combined.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Solar_mass",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-sun-contains-9986-of-the-solar-systems-total-mass",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-worlds-largest-living-organism-is-a-fungus-in-oregon",
+   "title": "The World's Largest Known Fungus Covers About 2,200 Acres in Oregon",
+   "summary": "A single honey mushroom, Armillaria ostoyae, growing in eastern Oregon covers about 2,200 acres (roughly 890 hectares), an area ABC News compared to 1,665 football fields.",
+   "topics": [
+    "weird",
+    "science",
+    "nature"
+   ],
+   "source": "https://abcnews.com/Technology/story?id=120049",
+   "source_domain": "abcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/the-worlds-largest-living-organism-is-a-fungus-in-oregon",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tigers-have-striped-skin-not-just-striped-fur",
+   "title": "Tigers Have Striped Skin, Not Just Striped Fur",
+   "summary": "A tiger's stripes are not only in its fur: the skin underneath has the same striped pattern.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://www.downtoearth.org.in/wildlife-biodiversity/why-do-tigers-have-stripes--74393",
+   "source_domain": "downtoearth.org.in",
+   "factcovery": "https://www.factcovery.com/facts/tigers-have-striped-skin-not-just-striped-fur",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tuna-can-maintain-body-temperature-warmer-than-the-ocean",
+   "title": "Bluefin Tuna Keep Their Bodies Warmer Than the Ocean Around Them",
+   "summary": "Atlantic bluefin tuna keep their bodies far warmer than the water they swim in, holding a temperature of about 25 to 33°C even in the cold North Atlantic.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/tuna-can-maintain-body-temperature-warmer-than-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "uranus-rotates-at-a-98-tilt-each-season-lasts-21-years",
+   "title": "Uranus Spins on Its Side, So Each Season Lasts About 21 Years",
+   "summary": "Uranus has an axial tilt of 97.77°, so it effectively rolls around the Sun on its side, and each of its four seasons lasts about 21 Earth years.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Uranus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/uranus-rotates-at-a-98-tilt-each-season-lasts-21-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "vending-machines-kill-more-people-per-year-than-sharks",
+   "title": "In the US, Falling Vending Machines Once Killed More People Than Sharks",
+   "summary": "Between 1978 and 1995, falling vending machines killed more Americans than sharks did.",
+   "topics": [
+    "weird",
+    "fun",
+    "science"
+   ],
+   "source": "https://www.todayifoundout.com/index.php/2017/09/vending-machines-really-kill-americans-sharks/",
+   "source_domain": "todayifoundout.com",
+   "factcovery": "https://www.factcovery.com/facts/vending-machines-kill-more-people-per-year-than-sharks",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "whale-sharks-are-the-largest-fish-but-eat-only-tiny-plankton",
+   "title": "Whale Sharks Are the Largest Fish but Feed on Tiny Plankton",
+   "summary": "The whale shark is the largest living fish, yet it feeds mostly on some of the smallest food in the sea.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Whale_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/whale-sharks-are-the-largest-fish-but-eat-only-tiny-plankton",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "you-cannot-hum-while-holding-your-nose",
+   "title": "You Can't Keep Humming While Holding Your Nose",
+   "summary": "You cannot keep humming while you pinch your nose shut.",
+   "topics": [
+    "weird",
+    "science",
+    "biology"
+   ],
+   "source": "https://www.classiccitynews.com/post/why-you-can-t-hum-while-holding-your-nose",
+   "source_domain": "classiccitynews.com",
+   "factcovery": "https://www.factcovery.com/facts/you-cannot-hum-while-holding-your-nose",
+   "updated": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "topic": "engineering",
+ "name": "Engineering",
+ "count": 15,
+ "factcovery": "https://www.factcovery.com/topics/engineering",
+ "facts": [
+  {
+   "id": "ancient-roman-concrete-is-stronger-than-modern-concrete",
+   "title": "Ancient Roman Concrete Outlasts Modern Concrete in Seawater",
+   "summary": "Roman concrete is not simply stronger than modern concrete, but it is far more durable in the sea: Roman harbor structures have lasted about 2,000 years with little wear, while modern concrete exposed to saltwater can deteriorate within…",
+   "topics": [
+    "history",
+    "engineering",
+    "materials-science",
+    "weird",
+    "roman-concrete",
+    "ancient-technology",
+    "durability",
+    "volcanic-ash"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Roman_concrete",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/ancient-roman-concrete-is-stronger-than-modern-concrete",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bahrain-connects-to-saudi-arabia-via-a-25-kilometer-causeway",
+   "title": "Bahrain Connects to Saudi Arabia via a 25-Kilometer Causeway",
+   "summary": "The King Fahd Causeway is a 25-kilometer (16-mile) chain of bridges and embankments that links Al Khobar in Saudi Arabia to Al Jasra in Bahrain across the Gulf of Bahrain.",
+   "topics": [
+    "bahrain",
+    "engineering",
+    "infrastructure",
+    "travel",
+    "king-fahd-causeway",
+    "bridge",
+    "saudi-arabia",
+    "international-link",
+    "transportation"
+   ],
+   "source": "https://en.wikipedia.org/wiki/King_Fahd_Causeway",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bahrain-connects-to-saudi-arabia-via-a-25-kilometer-causeway",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bahrain-is-expanding-its-landmass-with-ambitious-artificial-islands",
+   "title": "Bahrain Has Expanded Its Land Area With Artificial Islands",
+   "summary": "Bahrain has been enlarging its territory by reclaiming land from the sea, creating artificial islands and new waterfront districts.",
+   "topics": [
+    "bahrain",
+    "urban-development",
+    "engineering",
+    "environment",
+    "artificial-islands",
+    "land-reclamation",
+    "urban-planning",
+    "development",
+    "coastal-engineering",
+    "architecture"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Land_reclamation_in_Bahrain",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bahrain-is-expanding-its-landmass-with-ambitious-artificial-islands",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "belgium-boasted-europes-first-skyscraper",
+   "title": "Antwerp's Boerentoren Was One of Europe's First Skyscrapers",
+   "summary": "The Boerentoren in Antwerp, Belgium, completed in December 1931, was one of Europe's very first tall buildings.",
+   "topics": [
+    "belgium",
+    "architecture",
+    "history",
+    "engineering",
+    "skyscraper",
+    "antwerp",
+    "modernism",
+    "landmark"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Boerentoren",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/belgium-boasted-europes-first-skyscraper",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bermudian-homes-feature-unique-stepped-white-roofs-designed-to-collect-rainwater",
+   "title": "Bermudian Homes Have Stepped White Roofs Designed to Collect Rainwater",
+   "summary": "Traditional Bermudian houses have stepped white limestone roofs designed to collect rainwater, because the island has no fresh water supply other than rain.",
+   "topics": [
+    "bermuda",
+    "architecture",
+    "engineering",
+    "environment",
+    "bermuda-architecture",
+    "rainwater-harvesting",
+    "water-conservation",
+    "sustainable-living",
+    "limestone-roofs",
+    "island-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Architecture_of_Bermuda",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bermudian-homes-feature-unique-stepped-white-roofs-designed-to-collect-rainwater",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "brunei-has-southeast-asias-longest-sea-crossing-bridge",
+   "title": "Brunei's 30 km Temburong Bridge Is Southeast Asia's Longest Bridge",
+   "summary": "The Sultan Haji Omar 'Ali Saifuddien Bridge, also called the Temburong Bridge, is a 30-kilometer crossing described as the longest bridge in Southeast Asia.",
+   "topics": [
+    "brunei",
+    "engineering",
+    "infrastructure",
+    "geography",
+    "temburong-bridge",
+    "sultan-haji-omar-ali-saifuddien-bridge",
+    "bridge",
+    "brunei-infrastructure",
+    "engineering-marvel",
+    "sea-crossing"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sultan_Haji_Omar_Ali_Saifuddien_Bridge",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/brunei-has-southeast-asias-longest-sea-crossing-bridge",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "chad-built-a-major-oil-pipeline-to-the-atlantic-coast",
+   "title": "Chad Exports Its Oil Through a 1,070 km Pipeline to Cameroon's Coast",
+   "summary": "The Chad–Cameroon pipeline, completed in 2003, carries crude oil 1,070 kilometers from oilfields near Doba in southern Chad to the Atlantic coast of Cameroon.",
+   "topics": [
+    "chad",
+    "economy",
+    "engineering",
+    "development",
+    "oil-pipeline",
+    "cameroon",
+    "infrastructure",
+    "energy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chad%E2%80%93Cameroon_Petroleum_Development_and_Pipeline_Project",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/chad-built-a-major-oil-pipeline-to-the-atlantic-coast",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "eritreas-unique-colonial-railway-system",
+   "title": "Eritrea's Italian-Built Railway Climbs From the Red Sea to 2,394 Meters",
+   "summary": "Eritrea's narrow-gauge railway, built under Italian colonial rule, climbs from the Red Sea port of Massawa to a high point of 2,394 meters just east of Asmara.",
+   "topics": [
+    "eritrea",
+    "engineering",
+    "history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eritrean_Railway",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/eritreas-unique-colonial-railway-system",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "kites-were-first-used-in-china-as-early-as-400-bc",
+   "title": "Kites Were Invented in China Around the 5th Century BC",
+   "summary": "Kites were invented in China, where the 5th-century BC philosophers Mozi and Lu Ban are credited with flying the first ones.",
+   "topics": [
+    "china",
+    "history",
+    "inventions",
+    "technology",
+    "kites",
+    "ancient-china",
+    "aerodynamics",
+    "military-technology",
+    "engineering"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Kite",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/kites-were-first-used-in-china-as-early-as-400-bc",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "la-paz-boasts-the-worlds-longest-and-highest-urban-cable-car-system",
+   "title": "La Paz's Mi Teleférico Is the World's Longest Cable Car Network",
+   "summary": "Mi Teleférico, the cable car network serving La Paz and El Alto in Bolivia, is described as the longest aerial cable car system in the world.",
+   "topics": [
+    "bolivia",
+    "cities",
+    "engineering",
+    "records",
+    "fun",
+    "mi-teleferico",
+    "la-paz",
+    "cable-car",
+    "public-transport",
+    "urban-planning"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mi_Telef%C3%A9rico",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/la-paz-boasts-the-worlds-longest-and-highest-urban-cable-car-system",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "roller-coasters-originated-from-17th-century-russian-ice-slides",
+   "title": "Roller Coasters Grew Out of 17th-Century Russian Ice Slides",
+   "summary": "The roller coaster is believed to descend from the \"Russian Mountains,\" hills of ice built in the 17th century in the area that is now Saint Petersburg, which riders slid down on sleds.",
+   "topics": [
+    "fun",
+    "history",
+    "engineering",
+    "roller-coasters",
+    "ice-slides",
+    "russia",
+    "amusement-parks",
+    "history-of-entertainment",
+    "thrill-rides"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Roller_coaster",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/roller-coasters-originated-from-17th-century-russian-ice-slides",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-eiffel-tower-shrinks-in-winter-by-up-to-6-inches",
+   "title": "The Eiffel Tower Grows in Summer and Shrinks in Winter",
+   "summary": "The Eiffel Tower really does change size with the seasons, but only by a few millimeters, not the 15 centimeters (6 inches) often claimed.",
+   "topics": [
+    "cool",
+    "engineering",
+    "physics",
+    "architecture",
+    "eiffel-tower",
+    "thermal-expansion",
+    "thermal-contraction",
+    "iron",
+    "paris"
+   ],
+   "source": "https://www.yahoo.com/news/fact-check-eiffel-tower-grows-120000751.html",
+   "source_domain": "yahoo.com",
+   "factcovery": "https://www.factcovery.com/facts/the-eiffel-tower-shrinks-in-winter-by-up-to-6-inches",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-iconic-elbow-reef-lighthouse-is-manually-operated",
+   "title": "The Elbow Reef Lighthouse Is Still Hand-Cranked and Burns Kerosene",
+   "summary": "The Elbow Reef Lighthouse on Elbow Cay, in the Abaco Islands of the Bahamas, is one of only three manually operated lighthouses left in the world.",
+   "topics": [
+    "the-bahamas",
+    "history",
+    "technology",
+    "tourism",
+    "engineering",
+    "elbow-reef-lighthouse",
+    "elbow-cay",
+    "hope-town",
+    "lighthouse",
+    "maritime-history",
+    "manual-operation"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elbow_Reef_Lighthouse",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-iconic-elbow-reef-lighthouse-is-manually-operated",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-north-yungas-road-was-once-dubbed-the-worlds-most-dangerous-road",
+   "title": "Bolivia's North Yungas Road Was Named the World's Most Dangerous Road",
+   "summary": "Bolivia's North Yungas Road, which links La Paz with the Yungas region, was named the most dangerous road in the world by the Inter-American Development Bank in 1995.",
+   "topics": [
+    "bolivia",
+    "geography",
+    "engineering",
+    "weird",
+    "yungas-road",
+    "death-road",
+    "dangerous-roads",
+    "andes-mountains",
+    "adventure-travel"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Yungas_Road",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-north-yungas-road-was-once-dubbed-the-worlds-most-dangerous-road",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-three-gorges-dam-is-the-worlds-largest-power-station",
+   "title": "The Three Gorges Dam Is the World's Largest Power Station",
+   "summary": "The Three Gorges Dam on China's Yangtze River is the world's largest power station by installed capacity, at 22,500 megawatts.",
+   "topics": [
+    "china",
+    "energy",
+    "engineering"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-three-gorges-dam-is-the-worlds-largest-power-station",
+   "updated": "2026-11-17"
+  }
+ ]
+}

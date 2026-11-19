@@ -1,0 +1,234 @@
+{
+ "topic": "human-body",
+ "name": "Human Body",
+ "count": 14,
+ "factcovery": "https://www.factcovery.com/topics/human-body",
+ "facts": [
+  {
+   "id": "babies-are-born-with-more-bones-than-adults",
+   "title": "Babies Are Born With More Bones Than Adults",
+   "summary": "A newborn has about 300 bones, while an adult skeleton has 206 separate bones, because many of a baby's bones fuse together as the body grows.",
+   "topics": [
+    "biology",
+    "human-body",
+    "fun",
+    "bones",
+    "skeleton",
+    "baby",
+    "anatomy",
+    "growth",
+    "development"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/babies-are-born-with-more-bones-than-adults",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bones-are-stronger-than-steel-by-weight-and-they-are-living-tissue",
+   "title": "Bone Is Living Tissue, and About 10% of the Adult Skeleton Is Rebuilt Each Year",
+   "summary": "Bone is living tissue, and about 10% of an adult's skeletal mass is broken down and rebuilt every year.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "skeletal-system",
+    "bones",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bones-are-stronger-than-steel-by-weight-and-they-are-living-tissue",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "dna-is-so-long-that-if-uncoiled-from-a-single-cell-it-would-stretch-2-metres",
+   "title": "The DNA in a Single Human Cell Would Stretch About 2 Metres if Uncoiled",
+   "summary": "If the DNA inside one human cell were stretched out, it would be about 2 metres long, yet it fits inside a nucleus only about 6 micrometres across.",
+   "topics": [
+    "biology",
+    "genetics",
+    "dna",
+    "human-body"
+   ],
+   "source": "https://pratt.duke.edu/news/how-a-protein-complex-helps-organize-and-compact-dna/",
+   "source_domain": "pratt.duke.edu",
+   "factcovery": "https://www.factcovery.com/facts/dna-is-so-long-that-if-uncoiled-from-a-single-cell-it-would-stretch-2-metres",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "humans-are-bioluminescent-we-emit-visible-light-just-too-faint-to-see",
+   "title": "The Human Body Gives Off Light About 1,000 Times Too Faint to See",
+   "summary": "The human body emits a faint, rhythmic glow of light that is about 1,000 times weaker than the naked eye can detect.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "biology",
+    "bioluminescence",
+    "metabolism"
+   ],
+   "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006256",
+   "source_domain": "journals.plos.org",
+   "factcovery": "https://www.factcovery.com/facts/humans-are-bioluminescent-we-emit-visible-light-just-too-faint-to-see",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "red-blood-cells-live-only-120-days-and-are-produced-at-2-million-per-second",
+   "title": "Red Blood Cells Live About 120 Days, and Your Body Makes 2.4 Million Every Second",
+   "summary": "Human red blood cells circulate for about 100 to 120 days, and an adult's body makes roughly 2.4 million new ones every second to replace them.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "blood",
+    "cardiovascular-system",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Red_blood_cell",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/red-blood-cells-live-only-120-days-and-are-produced-at-2-million-per-second",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-bodys-blood-vessels-laid-end-to-end-would-circle-the-earth-25-times",
+   "title": "The '100,000 km of Blood Vessels' Figure Comes From an Idealised 1920s Estimate",
+   "summary": "The popular claim that your blood vessels would stretch 100,000 kilometres, enough to circle the Earth about 2.5 times, comes from an idealised calculation by the physiologist August Krogh, not from a measurement of an average person.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "cardiovascular-system",
+    "blood-vessels",
+    "biology"
+   ],
+   "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7867635/",
+   "source_domain": "pmc.ncbi.nlm.nih.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-bodys-blood-vessels-laid-end-to-end-would-circle-the-earth-25-times",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-heart-beats-about-100000-times-a-day-and-pumps-7500-litres-of-blood",
+   "title": "The Heart Beats About 100,000 Times a Day and Pumps Around 7,500 Litres of Blood",
+   "summary": "At a typical resting rate of about 72 beats per minute, the adult heart beats roughly 100,000 times a day and moves around 7,500 litres of blood.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "cardiovascular-system",
+    "heart",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Heart",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-heart-beats-about-100000-times-a-day-and-pumps-7500-litres-of-blood",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-human-body-contains-more-bacterial-cells-than-human-cells",
+   "title": "Your Body Holds About as Many Bacterial Cells as Human Cells",
+   "summary": "A typical human body carries roughly as many bacterial cells as human cells, not the ten times more that was quoted for decades.",
+   "topics": [
+    "biology",
+    "human-body",
+    "microbiology",
+    "microbiome"
+   ],
+   "source": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533",
+   "source_domain": "journals.plos.org",
+   "factcovery": "https://www.factcovery.com/facts/the-human-body-contains-more-bacterial-cells-than-human-cells",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-human-brain-has-about-86-billion-neurons-with-100-trillion-connections",
+   "title": "The Human Brain Has About 86 Billion Neurons, Not the Often-Quoted 100 Billion",
+   "summary": "The adult human brain contains about 86 billion neurons, according to a 2009 count by Frederico Azevedo, Suzana Herculano-Houzel and colleagues, below the widely repeated figure of 100 billion.",
+   "topics": [
+    "biology",
+    "neuroscience",
+    "human-body",
+    "brain"
+   ],
+   "source": "https://pubmed.ncbi.nlm.nih.gov/19226510/",
+   "source_domain": "pubmed.ncbi.nlm.nih.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-human-brain-has-about-86-billion-neurons-with-100-trillion-connections",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-human-eye-can-distinguish-about-10-million-different-colours",
+   "title": "The Human Eye Can Distinguish About 10 Million Different Colours",
+   "summary": "The human eye can tell apart roughly 10 million different colours, a widely cited estimate from colour scientists Deane Judd and Günter Wyszecki in 1975.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "vision",
+    "senses",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Color_vision",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-human-eye-can-distinguish-about-10-million-different-colours",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-liver-can-regenerate-from-as-little-as-25-of-its-original-mass",
+   "title": "The Liver Can Regrow to Full Size From a Small Remnant",
+   "summary": "The liver can grow back to its full size after much of it is removed; as little as 10% of the original mass can be enough to regenerate the whole organ.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "liver",
+    "digestive-system",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Liver_regeneration",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-liver-can-regenerate-from-as-little-as-25-of-its-original-mass",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-small-intestine-is-about-67-metres-long-and-has-the-surface-area-of-a-tennis-court",
+   "title": "The Gut's Surface Area Is About Half a Badminton Court, Not a Tennis Court",
+   "summary": "The inner surface of the human digestive tract covers about 32 square metres, roughly half a badminton court, not the tennis court that textbooks long claimed.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "digestive-system",
+    "small-intestine",
+    "biology"
+   ],
+   "source": "https://pubmed.ncbi.nlm.nih.gov/24694282/",
+   "source_domain": "pubmed.ncbi.nlm.nih.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-small-intestine-is-about-67-metres-long-and-has-the-surface-area-of-a-tennis-court",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-smallest-bone-in-the-human-body-is-in-the-ear",
+   "title": "The Smallest Bone in the Human Body Is in the Ear",
+   "summary": "The stapes, a tiny bone in the middle ear, is the smallest and lightest bone in the human body, measuring roughly 2 to 3 millimetres.",
+   "topics": [
+    "human-body",
+    "biology",
+    "anatomy",
+    "bones",
+    "ear",
+    "hearing"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Stapes",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-smallest-bone-in-the-human-body-is-in-the-ear",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-stomach-produces-enough-acid-to-dissolve-metal-and-renews-its-lining-every-34-days",
+   "title": "The Stomach Renews Its Surface Lining About Every 3 Days",
+   "summary": "The mucus-secreting cells that line the stomach's surface and its tiny pits are replaced roughly every three days.",
+   "topics": [
+    "humanbody",
+    "human-body",
+    "digestive-system",
+    "stomach",
+    "biology"
+   ],
+   "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816264/",
+   "source_domain": "pmc.ncbi.nlm.nih.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-stomach-produces-enough-acid-to-dissolve-metal-and-renews-its-lining-every-34-days",
+   "updated": "2026-11-17"
+  }
+ ]
+}

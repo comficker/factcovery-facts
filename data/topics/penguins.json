@@ -1,0 +1,203 @@
+{
+ "topic": "penguins",
+ "name": "Penguins",
+ "count": 15,
+ "factcovery": "https://www.factcovery.com/topics/penguins",
+ "facts": [
+  {
+   "id": "a-group-of-penguins-in-the-water-is-called-a-raft",
+   "title": "A Group of Penguins in the Water Is Called a Raft",
+   "summary": "A group of penguins swimming together in the water is sometimes called a raft.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/a-group-of-penguins-in-the-water-is-called-a-raft",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-penguins-tongue-is-covered-in-spines",
+   "title": "A Penguin's Tongue Is Covered in Spines",
+   "summary": "A penguin's tongue is covered in spines.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://a-z-animals.com/animals/penguin/do-penguins-have-teeth/",
+   "source_domain": "a-z-animals.com",
+   "factcovery": "https://www.factcovery.com/facts/a-penguins-tongue-is-covered-in-spines",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "adelie-penguins-build-their-nests-from-stones",
+   "title": "Adélie Penguins Build Their Nests From Stones",
+   "summary": "Adélie penguins build rough nests by piling up stones, and two eggs are usually laid in each one.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/adelie-penguins-build-their-nests-from-stones",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "chinstrap-penguins-sleep-in-4-second-bursts",
+   "title": "Chinstrap Penguins Sleep in 4-Second Bursts",
+   "summary": "Nesting chinstrap penguins sleep in more than 10,000 microsleeps a day, most lasting no more than about four seconds, according to a study published in the journal Science in late 2023.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://www.mpg.de/21169426/penguins-nesting-in-a-dangerous-environment-obtain-large-quantities-of-sleep-via-seconds-long-microsleeps",
+   "source_domain": "mpg.de",
+   "factcovery": "https://www.factcovery.com/facts/chinstrap-penguins-sleep-in-4-second-bursts",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "emperor-penguins-are-the-tallest-and-heaviest-penguins",
+   "title": "Emperor Penguins Are the Tallest and Heaviest Penguins",
+   "summary": "The emperor penguin is the tallest and heaviest living penguin, and it is found only in Antarctica.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Emperor_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/emperor-penguins-are-the-tallest-and-heaviest-penguins",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "gentoo-penguins-are-the-fastest-penguins-underwater",
+   "title": "Gentoo Penguins Are the Fastest Penguins Underwater",
+   "summary": "Gentoo penguins are the fastest underwater swimmers of all penguins, reaching speeds of up to 36 km/h (22 mph).",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gentoo_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/gentoo-penguins-are-the-fastest-penguins-underwater",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "penguin-colonies-can-be-found-from-space",
+   "title": "Penguin Colonies Can Be Found From Space",
+   "summary": "Scientists find emperor penguin colonies from space by scanning satellite images of Antarctica for large patches of ice stained brown by penguin droppings, or guano.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://e360.yale.edu/digest/emperor-penguin-colonies-discovered-by-spotting-guano-from-space",
+   "source_domain": "e360.yale.edu",
+   "factcovery": "https://www.factcovery.com/facts/penguin-colonies-can-be-found-from-space",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "penguins-black-and-white-colouring-is-camouflage",
+   "title": "Penguins' Black-and-White Colouring Is Camouflage",
+   "summary": "Penguins' black-and-white plumage is a form of camouflage called countershading: all penguins have dark backs and wings and white fronts.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Countershading",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/penguins-black-and-white-colouring-is-camouflage",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "penguins-can-drink-seawater",
+   "title": "Penguins Can Drink Seawater",
+   "summary": "Penguins can drink seawater because a supraorbital gland, sitting just above each eye socket, removes the excess salt from their blood.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Salt_gland",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/penguins-can-drink-seawater",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "penguins-wings-have-become-flippers",
+   "title": "Penguins' Wings Have Become Flippers",
+   "summary": "Penguins cannot fly because their wings evolved into stiff flippers, which they use to 'fly' through water instead of air.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/travel/article/131320-penguin-evolution-science-flight-diving-swimming-wings",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/penguins-wings-have-become-flippers",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-african-penguin-is-critically-endangered",
+   "title": "The African Penguin Is Critically Endangered",
+   "summary": "The African penguin, the only penguin that breeds in Africa, has been listed as Critically Endangered on the IUCN Red List since 2024, after its numbers fell below 10,000 breeding pairs in 2023.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/African_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-african-penguin-is-critically-endangered",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-emperor-penguin-is-no-longer-listed-as-least-concern",
+   "title": "The Emperor Penguin Is No Longer Listed as Least Concern",
+   "summary": "In 2012 the IUCN moved the emperor penguin from Least Concern to Near Threatened, the category it is still listed in on the Red List.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Emperor_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-emperor-penguin-is-no-longer-listed-as-least-concern",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-galapagos-penguin-lives-farther-north-than-any-other-penguin",
+   "title": "The Galápagos Penguin Lives Farther North Than Any Other Penguin",
+   "summary": "The Galápagos penguin lives farther north than any other penguin and is the only species found north of the equator.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-galapagos-penguin-lives-farther-north-than-any-other-penguin",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-little-penguin-is-the-worlds-smallest-penguin",
+   "title": "The Little Penguin Is the World's Smallest Penguin",
+   "summary": "The little penguin is the smallest penguin species, standing just 30 to 33 cm tall and weighing about 1.5 kg on average.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Little_penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-little-penguin-is-the-worlds-smallest-penguin",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "there-are-between-17-and-19-penguin-species",
+   "title": "There Are Between 17 and 19 Penguin Species",
+   "summary": "Scientists usually list between 17 and 19 living penguin species.",
+   "topics": [
+    "penguins",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Penguin",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/there-are-between-17-and-19-penguin-species",
+   "updated": "2026-11-17"
+  }
+ ]
+}

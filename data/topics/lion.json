@@ -1,0 +1,260 @@
+{
+ "topic": "lion",
+ "name": "Lion",
+ "count": 18,
+ "factcovery": "https://www.factcovery.com/topics/lion",
+ "facts": [
+  {
+   "id": "a-28000-year-old-cave-lion-cub-was-found-with-its-whiskers-intact",
+   "title": "A 28,000-Year-Old Cave Lion Cub Was Found With Its Whiskers Intact",
+   "summary": "In 2018, a mammoth tusk hunter in Siberia found a cave lion cub so well preserved that her teeth, skin, claws and whiskers were still intact after about 28,000 years.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.euronews.com/2021/08/06/stunning-ice-age-lion-cub-found-in-siberia-russia-is-28-000-years-old-scientists-say",
+   "source_domain": "euronews.com",
+   "factcovery": "https://www.factcovery.com/facts/a-28000-year-old-cave-lion-cub-was-found-with-its-whiskers-intact",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-lions-roar-comes-from-flat-square-vocal-folds",
+   "title": "A Lion's Roar Comes From Flat, Square Vocal Folds",
+   "summary": "Lions can roar so loudly and deeply because their vocal folds are shaped differently from those of most mammals.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2011/11/111102190012.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/a-lions-roar-comes-from-flat-square-vocal-folds",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-male-lion-can-eat-about-63-kilograms-of-meat-in-one-meal",
+   "title": "A Male Lion Can Eat About 63 Kilograms of Meat in One Meal",
+   "summary": "A male lion can eat about a quarter of his body weight in a single meal, roughly 140 pounds or 63 kilograms of meat.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://animals.sandiegozoo.org/animals/lion",
+   "source_domain": "animals.sandiegozoo.org",
+   "factcovery": "https://www.factcovery.com/facts/a-male-lion-can-eat-about-63-kilograms-of-meat-in-one-meal",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "asiatic-lions-belong-to-the-same-subspecies-as-west-african-lions",
+   "title": "Asiatic Lions Belong to the Same Subspecies as West African Lions",
+   "summary": "India's Asiatic lions are no longer treated as a separate subspecies: they share the name Panthera leo leo with the lions of West and Central Africa.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://ielc.libguides.com/sdzg/factsheets/lions/taxonomy",
+   "source_domain": "ielc.libguides.com",
+   "factcovery": "https://www.factcovery.com/facts/asiatic-lions-belong-to-the-same-subspecies-as-west-african-lions",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bigger-male-lion-coalitions-hold-their-prides-more-than-twice-as-long",
+   "title": "Bigger Male Lion Coalitions Hold Their Prides More Than Twice as Long",
+   "summary": "Male lions rarely rule alone.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://ielc.libguides.com/sdzg/factsheets/lions/behavior",
+   "source_domain": "ielc.libguides.com",
+   "factcovery": "https://www.factcovery.com/facts/bigger-male-lion-coalitions-hold-their-prides-more-than-twice-as-long",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "herodotus-wrote-that-wild-lions-lived-in-northern-greece",
+   "title": "Herodotus Wrote That Wild Lions Lived in Northern Greece",
+   "summary": "The ancient Greek historian Herodotus recorded that wild lions lived in northern Greece, and that they attacked the Persian king Xerxes' baggage camels.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/7.124.1-7.126.1",
+   "source_domain": "cts.perseids.org",
+   "factcovery": "https://www.factcovery.com/facts/herodotus-wrote-that-wild-lions-lived-in-northern-greece",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "in-undisturbed-habitats-a-lions-top-cause-of-death-is-other-lions",
+   "title": "In Undisturbed Habitats, a Lion's Top Cause of Death Is Other Lions",
+   "summary": "Where people leave them alone, the biggest threat to a lion is not hunger or disease but other lions.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/magazine/article/serengeti-lions",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/in-undisturbed-habitats-a-lions-top-cause-of-death-is-other-lions",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "indias-asiatic-lions-rose-to-891-in-2025-most-living-outside-gir",
+   "title": "India's Asiatic Lions Rose to 891 in 2025, Most Living Outside Gir",
+   "summary": "India's wild Asiatic lions reached 891 in the 2025 census, up from 674 five years earlier, and more than half of them now live outside Gir National Park.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.downtoearth.org.in/wildlife-biodiversity/asiatic-lion-population-in-gujarat-rises-from-674-to-891-in-5-years-spreading-beyond-traditional-habitats",
+   "source_domain": "downtoearth.org.in",
+   "factcovery": "https://www.factcovery.com/facts/indias-asiatic-lions-rose-to-891-in-2025-most-living-outside-gir",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lion-attacks-on-people-spike-in-the-days-after-a-full-moon",
+   "title": "Lion Attacks on People Spike in the Days After a Full Moon",
+   "summary": "In Tanzania, lions attack people far more often in the dark evenings that follow a full moon than in the bright nights leading up to it.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://sciencedaily.com/releases/2011/07/110720210651.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/lion-attacks-on-people-spike-in-the-days-after-a-full-moon",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lionesses-hunt-in-fixed-positions-like-players-on-a-team",
+   "title": "Lionesses Hunt in Fixed Positions, Like Players on a Team",
+   "summary": "When lionesses hunt together, many of them play the same role every time, much like players who keep the same position on a sports team.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://the-eis.com/elibrary/search/9415",
+   "source_domain": "the-eis.com",
+   "factcovery": "https://www.factcovery.com/facts/lionesses-hunt-in-fixed-positions-like-players-on-a-team",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lionesses-nurse-each-others-cubs-in-shared-nurseries",
+   "title": "Lionesses Nurse Each Other's Cubs in Shared Nurseries",
+   "summary": "Lionesses in a pride often raise their cubs together in a group nursery called a creche, and some will even nurse cubs that are not their own.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://ielc.libguides.com/sdzg/factsheets/lions/behavior",
+   "source_domain": "ielc.libguides.com",
+   "factcovery": "https://www.factcovery.com/facts/lionesses-nurse-each-others-cubs-in-shared-nurseries",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lionesses-prefer-males-with-darker-manes",
+   "title": "Lionesses Prefer Males With Darker Manes",
+   "summary": "Female lions in Tanzania's Serengeti are drawn to males with darker manes, and the colour appears to be an honest signal of a male's condition.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.eurekalert.org/news-releases/576077",
+   "source_domain": "eurekalert.org",
+   "factcovery": "https://www.factcovery.com/facts/lionesses-prefer-males-with-darker-manes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lions-can-rest-for-up-to-21-hours-a-day",
+   "title": "Lions Can Rest for Up to 21 Hours a Day",
+   "summary": "Wild lions spend most of their lives doing very little: on average they rest for up to 20 to 21 hours a day.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://ielc.libguides.com/sdzg/factsheets/lions/behavior",
+   "source_domain": "ielc.libguides.com",
+   "factcovery": "https://www.factcovery.com/facts/lions-can-rest-for-up-to-21-hours-a-day",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lions-now-live-in-about-6-of-their-historical-range",
+   "title": "Lions Now Live in About 6% of Their Historical Range",
+   "summary": "Wild lions survive across only about 6% of the area they once roamed, according to the IUCN Cat Specialist Group.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.catsg.org/living-species-lions",
+   "source_domain": "catsg.org",
+   "factcovery": "https://www.factcovery.com/facts/lions-now-live-in-about-6-of-their-historical-range",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "new-male-lions-often-kill-the-cubs-of-the-pride-they-take-over",
+   "title": "New Male Lions Often Kill the Cubs of the Pride They Take Over",
+   "summary": "When a new group of males takes over a lion pride, they often kill the young cubs sired by the males they replaced.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://ielc.libguides.com/sdzg/factsheets/lions/behavior",
+   "source_domain": "ielc.libguides.com",
+   "factcovery": "https://www.factcovery.com/facts/new-male-lions-often-kill-the-cubs-of-the-pride-they-take-over",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "only-about-250-adult-lions-remain-in-west-africa",
+   "title": "Only About 250 Adult Lions Remain in West Africa",
+   "summary": "West Africa's lions are critically endangered, with only about 250 adults left, split among four isolated populations.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.oxfordmartin.ox.ac.uk/news/201401westafricanlion",
+   "source_domain": "oxfordmartin.ox.ac.uk",
+   "factcovery": "https://www.factcovery.com/facts/only-about-250-adult-lions-remain-in-west-africa",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "some-lionesses-in-botswana-grow-manes-and-roar-like-males",
+   "title": "Some Lionesses in Botswana Grow Manes and Roar Like Males",
+   "summary": "In Botswana's Okavango Delta, a few wild lionesses have grown manes and taken on behaviour usually seen in males.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.iflscience.com/female-lions-in-botswana-found-to-grow-manes-and-display-male-behaviors-38087",
+   "source_domain": "iflscience.com",
+   "factcovery": "https://www.factcovery.com/facts/some-lionesses-in-botswana-grow-manes-and-roar-like-males",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tsavos-man-eating-lions-probably-ate-about-35-people-not-135",
+   "title": "Tsavo's Man-Eating Lions Probably Ate About 35 People, Not 135",
+   "summary": "The two lions that terrorised a railway camp at Tsavo, Kenya, in 1898 probably ate about 35 people, far fewer than the legend claims.",
+   "topics": [
+    "lion",
+    "big-cats",
+    "weird"
+   ],
+   "source": "https://www.fieldmuseum.org/blog/man-eating-lions-ate-fewer-people-believed",
+   "source_domain": "fieldmuseum.org",
+   "factcovery": "https://www.factcovery.com/facts/tsavos-man-eating-lions-probably-ate-about-35-people-not-135",
+   "updated": "2026-11-17"
+  }
+ ]
+}

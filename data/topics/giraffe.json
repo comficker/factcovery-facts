@@ -1,0 +1,319 @@
+{
+ "topic": "giraffe",
+ "name": "Giraffe",
+ "count": 15,
+ "factcovery": "https://www.factcovery.com/topics/giraffe",
+ "facts": [
+  {
+   "id": "a-giraffe-can-clean-its-own-ears-with-its-tongue",
+   "title": "A Giraffe Cleans Its Nose, Not Its Ears, With Its Tongue",
+   "summary": "A giraffe uses its long tongue to groom itself, including cleaning out its own nostrils.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "fun",
+    "weird",
+    "giraffe",
+    "tongue",
+    "hygiene",
+    "anatomy",
+    "flexibility",
+    "behavior"
+   ],
+   "source": "https://elmwoodparkzoo.org/animal/giraffe/",
+   "source_domain": "elmwoodparkzoo.org",
+   "factcovery": "https://www.factcovery.com/facts/a-giraffe-can-clean-its-own-ears-with-its-tongue",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-giraffes-legs-are-taller-than-most-humans",
+   "title": "A Giraffe's Legs Alone Are Taller Than Many Humans",
+   "summary": "A giraffe's legs alone are about 6 feet (1.8 metres) long, taller than many adult humans, according to National Geographic.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "legs",
+    "height",
+    "anatomy",
+    "adaptation",
+    "size"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/mammals/facts/giraffe",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/a-giraffes-legs-are-taller-than-most-humans",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "despite-their-size-giraffes-can-run-up-to-35-miles-per-hour",
+   "title": "Despite Their Size, Giraffes Can Run Up to 37 Miles Per Hour",
+   "summary": "Despite weighing up to about 1,270 kg (2,800 lb), a giraffe can sprint at up to 60 km/h (37 mph).",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "speed",
+    "running",
+    "predator",
+    "savanna",
+    "locomotion",
+    "predators"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Behaviour_and_ecology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/despite-their-size-giraffes-can-run-up-to-35-miles-per-hour",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffe-populations-have-declined-by-40-in-30-years",
+   "title": "Giraffe Numbers Fell by Almost 40% Between 1985 and 2015",
+   "summary": "Wild giraffe numbers fell by almost 40% in three decades, from about 157,000 in 1985 to about 97,500 in 2015, prompting the IUCN to move the species from Least Concern to Vulnerable on its Red List in December 2016.",
+   "topics": [
+    "giraffes",
+    "conservation",
+    "animals",
+    "giraffe",
+    "endangered",
+    "iucn",
+    "habitat-loss",
+    "poaching"
+   ],
+   "source": "https://news.mongabay.com/2016/12/giraffes-facing-silent-extinction-iucn/",
+   "source_domain": "news.mongabay.com",
+   "factcovery": "https://www.factcovery.com/facts/giraffe-populations-have-declined-by-40-in-30-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-born-with-ossicones-lying-flat",
+   "title": "Giraffes Are Born With Their Ossicones Lying Flat",
+   "summary": "A newborn giraffe's ossicones, the horn-like knobs on its head, are folded flat when it is born and only rise up a few days later.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "ossicones",
+    "baby",
+    "birth",
+    "anatomy",
+    "development"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Anatomy_and_physiology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-born-with-ossicones-lying-flat",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-not-entirely-silent-making-various-sounds",
+   "title": "Giraffes Are Not Silent: They Snort, Hiss, Moan and Hum",
+   "summary": "Giraffes are not mute: they make a wide range of sounds, even though early biologists believed they were silent.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "vocalization",
+    "communication",
+    "sounds",
+    "infrasound",
+    "behavior"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Vocalisations",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-not-entirely-silent-making-various-sounds",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-ruminants-with-four-chamber-stomachs",
+   "title": "Giraffes Are Ruminants With Four-Chambered Stomachs",
+   "summary": "Giraffes are ruminants: like cows, they have four-chambered stomachs and chew their food twice.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "ruminant",
+    "stomach",
+    "digestion",
+    "diet",
+    "herbivore"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Diet_and_feeding",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-ruminants-with-four-chamber-stomachs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-the-worlds-tallest-mammals",
+   "title": "Giraffes Are the World's Tallest Mammals",
+   "summary": "Giraffes are the tallest living land animals: adults stand 4.3 to 5.7 metres (14 to 19 feet) tall, with males taller than females.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "tallest",
+    "mammal",
+    "height",
+    "herbivore",
+    "record",
+    "mammals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-the-worlds-tallest-mammals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-can-go-weeks-without-drinking-water",
+   "title": "Giraffes Can Go Days Without Drinking Water",
+   "summary": "Giraffes can go several days without drinking, because they get most of their water from the plants they eat.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "water",
+    "hydration",
+    "diet",
+    "adaptation",
+    "survival"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/mammals/facts/giraffe",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-can-go-weeks-without-drinking-water",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-a-surprisingly-low-resting-heart-rate",
+   "title": "A Giraffe's 11-Kilogram Heart Pumps at Nearly Double a Typical Mammal's Pressure",
+   "summary": "A giraffe's heart weighs about 11 kilograms and must generate nearly double the blood pressure of a typical mammal to push blood some 2 metres straight up the neck to the brain.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "heart-rate",
+    "blood-pressure",
+    "physiology",
+    "circulation",
+    "adaptation"
+   ],
+   "source": "https://giraffeconservation.org/facts-about-giraffe/how-does-a-giraffes-heart-work/",
+   "source_domain": "giraffeconservation.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-a-surprisingly-low-resting-heart-rate",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-blue-black-tongues-up-to-20-inches-long",
+   "title": "Giraffes Have Black Tongues About 18 Inches Long",
+   "summary": "A giraffe's tongue is about 45 cm (18 in) long and dark, almost black, in colour.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "tongue",
+    "anatomy",
+    "feeding",
+    "adaptation",
+    "acacia"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Anatomy_and_physiology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-blue-black-tongues-up-to-20-inches-long",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-incredibly-long-eyelashes",
+   "title": "Giraffe Eyelashes Are Sized to Keep Dust Out of Their Eyes",
+   "summary": "A giraffe's eyelashes are not just long: their length is matched to the size of its eyes, which helps keep dust out and moisture in.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "eyelashes",
+    "eyes",
+    "adaptation",
+    "protection",
+    "anatomy"
+   ],
+   "source": "https://www.snexplores.org/article/eyelashes-sweet-length",
+   "source_domain": "snexplores.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-incredibly-long-eyelashes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-the-same-number-of-neck-vertebrae-as-humans",
+   "title": "Giraffes Have the Same Number of Neck Vertebrae as Humans",
+   "summary": "A giraffe has seven neck vertebrae, the same number as a human and nearly every other mammal.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "vertebrae",
+    "neck",
+    "anatomy",
+    "mammal",
+    "skeleton",
+    "mammals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Anatomy_and_physiology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-the-same-number-of-neck-vertebrae-as-humans",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-sleep-less-than-two-hours-a-day",
+   "title": "Giraffes Sleep in Short Bursts, About 4.6 Hours a Day",
+   "summary": "Giraffes do not sleep in one long stretch: studies of captive giraffes found they sleep intermittently, for a total of about 4.6 hours a day.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "sleep",
+    "mammal",
+    "behavior",
+    "savanna",
+    "adaptation",
+    "mammals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Behaviour_and_ecology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-sleep-less-than-two-hours-a-day",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "male-giraffes-taste-female-urine-to-test-fertility",
+   "title": "Male Giraffes Taste Female Urine to Check Fertility",
+   "summary": "A male giraffe checks whether a female is ready to mate by tasting her urine.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "mating",
+    "reproduction",
+    "behavior",
+    "pheromones",
+    "flehmen"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Reproduction_and_development",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/male-giraffes-taste-female-urine-to-test-fertility",
+   "updated": "2026-11-17"
+  }
+ ]
+}

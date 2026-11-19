@@ -1,0 +1,249 @@
+{
+ "topic": "hedgehogs",
+ "name": "Hedgehogs",
+ "count": 18,
+ "factcovery": "https://www.factcovery.com/topics/hedgehogs",
+ "facts": [
+  {
+   "id": "a-key-developmental-gene-is-named-after-sonic-the-hedgehog",
+   "title": "A Key Developmental Gene Is Named After Sonic the Hedgehog",
+   "summary": "A gene that helps build limbs, fingers and the brain in vertebrates is called sonic hedgehog, after the video game character Sonic the Hedgehog.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sonic_hedgehog_protein",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/a-key-developmental-gene-is-named-after-sonic-the-hedgehog",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "all-wild-hedgehogs-can-hibernate",
+   "title": "All Wild Hedgehogs Can Hibernate",
+   "summary": "All wild hedgehogs can hibernate, though how long they stay dormant depends on the temperature, the species and how much food is available.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/all-wild-hedgehogs-can-hibernate",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "baby-hedgehogs-are-born-with-their-spines-hidden-under-fluid",
+   "title": "Baby Hedgehogs Are Born With Their Spines Hidden Under Fluid",
+   "summary": "Baby hedgehogs, called hoglets, are born with spines already in place, but buried under a pocket of fluid-filled tissue.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://wildlifeonline.me.uk/animals/article/european-hedgehog-breeding-biology-birth-development-of-hoglets",
+   "source_domain": "wildlifeonline.me.uk",
+   "factcovery": "https://www.factcovery.com/facts/baby-hedgehogs-are-born-with-their-spines-hidden-under-fluid",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "drug-resistant-mrsa-evolved-on-hedgehogs-before-antibiotics-existed",
+   "title": "Drug-Resistant MRSA Evolved on Hedgehogs Before Antibiotics Existed",
+   "summary": "A type of MRSA, the drug-resistant superbug, appears to have evolved on hedgehogs long before humans began using antibiotics in medicine.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://www.sciencenews.org/article/drug-resistant-bacteria-hedgehog-mrsa",
+   "source_domain": "sciencenews.org",
+   "factcovery": "https://www.factcovery.com/facts/drug-resistant-mrsa-evolved-on-hedgehogs-before-antibiotics-existed",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "europes-garden-hedgehog-became-near-threatened-in-2024",
+   "title": "Europe's Garden Hedgehog Became Near Threatened in 2024",
+   "summary": "In October 2024, the Western European hedgehog, the familiar garden hedgehog, was moved from Least Concern to Near Threatened on the IUCN Red List of Threatened Species.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://iucn.org/press-release/202410/more-one-three-tree-species-worldwide-faces-extinction-iucn-red-list",
+   "source_domain": "iucn.org",
+   "factcovery": "https://www.factcovery.com/facts/europes-garden-hedgehog-became-near-threatened-in-2024",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehog-spines-are-hollow-hairs",
+   "title": "Hedgehog Spines Are Hollow Hairs",
+   "summary": "A hedgehog's spines are hollow hairs made stiff with keratin, the same tough protein found in human fingernails.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehog-spines-are-hollow-hairs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehog-spines-dont-fall-out-like-porcupine-quills",
+   "title": "Hedgehog Spines Don't Fall Out Like Porcupine Quills",
+   "summary": "Unlike porcupine quills, hedgehog spines are not barbed or poisonous and do not easily come loose from the body.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehog-spines-dont-fall-out-like-porcupine-quills",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-are-lactose-intolerant-so-milk-is-bad-for-them",
+   "title": "Hedgehogs Are Lactose Intolerant, So Milk Is Bad for Them",
+   "summary": "Despite the old picture of a hedgehog lapping from a saucer, hedgehogs are lactose intolerant, and wildlife charities ask people not to leave milk out for them.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/mammals/hedgehog/",
+   "source_domain": "woodlandtrust.org.uk",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-are-lactose-intolerant-so-milk-is-bad-for-them",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-are-named-after-hedges-and-pigs",
+   "title": "Hedgehogs Are Named After Hedges and Pigs",
+   "summary": "The name hedgehog came into use around 1450.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-are-named-after-hedges-and-pigs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-are-surprisingly-noisy",
+   "title": "Hedgehogs Are Surprisingly Noisy",
+   "summary": "Hedgehogs are far from silent animals.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://www.msdvetmanual.com/exotic-and-laboratory-animals/hedgehogs/overview-of-hedgehogs",
+   "source_domain": "msdvetmanual.com",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-are-surprisingly-noisy",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-can-roam-1-to-2-kilometres-in-a-single-night",
+   "title": "Hedgehogs Can Roam 1 to 2 Kilometres in a Single Night",
+   "summary": "A hedgehog can travel an average of 1 to 2 kilometres in a single night, and sometimes more, as it moves between feeding spots in the dark.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://www.hedgehogstreet.org/hadroaming/",
+   "source_domain": "hedgehogstreet.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-can-roam-1-to-2-kilometres-in-a-single-night",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-have-barely-changed-in-15-million-years",
+   "title": "Hedgehogs Have Barely Changed in 15 Million Years",
+   "summary": "Hedgehogs have changed little over the last 15 million years, keeping much the same spiny body plan throughout that time.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-have-barely-changed-in-15-million-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-have-some-resistance-to-snake-venom",
+   "title": "Hedgehogs Have Some Resistance to Snake Venom",
+   "summary": "Hedgehogs have some natural resistance to snake venom, thanks partly to a protein called erinacin in their muscles.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-have-some-resistance-to-snake-venom",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-roll-into-a-ball-for-protection",
+   "title": "Hedgehogs Roll Into a Ball for Protection",
+   "summary": "When threatened, a hedgehog rolls into a tight spiny ball, tucking its furry face, feet and belly inside so that only spines face the attacker.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-roll-into-a-ball-for-protection",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hedgehogs-smear-foamy-spit-on-their-spines",
+   "title": "Hedgehogs Smear Foamy Spit on Their Spines",
+   "summary": "When a hedgehog encounters a new scent, it may lick and bite the source, whip up a scented froth in its mouth and paste it onto its spines with its tongue.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/hedgehogs-smear-foamy-spit-on-their-spines",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "in-new-zealand-hedgehogs-are-an-invasive-predator",
+   "title": "In New Zealand, Hedgehogs Are an Invasive Predator",
+   "summary": "In Britain the hedgehog is a declining garden favourite, but in New Zealand it is an introduced predator that threatens native wildlife.",
+   "topics": [
+    "hedgehogs",
+    "mammals",
+    "weird"
+   ],
+   "source": "https://predatorfreenz.org/research/predators/7-surprising-facts-about-hedgehogs/",
+   "source_domain": "predatorfreenz.org",
+   "factcovery": "https://www.factcovery.com/facts/in-new-zealand-hedgehogs-are-an-invasive-predator",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "no-hedgehogs-are-native-to-the-americas-or-australia",
+   "title": "No Hedgehogs Are Native to the Americas or Australia",
+   "summary": "No living hedgehog species is native to the Americas or to Australia.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/no-hedgehogs-are-native-to-the-americas-or-australia",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "there-are-17-species-of-hedgehog",
+   "title": "There Are 17 Species of Hedgehog",
+   "summary": "There are 17 species of hedgehog, grouped into five genera.",
+   "topics": [
+    "hedgehogs",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hedgehog",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/there-are-17-species-of-hedgehog",
+   "updated": "2026-11-17"
+  }
+ ]
+}

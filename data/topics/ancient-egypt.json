@@ -1,0 +1,184 @@
+{
+ "topic": "ancient-egypt",
+ "name": "Ancient Egypt",
+ "count": 13,
+ "factcovery": "https://www.factcovery.com/topics/ancient-egypt",
+ "facts": [
+  {
+   "id": "an-egyptian-surgical-manual-is-over-3500-years-old",
+   "title": "An Egyptian Surgical Manual Is Over 3,500 Years Old",
+   "summary": "The Edwin Smith Papyrus, copied around 1600 BC, is the oldest known surgical treatise on trauma, explaining how to examine, diagnose and treat injuries.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/an-egyptian-surgical-manual-is-over-3500-years-old",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bread-and-beer-were-ancient-egypts-staple-foods",
+   "title": "Bread and Beer Were Ancient Egypt's Staple Foods",
+   "summary": "Ancient Egyptians grew emmer wheat, barley and other cereals and used them to make their two staple foods: bread and beer.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bread-and-beer-were-ancient-egypts-staple-foods",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cleopatra-lived-closer-to-the-moon-landing-than-to-the-pyramids",
+   "title": "Cleopatra Lived Closer to the Moon Landing Than to the Pyramids",
+   "summary": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid of Giza.",
+   "topics": [
+    "weird",
+    "history",
+    "science",
+    "time",
+    "cleopatra",
+    "pyramids",
+    "timeline",
+    "iphone",
+    "ancient-egypt"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cleopatra",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cleopatra-lived-closer-to-the-moon-landing-than-to-the-pyramids",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cleopatras-first-language-was-greek",
+   "title": "Cleopatra's First Language Was Greek, Not Egyptian",
+   "summary": "Cleopatra's first language was Koine Greek, yet she was the only Ptolemaic ruler known to have learned Egyptian.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cleopatra",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cleopatras-first-language-was-greek",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "egypt-became-a-roman-province-after-cleopatra",
+   "title": "Egypt Became a Roman Province After Cleopatra",
+   "summary": "After Cleopatra's death in 30 BC, Egypt became a province of the Roman Empire, ending the Hellenistic period that had begun with Alexander the Great's death in 323 BC.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cleopatra",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/egypt-became-a-roman-province-after-cleopatra",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "egyptian-women-could-own-property-and-divorce",
+   "title": "Egyptian Women Could Own Property and Divorce",
+   "summary": "In ancient Egypt, women as well as men could own and sell property, make contracts, marry and divorce, inherit and take disputes to court.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/egyptian-women-could-own-property-and-divorce",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "it-took-23-years-to-crack-hieroglyphs",
+   "title": "It Took 23 Years to Crack Hieroglyphs",
+   "summary": "The Rosetta Stone was found in July 1799, but it took until 1822 for Jean-François Champollion to announce how the Egyptian scripts could be read.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/it-took-23-years-to-crack-hieroglyphs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "napoleons-soldiers-didnt-shoot-off-the-sphinxs-nose",
+   "title": "Napoleon's Soldiers Didn't Shoot Off the Sphinx's Nose",
+   "summary": "The Great Sphinx's nose was not shot off by Napoleon's soldiers; it was missing long before the French army reached Egypt in 1798.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/napoleons-soldiers-didnt-shoot-off-the-sphinxs-nose",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-great-pyramid-took-about-26-years-to-build",
+   "title": "The Great Pyramid Took About 26 Years to Build",
+   "summary": "The Great Pyramid of Giza, built as the tomb of the pharaoh Khufu around 2600 BC, took about 26 years to complete.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-great-pyramid-took-about-26-years-to-build",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-rosetta-stone-has-left-london-only-once",
+   "title": "The Rosetta Stone Has Left the British Museum Only Once in Peacetime",
+   "summary": "Apart from wartime, the Rosetta Stone has left the British Museum only once: for one month in October 1972, when it was shown at the Louvre in Paris.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-rosetta-stone-has-left-london-only-once",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-rosetta-stone-says-the-same-thing-three-times",
+   "title": "The Rosetta Stone Says the Same Thing Three Times",
+   "summary": "The Rosetta Stone carries one decree from 196 BC written three ways: in Egyptian hieroglyphs, in Demotic script and in Ancient Greek.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-rosetta-stone-says-the-same-thing-three-times",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-rosetta-stone-was-found-by-french-soldiers",
+   "title": "The Rosetta Stone Was Found by French Soldiers",
+   "summary": "French army officer Pierre-François Bouchard found the Rosetta Stone in July 1799, during Napoleon's invasion of Egypt, in the wall of a fort.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-rosetta-stone-was-found-by-french-soldiers",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tutankhamuns-tomb-was-found-almost-intact-in-1922",
+   "title": "Tutankhamun's Tomb Was Found Almost Intact in 1922",
+   "summary": "Howard Carter found the tomb of Tutankhamun in the Valley of the Kings in November 1922.",
+   "topics": [
+    "ancient-egypt",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Tutankhamun",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/tutankhamuns-tomb-was-found-almost-intact-in-1922",
+   "updated": "2026-11-17"
+  }
+ ]
+}

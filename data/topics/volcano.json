@@ -1,0 +1,204 @@
+{
+ "topic": "volcano",
+ "name": "Volcano",
+ "count": 14,
+ "factcovery": "https://www.factcovery.com/topics/volcano",
+ "facts": [
+  {
+   "id": "a-747-lost-all-four-engines-after-flying-into-a-volcanic-ash-cloud",
+   "title": "A 747 Lost All Four Engines After Flying Into a Volcanic Ash Cloud",
+   "summary": "On December 15, 1989, KLM Flight 867 flew into an ash cloud from Alaska's Redoubt Volcano, and all four engines of the 747 jetliner flamed out.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://pubs.usgs.gov/fs/fs030-97/",
+   "source_domain": "pubs.usgs.gov",
+   "factcovery": "https://www.factcovery.com/facts/a-747-lost-all-four-engines-after-flying-into-a-volcanic-ash-cloud",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-mexican-farmer-watched-a-new-volcano-burst-out-of-his-cornfield",
+   "title": "A Mexican Farmer Watched a New Volcano Burst Out of His Cornfield",
+   "summary": "On February 20, 1943, farmer Dionisio Pulido and his wife Paula were burning brush in their cornfield in Michoacán, Mexico, when the ground in front of them swelled, cracked open and began to hiss.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://volcanoes.sdsu.edu/Paricutin.html",
+   "source_domain": "volcanoes.sdsu.edu",
+   "factcovery": "https://www.factcovery.com/facts/a-mexican-farmer-watched-a-new-volcano-burst-out-of-his-cornfield",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-small-eruption-melted-glacier-ice-and-sent-mudflows-that-buried-armero",
+   "title": "A Small Eruption Melted Glacier Ice and Sent Mudflows That Buried Armero",
+   "summary": "On November 13, 1985, Colombia's Nevado del Ruiz had a relatively small eruption, yet it caused the second-deadliest volcanic disaster of the 20th century.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://www.earthmagazine.org/article/benchmarks-november-13-1985-nevado-del-ruiz-eruption-triggers-deadly-lahars",
+   "source_domain": "earthmagazine.org",
+   "factcovery": "https://www.factcovery.com/facts/a-small-eruption-melted-glacier-ice-and-sent-mudflows-that-buried-armero",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "about-three-quarters-of-earths-volcanic-activity-happens-deep-underwater",
+   "title": "About Three-Quarters of Earth's Volcanic Activity Happens Deep Underwater",
+   "summary": "Most of Earth's volcanic activity happens where nobody can see it.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://oceanexplorer.noaa.gov/facts/volcanoes.html",
+   "source_domain": "oceanexplorer.noaa.gov",
+   "factcovery": "https://www.factcovery.com/facts/about-three-quarters-of-earths-volcanic-activity-happens-deep-underwater",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "hawaiian-lava-can-stretch-into-golden-strands-of-glass-called-peles-hair",
+   "title": "Hawaiian Lava Can Stretch Into Golden Strands of Glass Called Pele's Hair",
+   "summary": "Pele's hair is not hair at all but strands of volcanic glass.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://kauainownews.com/2023/03/24/volcano-watch-peles-hairs-are-a-beautiful-hazard-on-the-big-island/",
+   "source_domain": "kauainownews.com",
+   "factcovery": "https://www.factcovery.com/facts/hawaiian-lava-can-stretch-into-golden-strands-of-glass-called-peles-hair",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "jupiters-moon-io-is-the-most-volcanically-active-world-in-the-solar-system",
+   "title": "Jupiter's Moon Io Is the Most Volcanically Active World in the Solar System",
+   "summary": "Jupiter's moon Io is the most volcanically active world in the solar system, with hundreds of volcanoes.",
+   "topics": [
+    "volcano",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/science/article/most-volcanic-world-in-solar-system-io-moon-still-mysterious-new-atlas-shows",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/jupiters-moon-io-is-the-most-volcanically-active-world-in-the-solar-system",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "mauna-loa-rises-about-30000-feet-from-the-seafloor-higher-than-everest",
+   "title": "Mauna Loa Rises About 30,000 Feet From the Seafloor, Higher Than Everest",
+   "summary": "Mauna Loa on Hawaiʻi Island is the largest active volcano on the planet.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://www.nps.gov/havo/learn/nature/mauna-loa.htm",
+   "source_domain": "nps.gov",
+   "factcovery": "https://www.factcovery.com/facts/mauna-loa-rises-about-30000-feet-from-the-seafloor-higher-than-everest",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "mount-pelee-destroyed-a-town-of-nearly-30000-people-in-minutes",
+   "title": "Mount Pelée Destroyed a Town of Nearly 30,000 People in Minutes",
+   "summary": "On May 8, 1902, Mount Pelée on the Caribbean island of Martinique destroyed the town of St.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://www.earthmagazine.org/article/benchmarks-may-8-1902-deadly-eruption-mount-pelee",
+   "source_domain": "earthmagazine.org",
+   "factcovery": "https://www.factcovery.com/facts/mount-pelee-destroyed-a-town-of-nearly-30000-people-in-minutes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "mount-st-helens-unleashed-the-largest-landslide-in-recorded-history",
+   "title": "Mount St. Helens Unleashed the Largest Landslide in Recorded History",
+   "summary": "On May 18, 1980, the north side of Mount St.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://pubs.usgs.gov/fs/2000/fs036-00/",
+   "source_domain": "pubs.usgs.gov",
+   "factcovery": "https://www.factcovery.com/facts/mount-st-helens-unleashed-the-largest-landslide-in-recorded-history",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "pinatubos-1991-eruption-briefly-cooled-the-whole-planet",
+   "title": "Pinatubo's 1991 Eruption Briefly Cooled the Whole Planet",
+   "summary": "When Mount Pinatubo in the Philippines exploded on June 15, 1991, it changed the temperature of the entire Earth.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://pubs.usgs.gov/fs/1997/fs113-97/",
+   "source_domain": "pubs.usgs.gov",
+   "factcovery": "https://www.factcovery.com/facts/pinatubos-1991-eruption-briefly-cooled-the-whole-planet",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tamboras-1815-eruption-led-to-the-year-without-a-summer",
+   "title": "Tambora's 1815 Eruption Led to the \"Year Without a Summer\"",
+   "summary": "The cold \"year without a summer\" of 1816 began on the other side of the world.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://www.scientificamerican.com/blog/history-of-geology/april-10-1815-the-eruption-that-shook-the-world/",
+   "source_domain": "scientificamerican.com",
+   "factcovery": "https://www.factcovery.com/facts/tamboras-1815-eruption-led-to-the-year-without-a-summer",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-20th-centurys-largest-eruption-came-from-a-brand-new-alaskan-volcano",
+   "title": "The 20th Century's Largest Eruption Came From a Brand-New Alaskan Volcano",
+   "summary": "The largest volcanic eruption of the 20th century burst from a new volcano, Novarupta, in Alaska on June 6, 1912.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://www.nps.gov/articles/aps-v11-i1-c2.htm",
+   "source_domain": "nps.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-20th-centurys-largest-eruption-came-from-a-brand-new-alaskan-volcano",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tongas-2022-eruption-punched-a-plume-into-the-mesosphere",
+   "title": "Tonga's 2022 Eruption Punched a Plume Into the Mesosphere",
+   "summary": "On January 15, 2022, the undersea volcano Hunga Tonga-Hunga Haʻapai sent a plume of gas, steam and ash 58 kilometers (36 miles) into the sky.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://science.nasa.gov/earth/earth-observatory/tonga-volcano-plume-reached-the-mesosphere-149474/",
+   "source_domain": "science.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/tongas-2022-eruption-punched-a-plume-into-the-mesosphere",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "yellowstones-biggest-eruption-left-a-caldera-more-than-60-miles-across",
+   "title": "Yellowstone's Biggest Eruption Left a Caldera More Than 60 Miles Across",
+   "summary": "About 2.1 million years ago, Yellowstone produced one of the five largest individual volcanic eruptions known anywhere on Earth.",
+   "topics": [
+    "volcano",
+    "geology",
+    "weird"
+   ],
+   "source": "https://pubs.usgs.gov/fs/2005/3024/",
+   "source_domain": "pubs.usgs.gov",
+   "factcovery": "https://www.factcovery.com/facts/yellowstones-biggest-eruption-left-a-caldera-more-than-60-miles-across",
+   "updated": "2026-11-17"
+  }
+ ]
+}

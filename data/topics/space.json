@@ -1,0 +1,566 @@
+{
+ "topic": "space",
+ "name": "Space",
+ "count": 35,
+ "factcovery": "https://www.factcovery.com/topics/space",
+ "facts": [
+  {
+   "id": "a-day-on-venus-is-longer-than-its-year",
+   "title": "A Day on Venus Is Longer Than Its Year",
+   "summary": "On Venus, one spin on its axis takes longer than a full trip around the Sun: about 243 Earth days to rotate once, compared with about 225 Earth days to complete an orbit.",
+   "topics": [
+    "space",
+    "astronomy",
+    "planets",
+    "weird",
+    "venus",
+    "solar-system",
+    "rotation",
+    "orbit"
+   ],
+   "source": "https://science.nasa.gov/venus/venus-facts/",
+   "source_domain": "science.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/a-day-on-venus-is-longer-than-its-year",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-supermoon-can-look-14-bigger-and-30-brighter-than-the-faintest-full-moon",
+   "title": "A Supermoon Can Look 14% Bigger and 30% Brighter Than the Faintest Full Moon",
+   "summary": "The Moon's orbit is not a perfect circle, so its distance from Earth keeps changing.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://science.nasa.gov/moon/supermoons/",
+   "source_domain": "science.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/a-supermoon-can-look-14-bigger-and-30-brighter-than-the-faintest-full-moon",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-teaspoon-of-neutron-star-material-would-weigh-10-million-tonnes",
+   "title": "A Teaspoon of Neutron Star Material Would Weigh Billions of Tonnes",
+   "summary": "A single teaspoon (4.9 millilitres) of neutron star material would have a mass of more than 5.5 × 10^12 kg, about 5.5 billion tonnes, or roughly 900 times the mass of the Great Pyramid of Giza.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Neutron_star",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/a-teaspoon-of-neutron-star-material-would-weigh-10-million-tonnes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "alan-shepard-smuggled-a-golf-club-to-the-moon-and-hit-two-balls",
+   "title": "Alan Shepard Smuggled a Golf Club to the Moon and Hit Two Balls",
+   "summary": "On February 6, 1971, during the Apollo 14 mission, astronaut Alan Shepard became the first person to play golf on another world.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.foxnews.com/science/golf-on-the-moon-how-alan-shepard-tricked-nasa-and-hit-the-most-famous-shot-in-history",
+   "source_domain": "foxnews.com",
+   "factcovery": "https://www.factcovery.com/facts/alan-shepard-smuggled-a-golf-club-to-the-moon-and-hit-two-balls",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "apollo-astronauts-brought-382-kilograms-of-the-moon-back-to-earth",
+   "title": "Apollo Astronauts Brought 382 Kilograms of the Moon Back to Earth",
+   "summary": "Apollo astronauts collected 382 kilograms of lunar rock and soil from six places on the Moon's surface.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://eos.org/features/apollos-legacy-50-years-of-lunar-geology",
+   "source_domain": "eos.org",
+   "factcovery": "https://www.factcovery.com/facts/apollo-astronauts-brought-382-kilograms-of-the-moon-back-to-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "apollo-astronauts-said-moon-dust-smelled-like-spent-gunpowder",
+   "title": "Apollo Astronauts Said Moon Dust Smelled Like Spent Gunpowder",
+   "summary": "The Moon has a smell, but only astronauts have ever caught it.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.universetoday.com/11314/the-smell-of-moondust",
+   "source_domain": "universetoday.com",
+   "factcovery": "https://www.factcovery.com/facts/apollo-astronauts-said-moon-dust-smelled-like-spent-gunpowder",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "aquarius-ranks-as-the-tenth-largest-constellation-in-the-night-sky",
+   "title": "Aquarius Is the Tenth Largest of the 88 Constellations",
+   "summary": "Aquarius covers 980 square degrees of sky, making it the 10th largest of the 88 modern constellations.",
+   "topics": [
+    "aquarius",
+    "astronomy",
+    "space",
+    "constellations",
+    "night-sky",
+    "skygazing",
+    "deep-sky-objects",
+    "celestial-bodies",
+    "constellation"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Aquarius_(constellation)",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/aquarius-ranks-as-the-tenth-largest-constellation-in-the-night-sky",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "astronauts-cannot-cry-in-space-2197",
+   "title": "Astronauts Can Cry in Space, but Their Tears Don't Fall",
+   "summary": "Astronauts can cry in space, but their tears do not run down their cheeks.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://www.nbcnews.com/science/cosmic-log/why-you-better-not-cry-space-flna1c9304803",
+   "source_domain": "nbcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/astronauts-cannot-cry-in-space-2197",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bulgaria-sent-the-first-cosmonaut-from-the-balkans-into-space",
+   "title": "Georgi Ivanov Became Bulgaria's First Cosmonaut in 1979",
+   "summary": "On 10 April 1979, Georgi Ivanov became the first Bulgarian in space, launching from Baikonur aboard Soyuz 33 with Soviet cosmonaut Nikolai Rukavishnikov as part of the Intercosmos programme.",
+   "topics": [
+    "bulgaria",
+    "space",
+    "history",
+    "science",
+    "georgi-ivanov",
+    "cosmonaut",
+    "space-travel",
+    "bulgarian-history",
+    "balkans"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Georgi_Ivanov_(cosmonaut)",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bulgaria-sent-the-first-cosmonaut-from-the-balkans-into-space",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "chinas-change-4-made-the-first-ever-landing-on-the-moons-far-side",
+   "title": "China's Chang'e-4 Made the First Ever Landing on the Moon's Far Side",
+   "summary": "No spacecraft had ever landed on the far side of the Moon until January 3, 2019.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.planetary.org/articles/change4-success",
+   "source_domain": "planetary.org",
+   "factcovery": "https://www.factcovery.com/facts/chinas-change-4-made-the-first-ever-landing-on-the-moons-far-side",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "during-a-total-lunar-eclipse-the-moon-glows-with-earths-sunsets",
+   "title": "During a Total Lunar Eclipse, the Moon Glows With Earth's Sunsets",
+   "summary": "In a total lunar eclipse the Moon slips completely into Earth's darkest shadow, yet it does not disappear.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/why-moon-turns-red-total-lunar-eclipse",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/during-a-total-lunar-eclipse-the-moon-glows-with-earths-sunsets",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "earths-atmosphere-intercepts-over-100-tons-of-space-dust-daily",
+   "title": "About 25 Tons of Space Dust Hit Earth's Atmosphere Every Day",
+   "summary": "Earth's atmosphere collects roughly 25 tons of cosmic dust every day, according to NASA.",
+   "topics": [
+    "earth",
+    "astronomy",
+    "atmosphere",
+    "space",
+    "space-dust",
+    "meteors",
+    "cosmic-particles",
+    "extraterrestrial",
+    "earth-protection"
+   ],
+   "source": "https://www.nasa.gov/feature/goddard/2021/tiny-meteors-leave-smoke-in-atmosphere-nasa-studying-it",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/earths-atmosphere-intercepts-over-100-tons-of-space-dust-daily",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "india-became-the-first-country-to-land-near-the-moons-south-pole",
+   "title": "India Became the First Country to Land Near the Moon's South Pole",
+   "summary": "On August 23, 2023, India's Chandrayaan-3 mission set its Vikram lander down near the Moon's south pole, at roughly 70 degrees south latitude.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/india-chandrayaan-3-moon-landing-success",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/india-became-the-first-country-to-land-near-the-moons-south-pole",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "jupiters-moon-io-is-the-most-volcanically-active-world-in-the-solar-system",
+   "title": "Jupiter's Moon Io Is the Most Volcanically Active World in the Solar System",
+   "summary": "Jupiter's moon Io is the most volcanically active world in the solar system, with hundreds of volcanoes.",
+   "topics": [
+    "volcano",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/science/article/most-volcanic-world-in-solar-system-io-moon-still-mysterious-new-atlas-shows",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/jupiters-moon-io-is-the-most-volcanically-active-world-in-the-solar-system",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "katherine-johnsons-calculations-were-essential-to-nasas-moon-landing",
+   "title": "Katherine Johnson's Calculations Helped Send Americans Into Orbit and to the Moon",
+   "summary": "Katherine Johnson, an African American mathematician at NASA's Langley center, calculated trajectories for America's first human spaceflights and for the Apollo Moon missions.",
+   "topics": [
+    "woman",
+    "women",
+    "science",
+    "space"
+   ],
+   "source": "https://www.nasa.gov/content/katherine-johnson-biography",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/katherine-johnsons-calculations-were-essential-to-nasas-moon-landing",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "lumpy-lunar-gravity-brought-down-an-apollo-16-satellite-in-just-35-days",
+   "title": "Lumpy Lunar Gravity Brought Down an Apollo 16 Satellite in Just 35 Days",
+   "summary": "The Moon's gravity is not smooth.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://moondaily.com/bizarre-lunar-orbits-999/",
+   "source_domain": "moondaily.com",
+   "factcovery": "https://www.factcovery.com/facts/lumpy-lunar-gravity-brought-down-an-apollo-16-satellite-in-just-35-days",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "nasa-crashed-a-rocket-into-the-moon-in-2009-to-hunt-for-water",
+   "title": "NASA Crashed a Rocket Into the Moon in 2009 to Hunt for Water",
+   "summary": "In the early morning of October 9, 2009, NASA deliberately smashed a spent Centaur rocket stage into Cabeus crater near the Moon's south pole.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/lcross-moon-water-10-year-anniversary.html",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/nasa-crashed-a-rocket-into-the-moon-in-2009-to-hunt-for-water",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "neptunes-position-was-first-predicted-and-observed-near-the-constellation-aquarius",
+   "title": "Neptune Was First Spotted in Aquarius, Where Mathematics Said It Would Be",
+   "summary": "When Neptune was first identified on September 23, 1846, it lay in the constellation Aquarius, just north of Saturn in the sky.",
+   "topics": [
+    "aquarius",
+    "astronomy",
+    "history",
+    "space",
+    "neptune-discovery",
+    "planet-predictions",
+    "19th-century-astronomy",
+    "solar-system",
+    "celestial-mechanics",
+    "observatory"
+   ],
+   "source": "https://www.space.com/12249-neptune-completes-orbit-discovery-1846.html",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/neptunes-position-was-first-predicted-and-observed-near-the-constellation-aquarius",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "nobody-saw-the-moons-far-side-until-a-soviet-probe-photographed-it-in-1959",
+   "title": "Nobody Saw the Moon's Far Side Until a Soviet Probe Photographed It in 1959",
+   "summary": "For all of human history, the far side of the Moon was hidden from view.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.lindahall.org/luna-3/",
+   "source_domain": "lindahall.org",
+   "factcovery": "https://www.factcovery.com/facts/nobody-saw-the-moons-far-side-until-a-soviet-probe-photographed-it-in-1959",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "shadowed-craters-at-the-moons-south-pole-are-colder-than-pluto",
+   "title": "Shadowed Craters at the Moon's South Pole Are Colder Than Pluto",
+   "summary": "Some of the coldest temperatures ever measured in the solar system were found on the Moon.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.nbcnews.com/id/wbna32902658",
+   "source_domain": "nbcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/shadowed-craters-at-the-moons-south-pole-are-colder-than-pluto",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sound-cannot-travel-in-space",
+   "title": "Sound Cannot Travel Through the Near-Vacuum of Most of Space",
+   "summary": "Sound needs a medium such as air or water to travel through, and most of space is so close to a vacuum that sound waves have nothing to move through.",
+   "topics": [
+    "scientific",
+    "physics",
+    "astronomy",
+    "space",
+    "sound",
+    "vacuum",
+    "sound-waves"
+   ],
+   "source": "https://chandra.si.edu/sound/perseus.html",
+   "source_domain": "chandra.si.edu",
+   "factcovery": "https://www.factcovery.com/facts/sound-cannot-travel-in-space",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "space-has-a-distinct-smell-often-described-as-metallic-or-burnt-steak",
+   "title": "Astronauts Say Space Leaves a Smell Like Hot Metal and Burnt Meat",
+   "summary": "Astronauts coming back inside after a spacewalk often notice a distinctive smell on their suits and tools: sharp and metallic, compared to hot metal, burnt meat or welding smoke.",
+   "topics": [
+    "unusual",
+    "space",
+    "physics",
+    "fun",
+    "weird",
+    "smell",
+    "astronauts",
+    "polycyclic-aromatic-hydrocarbons",
+    "stars",
+    "cosmos"
+   ],
+   "source": "https://www.nbcnews.com/news/amp/wbna48265519",
+   "source_domain": "nbcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/space-has-a-distinct-smell-often-described-as-metallic-or-burnt-steak",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sunlight-takes-approximately-eight-minutes-and-twenty-seconds-to-reach-earth",
+   "title": "Sunlight Takes About 8 Minutes and 19 Seconds to Reach Earth",
+   "summary": "Light leaving the Sun takes about 499 seconds, slightly more than 8 minutes and 19 seconds, to cross the average distance to Earth.",
+   "topics": [
+    "fascinating",
+    "space",
+    "physics",
+    "astronomy",
+    "sun",
+    "light",
+    "earth",
+    "speed-of-light",
+    "solar-system"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Astronomical_unit",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sunlight-takes-approximately-eight-minutes-and-twenty-seconds-to-reach-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "thanks-to-a-gentle-wobble-we-can-see-about-59-of-the-moon-from-earth",
+   "title": "Thanks to a Gentle Wobble, We Can See About 59% of the Moon From Earth",
+   "summary": "The Moon always keeps the same face toward Earth because it rotates exactly once for every orbit; in a sense, its day and its year are the same length.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://science.gsfc.nasa.gov/attic/eclipse2017.gsfc.nasa.gov/what's-lunar-libration.html",
+   "source_domain": "science.gsfc.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/thanks-to-a-gentle-wobble-we-can-see-about-59-of-the-moon-from-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-aquarius-constellation-notably-lacks-any-first-magnitude-stars-making-it-fainter",
+   "title": "Aquarius Has No First-Magnitude Stars Despite Its Large Size",
+   "summary": "Aquarius, the Water Bearer, contains no first-magnitude stars, even though it covers about 980 square degrees and ranks as the 10th largest constellation.",
+   "topics": [
+    "aquarius",
+    "astronomy",
+    "space",
+    "constellation-brightness",
+    "first-magnitude-stars",
+    "faint-stars",
+    "sadalsuud",
+    "stargazing",
+    "celestial-observation"
+   ],
+   "source": "https://www.constellation-guide.com/constellation-list/aquarius-constellation/",
+   "source_domain": "constellation-guide.com",
+   "factcovery": "https://www.factcovery.com/facts/the-aquarius-constellation-notably-lacks-any-first-magnitude-stars-making-it-fainter",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-average-color-of-the-universe-is-a-pale-beige",
+   "title": "The Average Color of the Universe Is a Pale Beige Called Cosmic Latte",
+   "summary": "If all the light in the universe were averaged together, it would look a pale, creamy beige, a shade astronomers named 'Cosmic Latte' (hex #FFF8E7).",
+   "topics": [
+    "weird",
+    "science",
+    "space",
+    "astronomy",
+    "cosmic-latte",
+    "universe",
+    "color",
+    "light",
+    "colors",
+    "fun"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cosmic_latte",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-average-color-of-the-universe-is-a-pale-beige",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moon-drifts-about-38-centimeters-farther-from-earth-every-year",
+   "title": "The Moon Drifts About 3.8 Centimeters Farther From Earth Every Year",
+   "summary": "The Moon is slowly moving away from Earth.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html",
+   "source_domain": "eclipse.gsfc.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-moon-drifts-about-38-centimeters-farther-from-earth-every-year",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moon-is-shrinking-and-apollo-seismometers-caught-it-quaking",
+   "title": "The Moon Is Shrinking, and Apollo Seismometers Caught It Quaking",
+   "summary": "The Moon is still geologically restless.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.nasa.gov/press-release/goddard/2019/moonquakes",
+   "source_domain": "nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/the-moon-is-shrinking-and-apollo-seismometers-caught-it-quaking",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moon-was-probably-born-when-a-mars-sized-world-hit-the-young-earth",
+   "title": "The Moon Was Probably Born When a Mars-Sized World Hit the Young Earth",
+   "summary": "Most scientists think the Moon formed from wreckage.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
+   "source_domain": "space.com",
+   "factcovery": "https://www.factcovery.com/facts/the-moon-was-probably-born-when-a-mars-sized-world-hit-the-young-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-moons-largest-crater-is-about-2500-kilometers-wide",
+   "title": "The Moon's Largest Crater Is About 2,500 Kilometers Wide",
+   "summary": "The biggest scar on the Moon is the South Pole-Aitken basin, a giant impact crater roughly 2,500 kilometers (1,550 miles) across.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://lroc.im-ldi.com/images/219",
+   "source_domain": "lroc.im-ldi.com",
+   "factcovery": "https://www.factcovery.com/facts/the-moons-largest-crater-is-about-2500-kilometers-wide",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-pisces-constellation-is-home-to-the-circlet-asterism",
+   "title": "The Pisces Constellation Is Home to the Circlet Asterism",
+   "summary": "The Circlet is a ring of seven stars in the western part of Pisces that marks the head of the constellation's western fish.",
+   "topics": [
+    "pisces",
+    "astronomy",
+    "space",
+    "constellation",
+    "pisces-constellation",
+    "asterism",
+    "circlet",
+    "stargazing",
+    "night-sky"
+   ],
+   "source": "https://www.constellation-guide.com/circlet-of-pisces",
+   "source_domain": "constellation-guide.com",
+   "factcovery": "https://www.factcovery.com/facts/the-pisces-constellation-is-home-to-the-circlet-asterism",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-sun-contains-9986-of-the-solar-systems-total-mass",
+   "title": "The Sun Contains 99.86% of the Solar System's Mass",
+   "summary": "The Sun holds about 99.86% of all the mass in the Solar System, leaving just 0.14% for every planet, moon, asteroid and comet combined.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Solar_mass",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-sun-contains-9986-of-the-solar-systems-total-mass",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tree-seeds-orbited-the-moon-on-apollo-14-and-grew-into-moon-trees",
+   "title": "Tree Seeds Orbited the Moon on Apollo 14 and Grew Into Moon Trees",
+   "summary": "Some trees growing in the United States have been to the Moon.",
+   "topics": [
+    "moon",
+    "space",
+    "weird"
+   ],
+   "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_trees/roosa_moon_tree_seeds.html",
+   "source_domain": "nssdc.gsfc.nasa.gov",
+   "factcovery": "https://www.factcovery.com/facts/tree-seeds-orbited-the-moon-on-apollo-14-and-grew-into-moon-trees",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "uranus-rotates-at-a-98-tilt-each-season-lasts-21-years",
+   "title": "Uranus Spins on Its Side, So Each Season Lasts About 21 Years",
+   "summary": "Uranus has an axial tilt of 97.77°, so it effectively rolls around the Sun on its side, and each of its four seasons lasts about 21 Earth years.",
+   "topics": [
+    "weird",
+    "science",
+    "space"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Uranus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/uranus-rotates-at-a-98-tilt-each-season-lasts-21-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "valentina-tereshkova-became-the-first-woman-in-space-in-1963",
+   "title": "Valentina Tereshkova Became the First Woman in Space in 1963",
+   "summary": "On 16 June 1963, Soviet cosmonaut Valentina Tereshkova launched aboard Vostok 6 and became the first woman in space.",
+   "topics": [
+    "woman",
+    "women",
+    "space",
+    "history"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/valentina-tereshkova-became-the-first-woman-in-space-in-1963",
+   "updated": "2026-11-17"
+  }
+ ]
+}

@@ -1,0 +1,685 @@
+{
+ "topic": "animals",
+ "name": "Animals",
+ "count": 38,
+ "factcovery": "https://www.factcovery.com/topics/animals",
+ "facts": [
+  {
+   "id": "a-giraffe-can-clean-its-own-ears-with-its-tongue",
+   "title": "A Giraffe Cleans Its Nose, Not Its Ears, With Its Tongue",
+   "summary": "A giraffe uses its long tongue to groom itself, including cleaning out its own nostrils.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "fun",
+    "weird",
+    "giraffe",
+    "tongue",
+    "hygiene",
+    "anatomy",
+    "flexibility",
+    "behavior"
+   ],
+   "source": "https://elmwoodparkzoo.org/animal/giraffe/",
+   "source_domain": "elmwoodparkzoo.org",
+   "factcovery": "https://www.factcovery.com/facts/a-giraffe-can-clean-its-own-ears-with-its-tongue",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-giraffes-legs-are-taller-than-most-humans",
+   "title": "A Giraffe's Legs Alone Are Taller Than Many Humans",
+   "summary": "A giraffe's legs alone are about 6 feet (1.8 metres) long, taller than many adult humans, according to National Geographic.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "legs",
+    "height",
+    "anatomy",
+    "adaptation",
+    "size"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/mammals/facts/giraffe",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/a-giraffes-legs-are-taller-than-most-humans",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-group-of-owls-is-surprisingly-called-a-parliament",
+   "title": "A Group of Owls Is Called a Parliament",
+   "summary": "A group of owls is called a parliament.",
+   "topics": [
+    "animals",
+    "language",
+    "fun",
+    "owls",
+    "birds",
+    "collective-nouns",
+    "folklore",
+    "wildlife"
+   ],
+   "source": "https://www.discoverwildlife.com/animal-facts/weirdest-animal-collective-nouns",
+   "source_domain": "discoverwildlife.com",
+   "factcovery": "https://www.factcovery.com/facts/a-group-of-owls-is-surprisingly-called-a-parliament",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "all-clownfish-are-born-male",
+   "title": "All Clownfish Start Life as Males",
+   "summary": "Clownfish are protandrous hermaphrodites: every fish matures as a male first, and only the most dominant member of a group ever becomes female.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clownfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/all-clownfish-are-born-male",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "australias-coat-of-arms-features-animals-that-cannot-walk-backward",
+   "title": "Australia's Coat of Arms Shows Two Animals That Can't Easily Walk Backward",
+   "summary": "The kangaroo and emu holding up Australia's coat of arms are often said to symbolise progress, because neither animal can easily walk backwards.",
+   "topics": [
+    "weird",
+    "history",
+    "animals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Australia",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/australias-coat-of-arms-features-animals-that-cannot-walk-backward",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cats-have-a-hidden-third-eyelid",
+   "title": "Cats Have a Hidden Third Eyelid",
+   "summary": "Cats have a third eyelid, the nictitating membrane, a translucent fold that sweeps sideways across the eye from its inner corner.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Nictitating_membrane",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/cats-have-a-hidden-third-eyelid",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "chameleons-change-color-to-communicate-not-to-camouflage",
+   "title": "Chameleons Change Color Mainly to Communicate and Control Heat, Not to Hide",
+   "summary": "Chameleons change color mostly to signal to other chameleons and to manage their body temperature, rather than primarily for camouflage.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chameleon",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/chameleons-change-color-to-communicate-not-to-camouflage",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "clownfish-can-change-their-sex-from-male-to-female",
+   "title": "Clownfish Can Change Their Sex From Male to Female",
+   "summary": "Clownfish are protandrous hermaphrodites: a breeding male can turn into a female, but a female never turns back into a male.",
+   "topics": [
+    "unusual",
+    "biology",
+    "animals",
+    "ocean",
+    "weird",
+    "clownfish",
+    "sex-change",
+    "marine-biology",
+    "protandrous-hermaphrodite",
+    "fish",
+    "marine-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clownfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/clownfish-can-change-their-sex-from-male-to-female",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "crocodiles-cannot-stick-out-their-tongues",
+   "title": "Crocodiles Cannot Stick Out Their Tongues",
+   "summary": "A crocodile cannot stick out its tongue, because the tongue is fixed in place.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://www.futurity.org/dinosaur-tongues-alligators-fossils-1793562/",
+   "source_domain": "futurity.org",
+   "factcovery": "https://www.factcovery.com/facts/crocodiles-cannot-stick-out-their-tongues",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "crows-can-recognize-and-remember-human-faces",
+   "title": "Crows Can Recognize and Remember Human Faces",
+   "summary": "Wild crows can recognise an individual human face and remember someone who threatened them for years.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://www.hcn.org/blogs/goat/the-crow-knows-your-nose/",
+   "source_domain": "hcn.org",
+   "factcovery": "https://www.factcovery.com/facts/crows-can-recognize-and-remember-human-faces",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "crows-hold-funerals-and-remember-dangerous-locations",
+   "title": "Crows Gather Around Their Dead to Learn Where Danger Lurks",
+   "summary": "When wild American crows find a dead crow, they gather, call loudly and mob nearby threats, and they appear to use the event to learn about danger.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://carlzimmer.com/crows-may-learn-lessons-from-death-88/",
+   "source_domain": "carlzimmer.com",
+   "factcovery": "https://www.factcovery.com/facts/crows-hold-funerals-and-remember-dangerous-locations",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "despite-their-size-giraffes-can-run-up-to-35-miles-per-hour",
+   "title": "Despite Their Size, Giraffes Can Run Up to 37 Miles Per Hour",
+   "summary": "Despite weighing up to about 1,270 kg (2,800 lb), a giraffe can sprint at up to 60 km/h (37 mph).",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "speed",
+    "running",
+    "predator",
+    "savanna",
+    "locomotion",
+    "predators"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Behaviour_and_ecology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/despite-their-size-giraffes-can-run-up-to-35-miles-per-hour",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "elephants-have-the-longest-pregnancy-of-any-land-mammal",
+   "title": "Elephants Have the Longest Pregnancy of Any Mammal Studied",
+   "summary": "Elephant pregnancies last up to 680 days, about 22 months, which is longer than in any other mammal studied so far.",
+   "topics": [
+    "elephant",
+    "animals",
+    "biology",
+    "science"
+   ],
+   "source": "https://www.fv-berlin.de/en/info-for/the-media-and-public/news/luteal-development-and-pregnancy-in-elephants",
+   "source_domain": "fv-berlin.de",
+   "factcovery": "https://www.factcovery.com/facts/elephants-have-the-longest-pregnancy-of-any-land-mammal",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "figs-contain-the-remains-of-wasps",
+   "title": "Fig Wasps Die Inside Figs, and the Fruit Digests Them",
+   "summary": "Many figs are pollinated by a female wasp that crawls inside the young fruit, lays her eggs there and dies inside it.",
+   "topics": [
+    "weird",
+    "science",
+    "animals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Fig_wasp",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/figs-contain-the-remains-of-wasps",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "gibraltars-macaques-are-europes-only-free-ranging-wild-primates",
+   "title": "Gibraltar's Macaques Are Europe's Only Free-Ranging Wild Primates",
+   "summary": "The Barbary macaques of Gibraltar, known locally as Rock Apes, are the only free-ranging wild primates in Europe.",
+   "topics": [
+    "gibraltar",
+    "primates",
+    "animals",
+    "weird"
+   ],
+   "source": "https://www.gibraltar.gov.gi/environment/ape-management",
+   "source_domain": "gibraltar.gov.gi",
+   "factcovery": "https://www.factcovery.com/facts/gibraltars-macaques-are-europes-only-free-ranging-wild-primates",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffe-populations-have-declined-by-40-in-30-years",
+   "title": "Giraffe Numbers Fell by Almost 40% Between 1985 and 2015",
+   "summary": "Wild giraffe numbers fell by almost 40% in three decades, from about 157,000 in 1985 to about 97,500 in 2015, prompting the IUCN to move the species from Least Concern to Vulnerable on its Red List in December 2016.",
+   "topics": [
+    "giraffes",
+    "conservation",
+    "animals",
+    "giraffe",
+    "endangered",
+    "iucn",
+    "habitat-loss",
+    "poaching"
+   ],
+   "source": "https://news.mongabay.com/2016/12/giraffes-facing-silent-extinction-iucn/",
+   "source_domain": "news.mongabay.com",
+   "factcovery": "https://www.factcovery.com/facts/giraffe-populations-have-declined-by-40-in-30-years",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-born-with-ossicones-lying-flat",
+   "title": "Giraffes Are Born With Their Ossicones Lying Flat",
+   "summary": "A newborn giraffe's ossicones, the horn-like knobs on its head, are folded flat when it is born and only rise up a few days later.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "ossicones",
+    "baby",
+    "birth",
+    "anatomy",
+    "development"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Anatomy_and_physiology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-born-with-ossicones-lying-flat",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-not-entirely-silent-making-various-sounds",
+   "title": "Giraffes Are Not Silent: They Snort, Hiss, Moan and Hum",
+   "summary": "Giraffes are not mute: they make a wide range of sounds, even though early biologists believed they were silent.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "vocalization",
+    "communication",
+    "sounds",
+    "infrasound",
+    "behavior"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Vocalisations",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-not-entirely-silent-making-various-sounds",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-ruminants-with-four-chamber-stomachs",
+   "title": "Giraffes Are Ruminants With Four-Chambered Stomachs",
+   "summary": "Giraffes are ruminants: like cows, they have four-chambered stomachs and chew their food twice.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "ruminant",
+    "stomach",
+    "digestion",
+    "diet",
+    "herbivore"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Diet_and_feeding",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-ruminants-with-four-chamber-stomachs",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-are-the-worlds-tallest-mammals",
+   "title": "Giraffes Are the World's Tallest Mammals",
+   "summary": "Giraffes are the tallest living land animals: adults stand 4.3 to 5.7 metres (14 to 19 feet) tall, with males taller than females.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "tallest",
+    "mammal",
+    "height",
+    "herbivore",
+    "record",
+    "mammals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-are-the-worlds-tallest-mammals",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-can-go-weeks-without-drinking-water",
+   "title": "Giraffes Can Go Days Without Drinking Water",
+   "summary": "Giraffes can go several days without drinking, because they get most of their water from the plants they eat.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "water",
+    "hydration",
+    "diet",
+    "adaptation",
+    "survival"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/mammals/facts/giraffe",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-can-go-weeks-without-drinking-water",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-a-surprisingly-low-resting-heart-rate",
+   "title": "A Giraffe's 11-Kilogram Heart Pumps at Nearly Double a Typical Mammal's Pressure",
+   "summary": "A giraffe's heart weighs about 11 kilograms and must generate nearly double the blood pressure of a typical mammal to push blood some 2 metres straight up the neck to the brain.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "heart-rate",
+    "blood-pressure",
+    "physiology",
+    "circulation",
+    "adaptation"
+   ],
+   "source": "https://giraffeconservation.org/facts-about-giraffe/how-does-a-giraffes-heart-work/",
+   "source_domain": "giraffeconservation.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-a-surprisingly-low-resting-heart-rate",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-blue-black-tongues-up-to-20-inches-long",
+   "title": "Giraffes Have Black Tongues About 18 Inches Long",
+   "summary": "A giraffe's tongue is about 45 cm (18 in) long and dark, almost black, in colour.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "tongue",
+    "anatomy",
+    "feeding",
+    "adaptation",
+    "acacia"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Anatomy_and_physiology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-blue-black-tongues-up-to-20-inches-long",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-incredibly-long-eyelashes",
+   "title": "Giraffe Eyelashes Are Sized to Keep Dust Out of Their Eyes",
+   "summary": "A giraffe's eyelashes are not just long: their length is matched to the size of its eyes, which helps keep dust out and moisture in.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "eyelashes",
+    "eyes",
+    "adaptation",
+    "protection",
+    "anatomy"
+   ],
+   "source": "https://www.snexplores.org/article/eyelashes-sweet-length",
+   "source_domain": "snexplores.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-incredibly-long-eyelashes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-have-the-same-number-of-neck-vertebrae-as-humans",
+   "title": "Giraffes Have the Same Number of Neck Vertebrae as Humans",
+   "summary": "A giraffe has seven neck vertebrae, the same number as a human and nearly every other mammal.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "vertebrae",
+    "neck",
+    "anatomy",
+    "mammal",
+    "skeleton",
+    "mammals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Anatomy_and_physiology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-have-the-same-number-of-neck-vertebrae-as-humans",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "giraffes-sleep-less-than-two-hours-a-day",
+   "title": "Giraffes Sleep in Short Bursts, About 4.6 Hours a Day",
+   "summary": "Giraffes do not sleep in one long stretch: studies of captive giraffes found they sleep intermittently, for a total of about 4.6 hours a day.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "giraffe",
+    "sleep",
+    "mammal",
+    "behavior",
+    "savanna",
+    "adaptation",
+    "mammals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Behaviour_and_ecology",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/giraffes-sleep-less-than-two-hours-a-day",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "greenland-sharks-can-live-for-over-500-years-making-them-the-longest-lived-vertebrates",
+   "title": "Greenland Sharks May Live for Centuries, Longer Than Any Other Known Vertebrate",
+   "summary": "The Greenland shark is the longest-lived vertebrate known, with a lifespan estimated at between 272 and about 510 years.",
+   "topics": [
+    "biology",
+    "animals",
+    "ocean",
+    "records",
+    "weird",
+    "greenland-shark",
+    "lifespan",
+    "vertebrates",
+    "marine-biology",
+    "arctic",
+    "longevity",
+    "marine-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Greenland_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/greenland-sharks-can-live-for-over-500-years-making-them-the-longest-lived-vertebrates",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "honey-badgers-are-highly-resistant-to-snake-venom",
+   "title": "Honey Badgers Are Highly Resistant to Snake Venom",
+   "summary": "Honey badgers prey on venomous snakes such as cobras and survive their bites, largely because of a change in the very molecule the venom attacks.",
+   "topics": [
+    "honeybadger",
+    "animals",
+    "biology",
+    "venom"
+   ],
+   "source": "https://experts.umn.edu/en/publications/why-the-honey-badger-dont-care-convergent-evolution-of-venom-targ/",
+   "source_domain": "experts.umn.edu",
+   "factcovery": "https://www.factcovery.com/facts/honey-badgers-are-highly-resistant-to-snake-venom",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "male-giraffes-taste-female-urine-to-test-fertility",
+   "title": "Male Giraffes Taste Female Urine to Check Fertility",
+   "summary": "A male giraffe checks whether a female is ready to mate by tasting her urine.",
+   "topics": [
+    "giraffes",
+    "biology",
+    "animals",
+    "weird",
+    "giraffe",
+    "mating",
+    "reproduction",
+    "behavior",
+    "pheromones",
+    "flehmen"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Giraffe#Reproduction_and_development",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/male-giraffes-taste-female-urine-to-test-fertility",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "male-seahorses-carry-and-give-birth-to-their-young",
+   "title": "Male Seahorses Get Pregnant and Give Birth to Their Young",
+   "summary": "In seahorses it is the male that becomes pregnant.",
+   "topics": [
+    "animals",
+    "fish",
+    "reproduction",
+    "weird",
+    "seahorse",
+    "marine-life",
+    "male-pregnancy",
+    "brood-pouch"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/fish/facts/seahorse",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/male-seahorses-carry-and-give-birth-to-their-young",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sloths-can-hold-their-breath-longer-than-dolphins",
+   "title": "Sloths Can Hold Their Breath Longer Than Dolphins",
+   "summary": "A sloth can hold its breath underwater for up to 40 minutes, about twice as long as a bottlenose dolphin's maximum of roughly 20 minutes.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sloth",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sloths-can-hold-their-breath-longer-than-dolphins",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "spider-silk-is-stronger-than-steel-by-weight",
+   "title": "Spider Silk Is Stronger Than Steel by Weight",
+   "summary": "Weight for weight, spider dragline silk is about five times as strong as steel.",
+   "topics": [
+    "weird",
+    "science",
+    "animals"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Spider_silk",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/spider-silk-is-stronger-than-steel-by-weight",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "starfish-have-no-brain-and-no-blood-they-use-seawater",
+   "title": "Starfish Have No Brain and Move by Pumping Seawater",
+   "summary": "Starfish have no centralized brain.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Starfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/starfish-have-no-brain-and-no-blood-they-use-seawater",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "stingray-city-allows-visitors-to-swim-with-wild-southern-stingrays",
+   "title": "Stingray City Lets Visitors Stand Among Wild Southern Stingrays",
+   "summary": "Stingray City is a series of shallow sandbars in Grand Cayman's North Sound where visitors can stand in about 3 feet (1 metre) of water surrounded by wild southern stingrays.",
+   "topics": [
+    "cayman-islands",
+    "ocean",
+    "animals",
+    "tourism",
+    "fun",
+    "stingray-city",
+    "southern-stingray",
+    "marine-life",
+    "snorkeling",
+    "grand-cayman"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Stingray_City",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/stingray-city-allows-visitors-to-swim-with-wild-southern-stingrays",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-beaver-is-canadas-national-animal",
+   "title": "The Beaver Became an Official Symbol of Canada in 1975",
+   "summary": "The beaver became an official symbol of Canada on March 24, 1975, when the National Symbol of Canada Act received royal assent.",
+   "topics": [
+    "canada",
+    "animals",
+    "culture",
+    "history",
+    "beaver",
+    "national-animal",
+    "symbol",
+    "canadian-culture",
+    "wildlife"
+   ],
+   "source": "https://www.canada.ca/en/canadian-heritage/services/official-symbols-canada.html",
+   "source_domain": "canada.ca",
+   "factcovery": "https://www.factcovery.com/facts/the-beaver-is-canadas-national-animal",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-mantis-shrimp-punches-with-the-force-of-a-bullet",
+   "title": "The Mantis Shrimp's Punch Accelerates at More Than 10,000 g",
+   "summary": "The peacock mantis shrimp (Odontodactylus scyllarus) strikes with a club-like appendage that accelerates at about 10,400 g and reaches 23 m/s (83 km/h) from a standing start.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-mantis-shrimp-punches-with-the-force-of-a-bullet",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-smallest-snake-in-the-world-is-shorter-than-a-pencil",
+   "title": "One of the World's Smallest Snakes Is Shorter Than a Pencil",
+   "summary": "The Barbados threadsnake (Tetracheilostoma carlae) is thought to be one of the smallest snakes in the world: adults average about 10 cm long, and the largest specimen measured 10.4 cm.",
+   "topics": [
+    "snake",
+    "animals",
+    "biology",
+    "fun"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Tetracheilostoma_carlae",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-smallest-snake-in-the-world-is-shorter-than-a-pencil",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tigers-have-striped-skin-not-just-striped-fur",
+   "title": "Tigers Have Striped Skin, Not Just Striped Fur",
+   "summary": "A tiger's stripes are not only in its fur: the skin underneath has the same striped pattern.",
+   "topics": [
+    "weird",
+    "animals",
+    "science"
+   ],
+   "source": "https://www.downtoearth.org.in/wildlife-biodiversity/why-do-tigers-have-stripes--74393",
+   "source_domain": "downtoearth.org.in",
+   "factcovery": "https://www.factcovery.com/facts/tigers-have-striped-skin-not-just-striped-fur",
+   "updated": "2026-11-17"
+  }
+ ]
+}

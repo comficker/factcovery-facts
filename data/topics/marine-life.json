@@ -1,0 +1,652 @@
+{
+ "topic": "marine-life",
+ "name": "Marine Life",
+ "count": 40,
+ "factcovery": "https://www.factcovery.com/topics/marine-life",
+ "facts": [
+  {
+   "id": "a-2022-uk-law-recognizes-octopuses-as-sentient-beings",
+   "title": "A 2022 UK Law Recognizes Octopuses as Sentient Beings",
+   "summary": "Octopuses are legally recognized as sentient beings in the United Kingdom.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.eurogroupforanimals.org/news/uk-sentience-bill-passes-final-stages-recognise-decapod-and-cephalopod-sentience-law",
+   "source_domain": "eurogroupforanimals.org",
+   "factcovery": "https://www.factcovery.com/facts/a-2022-uk-law-recognizes-octopuses-as-sentient-beings",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-bonnethead-shark-gave-birth-without-a-male-in-a-nebraska-zoo",
+   "title": "A Bonnethead Shark Gave Birth Without a Male in a Nebraska Zoo",
+   "summary": "In 2001, a bonnethead shark at the Henry Doorly Zoo in Omaha, Nebraska, gave birth even though no male of her species was present.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.sciencenews.org/article/virgin-birth-shark-has-daughter-without-dad",
+   "source_domain": "sciencenews.org",
+   "factcovery": "https://www.factcovery.com/facts/a-bonnethead-shark-gave-birth-without-a-male-in-a-nebraska-zoo",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-deep-sea-octopus-guarded-her-eggs-for-53-months-the-longest-known",
+   "title": "A Deep-Sea Octopus Guarded Her Eggs for 53 Months, the Longest Known",
+   "summary": "A deep-sea octopus in Monterey Canyon, California, guarded a single clutch of eggs for 53 months, about four and a half years.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/science/article/octopus-cares-for-her-eggs-for-53-months-then-dies",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/a-deep-sea-octopus-guarded-her-eggs-for-53-months-the-longest-known",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "a-dumbo-octopus-was-filmed-6957-meters-deep-in-the-indian-ocean",
+   "title": "A Dumbo Octopus Was Filmed 6,957 Meters Deep in the Indian Ocean",
+   "summary": "The deepest octopus ever recorded was filmed at 6,957 meters in the Java Trench, off Indonesia, in April 2019.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://hakaimagazine.com/news/how-low-can-an-octopus-go/",
+   "source_domain": "hakaimagazine.com",
+   "factcovery": "https://www.factcovery.com/facts/a-dumbo-octopus-was-filmed-6957-meters-deep-in-the-indian-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "anglerfish-females-absorb-their-mates-completely",
+   "title": "Some Male Anglerfish Fuse Permanently With Their Mates",
+   "summary": "In some deep-sea anglerfish, a male that finds a female latches on with his mouth and fuses with her, eventually sharing her circulatory system.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "biology",
+    "weird"
+   ],
+   "source": "https://www.eurekalert.org/news-releases/774267",
+   "source_domain": "eurekalert.org",
+   "factcovery": "https://www.factcovery.com/facts/anglerfish-females-absorb-their-mates-completely",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bermuda-hosts-the-northernmost-coral-reef-system-in-the-atlantic-ocean",
+   "title": "Bermuda Has the Northernmost Coral Reef System in the Atlantic",
+   "summary": "Bermuda has the northernmost coral reef system in the Atlantic Ocean, at about 32.4°N, far north of where reef-building corals usually grow.",
+   "topics": [
+    "bermuda",
+    "nature",
+    "ocean",
+    "biology",
+    "coral-reefs",
+    "marine-life",
+    "atlantic-ocean",
+    "gulf-stream",
+    "ecosystem",
+    "oceanography"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Coral_reef",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bermuda-hosts-the-northernmost-coral-reef-system-in-the-atlantic-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bull-sharks-have-swum-4000-kilometres-up-the-amazon-river",
+   "title": "Bull Sharks Have Swum 4,000 Kilometres Up the Amazon River",
+   "summary": "Bull sharks can live in fresh water.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bull_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/bull-sharks-have-swum-4000-kilometres-up-the-amazon-river",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "bvis-reefs-are-home-to-over-300-fish-species",
+   "title": "The British Virgin Islands' Waters Hold Nearly 480 Recorded Marine Fish Species",
+   "summary": "FishBase, the global fish database, lists 477 marine fish species in 103 families for the British Virgin Islands, so the popular figure of \"over 300\" understates what has actually been recorded.",
+   "topics": [
+    "british-virgin-islands",
+    "ocean",
+    "biology",
+    "nature",
+    "coral-reefs",
+    "marine-life",
+    "fish-species",
+    "biodiversity",
+    "snorkeling",
+    "diving"
+   ],
+   "source": "https://www.fishbase.de/country/CountryInfo_Biodiversity.php?c_code=092",
+   "source_domain": "fishbase.de",
+   "factcovery": "https://www.factcovery.com/facts/bvis-reefs-are-home-to-over-300-fish-species",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "cleaner-wrasse-fish-run-underwater-service-stations-for-other-fish",
+   "title": "Cleaner Wrasse Run Reef 'Service Stations' and Calm Clients With Their Fins",
+   "summary": "Cleaner wrasse run cleaning stations on coral reefs, where other fish gather and wait to have parasites picked off their bodies.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "biology",
+    "fun"
+   ],
+   "source": "https://ideas.repec.org/a/nat/natcom/v2y2011i1d10.1038_ncomms1547.html",
+   "source_domain": "ideas.repec.org",
+   "factcovery": "https://www.factcovery.com/facts/cleaner-wrasse-fish-run-underwater-service-stations-for-other-fish",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "clownfish-can-change-their-sex-from-male-to-female",
+   "title": "Clownfish Can Change Their Sex From Male to Female",
+   "summary": "Clownfish are protandrous hermaphrodites: a breeding male can turn into a female, but a female never turns back into a male.",
+   "topics": [
+    "unusual",
+    "biology",
+    "animals",
+    "ocean",
+    "weird",
+    "clownfish",
+    "sex-change",
+    "marine-biology",
+    "protandrous-hermaphrodite",
+    "fish",
+    "marine-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clownfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/clownfish-can-change-their-sex-from-male-to-female",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "gloomy-octopuses-share-a-crowded-seafloor-site-nicknamed-octlantis",
+   "title": "Gloomy Octopuses Share a Crowded Seafloor Site Nicknamed Octlantis",
+   "summary": "Octopuses are often described as loners, but in Jervis Bay, on Australia's east coast, gloomy octopuses gather at a site researchers nicknamed \"Octlantis\".",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://today.uic.edu/new-evidence-suggests-that-octupuses-arent-loners/",
+   "source_domain": "today.uic.edu",
+   "factcovery": "https://www.factcovery.com/facts/gloomy-octopuses-share-a-crowded-seafloor-site-nicknamed-octlantis",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "greenland-sharks-can-live-for-over-500-years-making-them-the-longest-lived-vertebrates",
+   "title": "Greenland Sharks May Live for Centuries, Longer Than Any Other Known Vertebrate",
+   "summary": "The Greenland shark is the longest-lived vertebrate known, with a lifespan estimated at between 272 and about 510 years.",
+   "topics": [
+    "biology",
+    "animals",
+    "ocean",
+    "records",
+    "weird",
+    "greenland-shark",
+    "lifespan",
+    "vertebrates",
+    "marine-biology",
+    "arctic",
+    "longevity",
+    "marine-life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Greenland_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/greenland-sharks-can-live-for-over-500-years-making-them-the-longest-lived-vertebrates",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "its-marine-environment-boasts-unexpectedly-high-biodiversity",
+   "title": "The Remote Cocos (Keeling) Islands Have Surprisingly Rich Marine Life",
+   "summary": "The reefs of the Cocos (Keeling) Islands in the Indian Ocean support a surprisingly rich mix of marine life for such a small, remote place.",
+   "topics": [
+    "cocos-islands",
+    "ocean",
+    "biology",
+    "nature",
+    "marine-life",
+    "coral-reefs",
+    "biodiversity-hotspot",
+    "sea-turtles",
+    "underwater-photography"
+   ],
+   "source": "https://pulukeelingnationalpark.gov.au/discover/nature/animals/marine-life/",
+   "source_domain": "pulukeelingnationalpark.gov.au",
+   "factcovery": "https://www.factcovery.com/facts/its-marine-environment-boasts-unexpectedly-high-biodiversity",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "male-seahorses-carry-and-give-birth-to-their-young",
+   "title": "Male Seahorses Get Pregnant and Give Birth to Their Young",
+   "summary": "In seahorses it is the male that becomes pregnant.",
+   "topics": [
+    "animals",
+    "fish",
+    "reproduction",
+    "weird",
+    "seahorse",
+    "marine-life",
+    "male-pregnancy",
+    "brood-pouch"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/fish/facts/seahorse",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/male-seahorses-carry-and-give-birth-to-their-young",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "oceans-produce-over-half-of-earths-oxygen",
+   "title": "The Ocean Produces About Half of Earth's Oxygen",
+   "summary": "Roughly half of the oxygen produced on Earth comes from the ocean, mostly from plankton: drifting plants, algae and some photosynthetic bacteria too small to see with the naked eye.",
+   "topics": [
+    "earth",
+    "biology",
+    "ocean",
+    "ecology",
+    "oxygen",
+    "phytoplankton",
+    "photosynthesis",
+    "marine-life",
+    "atmosphere"
+   ],
+   "source": "https://oceanservice.noaa.gov/facts/ocean-oxygen.html",
+   "source_domain": "oceanservice.noaa.gov",
+   "factcovery": "https://www.factcovery.com/facts/oceans-produce-over-half-of-earths-oxygen",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "octopuses-have-three-hearts-blue-blood-and-neurons-throughout-their-arms",
+   "title": "Octopuses Have Three Hearts, Blue Blood and Most of Their Neurons in Their Arms",
+   "summary": "An octopus has three hearts, blue blood and a nervous system in which most neurons sit outside the brain.",
+   "topics": [
+    "biology",
+    "marine-life",
+    "zoology",
+    "neuroscience"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Octopus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/octopuses-have-three-hearts-blue-blood-and-neurons-throughout-their-arms",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "octopuses-hunt-in-teams-with-fish-and-punch-the-freeloaders",
+   "title": "Octopuses Hunt in Teams With Fish and Punch the Freeloaders",
+   "summary": "Big blue octopuses sometimes hunt alongside groups of reef fish, and when a partner slacks off, the octopus may punch it with a quick strike of one arm.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705",
+   "source_domain": "nbcnews.com",
+   "factcovery": "https://www.factcovery.com/facts/octopuses-hunt-in-teams-with-fish-and-punch-the-freeloaders",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "octopuses-taste-what-they-touch-through-their-suckers",
+   "title": "Octopuses Taste What They Touch Through Their Suckers",
+   "summary": "Octopuses can taste with their arms.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://news.harvard.edu/gazette/story/2020/10/octopus-suction-cups-hold-its-taste-and-touch-sensors/",
+   "source_domain": "news.harvard.edu",
+   "factcovery": "https://www.factcovery.com/facts/octopuses-taste-what-they-touch-through-their-suckers",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "over-99-of-earths-habitable-space-resides-in-the-ocean",
+   "title": "The Ocean Makes Up About 99% of the Living Space on Earth",
+   "summary": "Measured by volume, the ocean makes up about 99% of the living space on Earth, according to the United Nations.",
+   "topics": [
+    "earth",
+    "ocean",
+    "biology",
+    "ecology",
+    "habitat",
+    "biodiversity",
+    "marine-life",
+    "deep-sea",
+    "ecosystems",
+    "ecosystem"
+   ],
+   "source": "https://sdgs.un.org/sites/default/files/2025-04/Facts%26Figures_UN%20Ocean%20Conference%202025_EN.pdf",
+   "source_domain": "sdgs.un.org",
+   "factcovery": "https://www.factcovery.com/facts/over-99-of-earths-habitable-space-resides-in-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "parrotfish-eat-coral-and-poop-out-white-sand-beaches",
+   "title": "Parrotfish Grind Up Reef Rock and Excrete It as Sand",
+   "summary": "Parrotfish turn reef rock into sand.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird",
+    "fun"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Parrotfish",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/parrotfish-eat-coral-and-poop-out-white-sand-beaches",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "paul-the-octopus-correctly-picked-all-8-of-his-2010-world-cup-matches",
+   "title": "Paul the Octopus Correctly Picked All 8 of His 2010 World Cup Matches",
+   "summary": "During the 2010 FIFA World Cup, an octopus named Paul at the Sea Life Centre in Oberhausen, Germany, became world famous for \"predicting\" match results.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Paul_the_Octopus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/paul-the-octopus-correctly-picked-all-8-of-his-2010-world-cup-matches",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "puffer-fish-are-the-second-most-poisonous-vertebrate-on-earth",
+   "title": "One Pufferfish Carries Enough Toxin to Kill 30 Adults",
+   "summary": "Almost all pufferfish contain tetrodotoxin, and a single fish carries enough of it to kill 30 adult humans.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird"
+   ],
+   "source": "https://www.nationalgeographic.com/animals/fish/facts/pufferfish",
+   "source_domain": "nationalgeographic.com",
+   "factcovery": "https://www.factcovery.com/facts/puffer-fish-are-the-second-most-poisonous-vertebrate-on-earth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "salmon-return-to-exactly-the-same-river-where-they-were-born",
+   "title": "Salmon Find Their Home River Using Earth's Magnetic Field",
+   "summary": "Pacific salmon return from the open ocean to spawn in the river where they were born, and evidence suggests Earth's magnetic field guides them there.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "biology"
+   ],
+   "source": "https://www.sciencedaily.com/releases/2013/02/130207131713.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/salmon-return-to-exactly-the-same-river-where-they-were-born",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sand-tiger-shark-embryos-eat-their-siblings-before-birth",
+   "title": "Sand Tiger Shark Embryos Eat Their Siblings Before Birth",
+   "summary": "Sand tiger sharks start eating each other before they are born.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sand_tiger_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/sand-tiger-shark-embryos-eat-their-siblings-before-birth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "sleeping-octopuses-flash-through-colors-during-an-active-sleep-stage",
+   "title": "Sleeping Octopuses Flash Through Colors During an Active Sleep Stage",
+   "summary": "Octopuses appear to have two sleep stages.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.sciencenews.org/article/octopus-sleep-stages-active-color-quiet-rem-brain",
+   "source_domain": "sciencenews.org",
+   "factcovery": "https://www.factcovery.com/facts/sleeping-octopuses-flash-through-colors-during-an-active-sleep-stage",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "stingray-city-allows-visitors-to-swim-with-wild-southern-stingrays",
+   "title": "Stingray City Lets Visitors Stand Among Wild Southern Stingrays",
+   "summary": "Stingray City is a series of shallow sandbars in Grand Cayman's North Sound where visitors can stand in about 3 feet (1 metre) of water surrounded by wild southern stingrays.",
+   "topics": [
+    "cayman-islands",
+    "ocean",
+    "animals",
+    "tourism",
+    "fun",
+    "stingray-city",
+    "southern-stingray",
+    "marine-life",
+    "snorkeling",
+    "grand-cayman"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Stingray_City",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/stingray-city-allows-visitors-to-swim-with-wild-southern-stingrays",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-bonnethead-was-the-first-shark-found-to-be-omnivorous",
+   "title": "The Bonnethead Was the First Shark Found to Be Omnivorous",
+   "summary": "The bonnethead, a small shark in the hammerhead family, eats large amounts of seagrass.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bonnethead",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-bonnethead-was-the-first-shark-found-to-be-omnivorous",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-cookiecutter-shark-bites-round-plugs-out-of-whales-and-submarines",
+   "title": "The Cookiecutter Shark Bites Round Plugs Out of Whales and Submarines",
+   "summary": "The cookiecutter shark grows to a maximum recorded length of only 42 centimetres for males and 56 centimetres for females, yet it feeds on animals far larger than itself by gouging round plugs of flesh out of them, as if with a cookie…",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Cookiecutter_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-cookiecutter-shark-bites-round-plugs-out-of-whales-and-submarines",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-deep-sea-dragonfish-has-transparent-teeth",
+   "title": "The Deep-Sea Dragonfish Has Transparent Teeth",
+   "summary": "The deep-sea dragonfish Aristostomias scintillans has teeth that are nearly invisible because they are transparent.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird",
+    "biology"
+   ],
+   "source": "https://scripps.ucsd.edu/news/researchers-discover-what-makes-deep-sea-dragonfish-teeth-transparent",
+   "source_domain": "scripps.ucsd.edu",
+   "factcovery": "https://www.factcovery.com/facts/the-deep-sea-dragonfish-has-transparent-teeth",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-deepest-ocean-trenches-are-near-freezing-temperatures",
+   "title": "The Bottom of the Mariana Trench Is Just Above Freezing",
+   "summary": "At the bottom of the Mariana Trench, nearly 11 kilometers down, the water stays at about 1 to 4 °C (34 to 39 °F), just a few degrees above the freezing point of fresh water.",
+   "topics": [
+    "cool",
+    "ocean",
+    "geography",
+    "biology",
+    "deep-sea",
+    "ocean-trench",
+    "mariana-trench",
+    "cold-water",
+    "marine-life",
+    "oceanography"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mariana_Trench",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-deepest-ocean-trenches-are-near-freezing-temperatures",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-epaulette-shark-walks-on-its-fins-and-survives-two-hours-without-oxygen",
+   "title": "The Epaulette Shark Walks on Its Fins and Survives Two Hours Without Oxygen",
+   "summary": "The epaulette shark can walk.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.eurekalert.org/news-releases/962176",
+   "source_domain": "eurekalert.org",
+   "factcovery": "https://www.factcovery.com/facts/the-epaulette-shark-walks-on-its-fins-and-survives-two-hours-without-oxygen",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-humboldt-squid-can-communicate-using-rapid-skin-colour-changes",
+   "title": "Humboldt Squid May Signal to Each Other With Glowing Skin Patterns",
+   "summary": "Humboldt squid appear to use changing skin patterns to signal to one another in the dark waters where they hunt.",
+   "topics": [
+    "biology",
+    "marine-life",
+    "animal-communication",
+    "zoology"
+   ],
+   "source": "https://www.mbari.org/humboldt-squid-signaling/",
+   "source_domain": "mbari.org",
+   "factcovery": "https://www.factcovery.com/facts/the-humboldt-squid-can-communicate-using-rapid-skin-colour-changes",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-immortal-jellyfish-resets-its-own-biological-clock",
+   "title": "The 'Immortal Jellyfish' Can Turn Back Into a Juvenile Polyp",
+   "summary": "Turritopsis dohrnii, a jellyfish with a bell only about 4.5 millimetres across, can reverse its life cycle, changing from an adult medusa back into a polyp, the early stage of a jellyfish's life.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Turritopsis_dohrnii",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-immortal-jellyfish-resets-its-own-biological-clock",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-mimic-octopus-can-imitate-over-15-different-species",
+   "title": "The Mimic Octopus Impersonates Lionfish, Sea Snakes and Flatfish",
+   "summary": "The mimic octopus, Thaumoctopus mimicus, disguises itself as other sea animals, changing its colour, shape and behaviour to switch between as many as 18 different models.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mimic_octopus",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-mimic-octopus-can-imitate-over-15-different-species",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-octopus-genome-holds-more-protein-coding-genes-than-the-human-genome",
+   "title": "The Octopus Genome Holds More Protein-Coding Genes Than the Human Genome",
+   "summary": "In 2015 the California two-spot octopus became the first cephalopod to have its genome fully sequenced, and it turned out to carry more than 33,000 protein-coding genes.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.uchicagomedicine.org/forefront/news/2015/august/octopus-genome-sequenced",
+   "source_domain": "uchicagomedicine.org",
+   "factcovery": "https://www.factcovery.com/facts/the-octopus-genome-holds-more-protein-coding-genes-than-the-human-genome",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-shortfin-mako-is-the-fastest-shark-in-the-ocean",
+   "title": "The Shortfin Mako Is the Fastest Shark in the Ocean",
+   "summary": "The shortfin mako is the fastest known shark and one of the fastest fish.",
+   "topics": [
+    "sharks",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/the-shortfin-mako-is-the-fastest-shark-in-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "the-tiny-blue-ringed-octopus-has-deadly-venom-and-no-antivenom",
+   "title": "The Tiny Blue-Ringed Octopus Has Deadly Venom and No Antivenom",
+   "summary": "Blue-ringed octopuses are small, around 12 to 22 centimeters long, yet their venom contains tetrodotoxin, a powerful neurotoxin, and there is no antivenom for their bite.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://www.australiangeographic.com.au/?p=326727",
+   "source_domain": "australiangeographic.com.au",
+   "factcovery": "https://www.factcovery.com/facts/the-tiny-blue-ringed-octopus-has-deadly-venom-and-no-antivenom",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tuna-can-maintain-body-temperature-warmer-than-the-ocean",
+   "title": "Bluefin Tuna Keep Their Bodies Warmer Than the Ocean Around Them",
+   "summary": "Atlantic bluefin tuna keep their bodies far warmer than the water they swim in, holding a temperature of about 25 to 33°C even in the cold North Atlantic.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/tuna-can-maintain-body-temperature-warmer-than-the-ocean",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "whale-sharks-are-the-largest-fish-but-eat-only-tiny-plankton",
+   "title": "Whale Sharks Are the Largest Fish but Feed on Tiny Plankton",
+   "summary": "The whale shark is the largest living fish, yet it feeds mostly on some of the smallest food in the sea.",
+   "topics": [
+    "fish",
+    "marine-life",
+    "science",
+    "biology"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Whale_shark",
+   "source_domain": "en.wikipedia.org",
+   "factcovery": "https://www.factcovery.com/facts/whale-sharks-are-the-largest-fish-but-eat-only-tiny-plankton",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "wild-octopuses-throw-silt-and-shells-sometimes-hitting-each-other",
+   "title": "Wild Octopuses Throw Silt and Shells, Sometimes Hitting Each Other",
+   "summary": "Gloomy octopuses in Jervis Bay, Australia, have been filmed throwing silt, shells and algae, the first time throwing behavior has been reported in octopuses.",
+   "topics": [
+    "octopus",
+    "marine-life",
+    "weird"
+   ],
+   "source": "https://sciencedaily.com/releases/2022/11/221109151933.htm",
+   "source_domain": "sciencedaily.com",
+   "factcovery": "https://www.factcovery.com/facts/wild-octopuses-throw-silt-and-shells-sometimes-hitting-each-other",
+   "updated": "2026-11-17"
+  }
+ ]
+}
